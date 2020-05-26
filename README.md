@@ -5,6 +5,7 @@ A curated list of awesome machine learning engineering tools.
 Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Awesome MLE Tools](#awesome-mle-tools)
+    - [Cron Job Monitoring](#cron-job-monitoring)
     - [Data Exploration](#data-exploration)
     - [Data Processing](#data-processing)
     - [Data Version Control](#data-version-control)
@@ -12,10 +13,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Feature Store](#feature-store)
     - [Hyperparameter Tuning](#hyperparameter-tuning )
     - [Knowledge Sharing](#knowledge-sharing)
-    - [Library](#library)
-    - [Machine Learning Lifecycle](#machine-learning-lifecycle)
     - [Machine Learning Platform](#machine-learning-platform)
+    - [Model Lifecycle](#model-lifecycle)
     - [Model Serving](#model-serving)
+    - [Other Libraries](#other-libraries)
     - [Workflow Frameworks](#workflow-frameworks)
 - [Resources](#resources)
     - [Articles](#articles)
@@ -26,7 +27,15 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ---
 
+## Cron Job Monitoring
+
+*Tools for monitoring cron jobs (recurring jobs).*
+
+* [HealthchecksIO](https://healthchecks.io/) - Simple and Effective Cron Job Monitoring.
+
 ## Data Exploration
+
+*Tools for performing data exploration.*
 
 - [Google Colab](https://colab.research.google.com) - Hosted Jupyter notebook service that requires no setup to use.
 - [Jupyter Notebook](https://jupyter.org/) - Web-based notebook environment for interactive computing.
@@ -34,15 +43,21 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Data Processing
 
+*Tools related to data processing and data pipelines.*
+
 * [Airflow](https://airflow.apache.org/) - Platform to programmatically author, schedule, and monitor workflows.
 * [Hadoop](https://hadoop.apache.org/) - Framework that allows for the distributed processing of large data sets across clusters of computers.
 * [Spark](https://spark.apache.org/) - Unified analytics engine for large-scale data processing.
 
 ## Data Version Control
 
+*Tools for performing data version control.*
+
 * [DVC](https://dvc.org/) - Management and versioning of datasets and machine learning models.
 
 ## Data Visualization
+
+*Tools for data visualization, reports and dashboards.*
 
 * [Data Studio](https://datastudio.google.com) - Reporting solution for power users who want to go beyond the data and dashboards of Google Analytics.
 * [Metabase](https://www.metabase.com/) - The simplest, fastest way to get business intelligence and analytics to everyone.
@@ -52,26 +67,24 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Feature Store
 
+*Feature store tools for data serving.*
+
 * [Feast](https://feast.dev/) - End-to-end open source feature store for machine learning.
 * [Tecton](https://tecton.ai/) - The Data Platform for Machine Learning.
 
 ## Hyperparameter Tuning
+
+*Tools and libraries to perform hyperparameter tuning.*
 
 * [Katib](https://github.com/kubeflow/katib) - Kubernetes-based system for Hyperparameter Tuning and Neural Architecture Search.
 * [Tune](https://docs.ray.io/en/latest/tune.html) - Python library for experiment execution and hyperparameter tuning at any scale.
 
 ## Knowledge Sharing
 
+*Tools for sharing knowledge to the entire team/company.*
+
 * [Knowledge Repo](https://github.com/airbnb/knowledge-repo) - Knowledge sharing platform for data scientists and other technical professions.
 * [Kyso](https://kyso.io/) - One place for data insights so your entire team can learn from your data.
-
-## Library
-
-* [MLlib](https://spark.apache.org/mllib/) - Apache Spark's scalable machine learning library.
-
-## Machine Learning Lifecycle
-
-* [Mlflow](https://mlflow.org/) - Open source platform for the machine learning lifecycle.
 
 ## Machine Learning Platform
 
@@ -84,7 +97,15 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Modzy](https://www.modzy.com/) - AI platform and marketplace offering scalable, secure, and ready-to-deploy AI models.
 * [Pachyderm](https://www.pachyderm.com/) - Combines Data Lineage with End-to-End Pipelines on Kubernetes, engineered for the enterprise.
 
+## Model Lifecycle
+
+*Tools for managing model lifecycle (tracking experiments, parameters and metrics).*
+
+* [Mlflow](https://mlflow.org/) - Open source platform for the machine learning lifecycle.
+
 ## Model Serving
+
+*Tools for serving models in production.*
 
 * [BentoML](https://bentoml.org) - Open-source platform for high-performance ML model serving.
 * [Cortex](https://www.cortex.dev/) - Machine learning model serving infrastructure.
@@ -93,15 +114,23 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Seldon](https://www.seldon.io/) - Take your ML projects from POC to production with maximum efficiency and minimal risk. 
 * [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving) - Flexible, high-performance serving system for machine learning models, designed for production.
 
+## Other Libraries
+
+*Other machine learning libraries related to model scalability in production.*
+
+* [MLlib](https://spark.apache.org/mllib/) - Apache Spark's scalable machine learning library.
+* [Modin](https://github.com/modin-project/modin) - Speed up your Pandas workflows by changing a single line of code.
+* [Ray](https://github.com/ray-project/ray) - Fast and simple framework for building and running distributed applications.
+
 ## Workflow Frameworks
+
+*Frameworks to create workflows or pipelines in the machine learning context.*
 
 * [Kedro](https://github.com/quantumblacklabs/kedro) - Library that implements software engineering best-practice for data and ML pipelines.
 * [Metaflow](https://metaflow.org/) - Human-friendly library that helps scientists and engineers build and manage real-life data science projects. 
 
 ---
 
-* [Healthchecks](https://healthchecks.io/) - Simple and Effective Cron Job Monitoring.
-* [Ray](https://github.com/ray-project/ray) - Fast and simple framework for building and running distributed applications.
 * Tpot: https://github.com/EpistasisLab/tpot
 * Neptune AI: https://neptune.ai/
 * Singa: http://singa.apache.org/en/index.html
@@ -119,6 +148,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 # Resources
 
+Where to discover new tools and discuss about existing ones.
+
 ## Articles
 
 * [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html) (Martin Fowler)
@@ -126,11 +157,20 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Podcasts
 
+* [Kubernetes Podcast from Google](https://kubernetespodcast.com/)
+* [Machine Learning – Software Engineering Daily](https://podcasts.google.com/?feed=aHR0cHM6Ly9zb2Z0d2FyZWVuZ2luZWVyaW5nZGFpbHkuY29tL2NhdGVnb3J5L21hY2hpbmUtbGVhcm5pbmcvZmVlZC8)
+* [MLOps.community](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xNzRjYjFiOC9wb2RjYXN0L3Jzcw)
+* [This Week in Machine Learning & AI](https://twimlai.com/)
+
 ## Slack
 
 * [Kubeflow Workspace](https://kubeflow.slack.com/#/)
 
 ## Websites
+
+* [Feature Stores for ML](http://featurestore.org/)
+* [MLOps](https://mlops.org/)
+* [MLOPs Community](https://mlops.community/)
 
 # Contributing
 
