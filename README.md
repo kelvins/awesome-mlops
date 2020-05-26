@@ -88,20 +88,27 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Machine Learning Platform
 
-* [DataRobot](https://www.datarobot.com/) - Description
+* [Algorithmia](https://algorithmia.com/) - Securely govern your machine learning operations with a healthy ML lifecycle.
+* [CNVRG](https://cnvrg.io/) - An end-to-end machine learning platform to build and deploy AI models at scale.
+* [Dataiku](https://www.dataiku.com/) - Platform democratizing access to data and enabling enterprises to build their own path to AI.
+* [DataRobot](https://www.datarobot.com/) - AI platform that democratizes data science and automates the end-to-end machine learning at scale.
 * [Domino](https://www.dominodatalab.com/) - One place for your data science tools, apps, results, models, and knowledge.
 * [H2O](https://www.h2o.ai/) - Open source leader in AI with a mission to democratize AI for everyone. 
-* [Hopsworks](https://www.hopsworks.ai/) - Description
+* [Hopsworks](https://www.hopsworks.ai/) - Open-source platform for developing and operating Machine Learning models at scale.
+* [Iguazio](https://www.iguazio.com/) - Data Science Platform that automates MLOps with end-to-end machine learning pipelines.
 * [Knime](https://www.knime.com/) - Create and productionize data science using one easy and intuitive environment.
 * [Kubeflow](https://www.kubeflow.org/) - Making deployments of machine learning (ML) workflows on Kubernetes simple, portable and scalable.
 * [Modzy](https://www.modzy.com/) - AI platform and marketplace offering scalable, secure, and ready-to-deploy AI models.
 * [Pachyderm](https://www.pachyderm.com/) - Combines Data Lineage with End-to-End Pipelines on Kubernetes, engineered for the enterprise.
+* [Sagemaker](https://aws.amazon.com/sagemaker/) - Fully managed service that provides the ability to build, train, and deploy ML models quickly.
 
 ## Model Lifecycle
 
 *Tools for managing model lifecycle (tracking experiments, parameters and metrics).*
 
+* [Comet](https://www.comet.ml/site/) - Track your datasets, code changes, experimentation history, and models.
 * [Mlflow](https://mlflow.org/) - Open source platform for the machine learning lifecycle.
+* [Neptune AI](https://neptune.ai/) - The most lightweight experiment management tool that fits any workflow.
 
 ## Model Serving
 
@@ -111,6 +118,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Cortex](https://www.cortex.dev/) - Machine learning model serving infrastructure.
 * [GraphPipe](https://oracle.github.io/graphpipe) - Machine Learning Model Deployment Made Simple.
 * [KFServing](https://github.com/kubeflow/kfserving) - Kubernetes Custom Resource Definition for serving machine learning (ML) models on arbitrary frameworks.
+* [PredictionIO](https://github.com/apache/predictionio) - Supports event collection, deployment of algorithms, evaluation, querying predictive results via REST APIs.
 * [Seldon](https://www.seldon.io/) - Take your ML projects from POC to production with maximum efficiency and minimal risk. 
 * [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving) - Flexible, high-performance serving system for machine learning models, designed for production.
 
@@ -119,32 +127,21 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Other machine learning libraries related to model scalability in production.*
 
 * [MLlib](https://spark.apache.org/mllib/) - Apache Spark's scalable machine learning library.
+* [Mahout](https://mahout.apache.org/) - Distributed linear algebra framework and mathematically expressive Scala DSL.
 * [Modin](https://github.com/modin-project/modin) - Speed up your Pandas workflows by changing a single line of code.
 * [Ray](https://github.com/ray-project/ray) - Fast and simple framework for building and running distributed applications.
+* [Singa](http://singa.apache.org/en/index.html) - Apache Top Level Project, focusing on distributed training of deep learning and machine learning models.
+* [Tpot](https://github.com/EpistasisLab/tpot) - Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
 
-## Workflow Frameworks
+## Workflow Tools/Frameworks
 
-*Frameworks to create workflows or pipelines in the machine learning context.*
+*Tools and frameworks to create workflows or pipelines in the machine learning context.*
 
+* [Argo](https://github.com/argoproj/argo) - Open source container-native workflow engine for orchestrating parallel jobs on Kubernetes.
 * [Kedro](https://github.com/quantumblacklabs/kedro) - Library that implements software engineering best-practice for data and ML pipelines.
 * [Metaflow](https://metaflow.org/) - Human-friendly library that helps scientists and engineers build and manage real-life data science projects. 
 
 ---
-
-* Tpot: https://github.com/EpistasisLab/tpot
-* Neptune AI: https://neptune.ai/
-* Singa: http://singa.apache.org/en/index.html
-* PaperSpace: https://www.paperspace.com/
-* Algorithmia: https://algorithmia.com/
-* Iguazio: https://www.iguazio.com/
-* CNVRG: https://cnvrg.io/
-* Dataiku: https://www.dataiku.com/
-* Sagemaker: https://aws.amazon.com/sagemaker/
-* Comet: https://www.comet.ml/site/
-* ParlAI: https://github.com/facebookresearch/ParlAI
-* Mahout: https://mahout.apache.org/
-* Argo: https://github.com/argoproj/argo
-* PredictionIO: https://predictionio.apache.org/
 
 # Resources
 
