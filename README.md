@@ -17,7 +17,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Model Lifecycle](#model-lifecycle)
     - [Model Serving](#model-serving)
     - [Other Libraries](#other-libraries)
-    - [Workflow Frameworks](#workflow-frameworks)
+    - [Workflow Tools](#workflow-tools)
 - [Resources](#resources)
     - [Articles](#articles)
     - [Podcasts](#podcasts)
@@ -133,7 +133,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Singa](http://singa.apache.org/en/index.html) - Apache Top Level Project, focusing on distributed training of deep learning and machine learning models.
 * [Tpot](https://github.com/EpistasisLab/tpot) - Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
 
-## Workflow Tools/Frameworks
+## Workflow Tools
 
 *Tools and frameworks to create workflows or pipelines in the machine learning context.*
 
