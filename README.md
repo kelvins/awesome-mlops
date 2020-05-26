@@ -18,6 +18,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Model Serving](#model-serving)
     - [Workflow Frameworks](#workflow-frameworks)
 - [Resources](#resources)
+    - [Articles](#articles)
     - [Podcasts](#podcasts)
     - [Slack](#slack)
     - [Websites](#websites)
@@ -120,7 +121,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Articles
 
-* [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html)
+* [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html) (Martin Fowler)
+* [Continuous delivery for machine learning](https://www.thoughtworks.com/pt/insights/articles/intelligent-enterprise-series-cd4ml) (ThoughtWorks)
 
 ## Podcasts
 
