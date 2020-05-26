@@ -88,6 +88,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Machine Learning Platform
 
+*Complete machine learning platform solutions.*
+
 * [Algorithmia](https://algorithmia.com/) - Securely govern your machine learning operations with a healthy ML lifecycle.
 * [CNVRG](https://cnvrg.io/) - An end-to-end machine learning platform to build and deploy AI models at scale.
 * [Dataiku](https://www.dataiku.com/) - Platform democratizing access to data and enabling enterprises to build their own path to AI.
