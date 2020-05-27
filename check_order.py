@@ -1,5 +1,6 @@
 
 def main(path):
+    """Check if menus are alphabetically sorted."""
     data = list()
     with open(path, 'r') as f:
         lines = f.readlines()
