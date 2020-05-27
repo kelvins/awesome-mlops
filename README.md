@@ -1,10 +1,10 @@
-# Awesome MLE Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome MLE [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome machine learning engineering tools.
 
 Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
-- [Awesome MLE Tools](#awesome-mle-tools)
+- [Awesome MLE](#awesome-mle)
     - [Cron Job Monitoring](#cron-job-monitoring)
     - [Data Exploration](#data-exploration)
     - [Data Processing](#data-processing)
