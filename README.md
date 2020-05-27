@@ -11,12 +11,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Data Version Control](#data-version-control)
     - [Data Visualization](#data-visualization)
     - [Feature Store](#feature-store)
-    - [Hyperparameter Tuning](#hyperparameter-tuning )
+    - [Hyperparameter Tuning](#hyperparameter-tuning)
     - [Knowledge Sharing](#knowledge-sharing)
     - [Machine Learning Platform](#machine-learning-platform)
     - [Model Lifecycle](#model-lifecycle)
     - [Model Serving](#model-serving)
-    - [Other Libraries](#other-libraries)
+    - [Optimization Tools](#optimization-tools)
     - [Workflow Tools](#workflow-tools)
 - [Resources](#resources)
     - [Articles](#articles)
@@ -31,7 +31,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools for monitoring cron jobs (recurring jobs).*
 
-* [HealthchecksIO](https://healthchecks.io/) - Simple and Effective Cron Job Monitoring.
+* [HealthchecksIO](https://healthchecks.io/) - Simple and effective cron job monitoring.
 
 ## Data Exploration
 
@@ -63,20 +63,20 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Metabase](https://www.metabase.com/) - The simplest, fastest way to get business intelligence and analytics to everyone.
 * [Redash](https://redash.io/) - Connect to any data source, easily visualize, dashboard and share your data.
 * [Superset](https://superset.incubator.apache.org/) - Modern, enterprise-ready business intelligence web application.
-* [Tableau](https://www.tableau.com) - Powerful and fastest growing data visualization tool used in the Business Intelligence Industry.
+* [Tableau](https://www.tableau.com) - Powerful and fastest growing data visualization tool used in the business intelligence industry.
 
 ## Feature Store
 
 *Feature store tools for data serving.*
 
 * [Feast](https://feast.dev/) - End-to-end open source feature store for machine learning.
-* [Tecton](https://tecton.ai/) - The Data Platform for Machine Learning.
+* [Tecton](https://tecton.ai/) - The data platform for machine learning.
 
 ## Hyperparameter Tuning
 
 *Tools and libraries to perform hyperparameter tuning.*
 
-* [Katib](https://github.com/kubeflow/katib) - Kubernetes-based system for Hyperparameter Tuning and Neural Architecture Search.
+* [Katib](https://github.com/kubeflow/katib) - Kubernetes-based system for hyperparameter tuning and neural architecture search.
 * [Tune](https://docs.ray.io/en/latest/tune.html) - Python library for experiment execution and hyperparameter tuning at any scale.
 
 ## Knowledge Sharing
@@ -95,13 +95,13 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Dataiku](https://www.dataiku.com/) - Platform democratizing access to data and enabling enterprises to build their own path to AI.
 * [DataRobot](https://www.datarobot.com/) - AI platform that democratizes data science and automates the end-to-end machine learning at scale.
 * [Domino](https://www.dominodatalab.com/) - One place for your data science tools, apps, results, models, and knowledge.
-* [H2O](https://www.h2o.ai/) - Open source leader in AI with a mission to democratize AI for everyone. 
-* [Hopsworks](https://www.hopsworks.ai/) - Open-source platform for developing and operating Machine Learning models at scale.
-* [Iguazio](https://www.iguazio.com/) - Data Science Platform that automates MLOps with end-to-end machine learning pipelines.
+* [H2O](https://www.h2o.ai/) - Open source leader in AI with a mission to democratize AI for everyone.
+* [Hopsworks](https://www.hopsworks.ai/) - Open-source platform for developing and operating machine learning models at scale.
+* [Iguazio](https://www.iguazio.com/) - Data science platform that automates MLOps with end-to-end machine learning pipelines.
 * [Knime](https://www.knime.com/) - Create and productionize data science using one easy and intuitive environment.
 * [Kubeflow](https://www.kubeflow.org/) - Making deployments of machine learning (ML) workflows on Kubernetes simple, portable and scalable.
 * [Modzy](https://www.modzy.com/) - AI platform and marketplace offering scalable, secure, and ready-to-deploy AI models.
-* [Pachyderm](https://www.pachyderm.com/) - Combines Data Lineage with End-to-End Pipelines on Kubernetes, engineered for the enterprise.
+* [Pachyderm](https://www.pachyderm.com/) - Combines data lineage with end-to-end pipelines on Kubernetes, engineered for the enterprise.
 * [Sagemaker](https://aws.amazon.com/sagemaker/) - Fully managed service that provides the ability to build, train, and deploy ML models quickly.
 
 ## Model Lifecycle
@@ -118,22 +118,23 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [BentoML](https://bentoml.org) - Open-source platform for high-performance ML model serving.
 * [Cortex](https://www.cortex.dev/) - Machine learning model serving infrastructure.
-* [GraphPipe](https://oracle.github.io/graphpipe) - Machine Learning Model Deployment Made Simple.
-* [KFServing](https://github.com/kubeflow/kfserving) - Kubernetes Custom Resource Definition for serving machine learning (ML) models on arbitrary frameworks.
+* [GraphPipe](https://oracle.github.io/graphpipe) - Machine learning model deployment made simple.
+* [KFServing](https://github.com/kubeflow/kfserving) - Kubernetes custom resource definition for serving machine learning (ML) models on arbitrary frameworks.
 * [PredictionIO](https://github.com/apache/predictionio) - Supports event collection, deployment of algorithms, evaluation, querying predictive results via REST APIs.
-* [Seldon](https://www.seldon.io/) - Take your ML projects from POC to production with maximum efficiency and minimal risk. 
+* [Seldon](https://www.seldon.io/) - Take your ML projects from POC to production with maximum efficiency and minimal risk.
 * [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving) - Flexible, high-performance serving system for machine learning models, designed for production.
 
-## Other Libraries
+## Optimization Tools
 
-*Other machine learning libraries related to model scalability in production.*
+*Optimization tools related to model scalability in production.*
 
+* [Dask](https://dask.org/) - Provides advanced parallelism for analytics, enabling performance at scale for the tools you love.
 * [Mahout](https://mahout.apache.org/) - Distributed linear algebra framework and mathematically expressive Scala DSL.
 * [MLlib](https://spark.apache.org/mllib/) - Apache Spark's scalable machine learning library.
 * [Modin](https://github.com/modin-project/modin) - Speed up your Pandas workflows by changing a single line of code.
 * [Ray](https://github.com/ray-project/ray) - Fast and simple framework for building and running distributed applications.
-* [Singa](http://singa.apache.org/en/index.html) - Apache Top Level Project, focusing on distributed training of deep learning and machine learning models.
-* [Tpot](https://github.com/EpistasisLab/tpot) - Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
+* [Singa](http://singa.apache.org/en/index.html) - Apache top level project, focusing on distributed training of deep learning and machine learning models.
+* [Tpot](https://github.com/EpistasisLab/tpot) - Automated machine learning tool that optimizes machine learning pipelines using genetic programming.
 
 ## Workflow Tools
 
@@ -141,7 +142,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Argo](https://github.com/argoproj/argo) - Open source container-native workflow engine for orchestrating parallel jobs on Kubernetes.
 * [Kedro](https://github.com/quantumblacklabs/kedro) - Library that implements software engineering best-practice for data and ML pipelines.
-* [Metaflow](https://metaflow.org/) - Human-friendly library that helps scientists and engineers build and manage real-life data science projects. 
+* [Metaflow](https://metaflow.org/) - Human-friendly library that helps scientists and engineers build and manage real-life data science projects.
+* [Prefect](https://docs.prefect.io/) - A workflow management system, designed for modern infrastructure.
 
 ---
 
