@@ -70,7 +70,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Feature store tools for data serving.*
 
 * [Feast](https://feast.dev/) - End-to-end open source feature store for machine learning.
-* [Tecton](https://tecton.ai/) - The data platform for machine learning.
 
 ## Hyperparameter Tuning
 
