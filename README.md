@@ -155,6 +155,7 @@ Where to discover new tools and discuss about existing ones.
 * [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html) (Martin Fowler)
 * [Continuous delivery for machine learning](https://www.thoughtworks.com/pt/insights/articles/intelligent-enterprise-series-cd4ml) (ThoughtWorks)
 * [Delivering on the Vision of MLOps: A maturity-based approach](https://azure.microsoft.com/mediahandler/files/resourcefiles/gigaom-Delivering-on-the-Vision-of-MLOps/Delivering%20on%20the%20Vision%20of%20MLOps.pdf) (GigaOm)
+* [MLOps: Continuous delivery and automation pipelines in machine learning](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) (Google)
 
 ## Podcasts
 
