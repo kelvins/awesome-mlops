@@ -167,6 +167,7 @@ Where to discover new tools and discuss about existing ones.
 ## Slack
 
 * [Kubeflow Workspace](https://kubeflow.slack.com/#/)
+* [MLOPs Community Wokspace](https://mlops-community.slack.com)
 
 ## Websites
 
