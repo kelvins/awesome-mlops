@@ -94,6 +94,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Dataiku](https://www.dataiku.com/) - Platform democratizing access to data and enabling enterprises to build their own path to AI.
 * [DataRobot](https://www.datarobot.com/) - AI platform that democratizes data science and automates the end-to-end machine learning at scale.
 * [Domino](https://www.dominodatalab.com/) - One place for your data science tools, apps, results, models, and knowledge.
+* [Gradient](https://gradient.paperspace.com/) - Multicloud CI/CD and MLOps platform for machine learning teams.
 * [H2O](https://www.h2o.ai/) - Open source leader in AI with a mission to democratize AI for everyone.
 * [Hopsworks](https://www.hopsworks.ai/) - Open-source platform for developing and operating machine learning models at scale.
 * [Iguazio](https://www.iguazio.com/) - Data science platform that automates MLOps with end-to-end machine learning pipelines.
@@ -152,6 +153,7 @@ Where to discover new tools and discuss about existing ones.
 
 ## Articles
 
+* [AI Wiki](https://docs.paperspace.com/machine-learning/) (Paperspace)
 * [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html) (Martin Fowler)
 * [Continuous delivery for machine learning](https://www.thoughtworks.com/pt/insights/articles/intelligent-enterprise-series-cd4ml) (ThoughtWorks)
 * [Delivering on the Vision of MLOps: A maturity-based approach](https://azure.microsoft.com/mediahandler/files/resourcefiles/gigaom-Delivering-on-the-Vision-of-MLOps/Delivering%20on%20the%20Vision%20of%20MLOps.pdf) (GigaOm)
