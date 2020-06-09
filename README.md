@@ -94,6 +94,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Dataiku](https://www.dataiku.com/) - Platform democratizing access to data and enabling enterprises to build their own path to AI.
 * [DataRobot](https://www.datarobot.com/) - AI platform that democratizes data science and automates the end-to-end machine learning at scale.
 * [Domino](https://www.dominodatalab.com/) - One place for your data science tools, apps, results, models, and knowledge.
+* [Gradient](https://gradient.paperspace.com/) - Multicloud CI/CD and MLOps platform for machine learning teams.
 * [H2O](https://www.h2o.ai/) - Open source leader in AI with a mission to democratize AI for everyone.
 * [Hopsworks](https://www.hopsworks.ai/) - Open-source platform for developing and operating machine learning models at scale.
 * [Iguazio](https://www.iguazio.com/) - Data science platform that automates MLOps with end-to-end machine learning pipelines.
