@@ -100,6 +100,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Iguazio](https://www.iguazio.com/) - Data science platform that automates MLOps with end-to-end machine learning pipelines.
 * [Knime](https://www.knime.com/) - Create and productionize data science using one easy and intuitive environment.
 * [Kubeflow](https://www.kubeflow.org/) - Making deployments of machine learning (ML) workflows on Kubernetes simple, portable and scalable.
+* [LynxKite](https://lynxkite.com/) - A complete graph data science platform for very large graphs and other datasets.
 * [Modzy](https://www.modzy.com/) - AI platform and marketplace offering scalable, secure, and ready-to-deploy AI models.
 * [Pachyderm](https://www.pachyderm.com/) - Combines data lineage with end-to-end pipelines on Kubernetes, engineered for the enterprise.
 * [Sagemaker](https://aws.amazon.com/sagemaker/) - Fully managed service that provides the ability to build, train, and deploy ML models quickly.
