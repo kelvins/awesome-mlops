@@ -1,10 +1,10 @@
-# Awesome MLE [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome MLOps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome machine learning engineering tools.
+A curated list of awesome MLOps tools.
 
 Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
-- [Awesome MLE](#awesome-mle)
+- [Awesome MLOps](#awesome-mlops)
     - [Cron Job Monitoring](#cron-job-monitoring)
     - [Data Exploration](#data-exploration)
     - [Data Processing](#data-processing)
@@ -177,8 +177,8 @@ Where to discover new tools and discuss about existing ones.
 
 * [Feature Stores for ML](http://featurestore.org/)
 * [MLOps](https://mlops.org/)
-* [MLOPs Community](https://mlops.community/)
+* [MLOps Community](https://mlops.community/)
 
 # Contributing
 
-All contributions are welcome! Please take a look at the [contribution guidelines](https://github.com/kelvins/awesome-mle-tools/blob/master/CONTRIBUTING.md) first.
+All contributions are welcome! Please take a look at the [contribution guidelines](https://github.com/kelvins/awesome-mlops/blob/master/CONTRIBUTING.md) first.
