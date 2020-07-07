@@ -59,7 +59,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools for data visualization, reports and dashboards.*
 
-* [Data Studio](https://datastudio.google.com) - Reporting solution for power users who want to go beyond the data and dashboards of Google Analytics.
+* [Data Studio](https://datastudio.google.com) - Reporting solution for power users who want to go beyond the data and dashboards of GA.
 * [Metabase](https://www.metabase.com/) - The simplest, fastest way to get business intelligence and analytics to everyone.
 * [Redash](https://redash.io/) - Connect to any data source, easily visualize, dashboard and share your data.
 * [Superset](https://superset.incubator.apache.org/) - Modern, enterprise-ready business intelligence web application.
@@ -100,7 +100,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Hopsworks](https://www.hopsworks.ai/) - Open-source platform for developing and operating machine learning models at scale.
 * [Iguazio](https://www.iguazio.com/) - Data science platform that automates MLOps with end-to-end machine learning pipelines.
 * [Knime](https://www.knime.com/) - Create and productionize data science using one easy and intuitive environment.
-* [Kubeflow](https://www.kubeflow.org/) - Making deployments of machine learning (ML) workflows on Kubernetes simple, portable and scalable.
+* [Kubeflow](https://www.kubeflow.org/) - Making deployments of ML workflows on Kubernetes simple, portable and scalable.
 * [LynxKite](https://lynxkite.com/) - A complete graph data science platform for very large graphs and other datasets.
 * [Modzy](https://www.modzy.com/) - AI platform and marketplace offering scalable, secure, and ready-to-deploy AI models.
 * [Pachyderm](https://www.pachyderm.com/) - Combines data lineage with end-to-end pipelines on Kubernetes, engineered for the enterprise.
@@ -121,10 +121,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [BentoML](https://bentoml.org) - Open-source platform for high-performance ML model serving.
 * [Cortex](https://www.cortex.dev/) - Machine learning model serving infrastructure.
 * [GraphPipe](https://oracle.github.io/graphpipe) - Machine learning model deployment made simple.
-* [KFServing](https://github.com/kubeflow/kfserving) - Kubernetes custom resource definition for serving machine learning (ML) models on arbitrary frameworks.
-* [PredictionIO](https://github.com/apache/predictionio) - Supports event collection, deployment of algorithms, evaluation, querying predictive results via REST APIs.
+* [KFServing](https://github.com/kubeflow/kfserving) - Kubernetes custom resource definition for serving ML models on arbitrary frameworks.
+* [PredictionIO](https://github.com/apache/predictionio) - Event collection, deployment of algorithms, evaluation, querying predictive results via APIs.
 * [Seldon](https://www.seldon.io/) - Take your ML projects from POC to production with maximum efficiency and minimal risk.
-* [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving) - Flexible, high-performance serving system for machine learning models, designed for production.
+* [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving) - Flexible, high-performance serving system for ML models, designed for production.
 
 ## Optimization Tools
 
@@ -144,7 +144,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Argo](https://github.com/argoproj/argo) - Open source container-native workflow engine for orchestrating parallel jobs on Kubernetes.
 * [Kedro](https://github.com/quantumblacklabs/kedro) - Library that implements software engineering best-practice for data and ML pipelines.
-* [Metaflow](https://metaflow.org/) - Human-friendly library that helps scientists and engineers build and manage real-life data science projects.
+* [Metaflow](https://metaflow.org/) - Human-friendly lib that helps scientists and engineers build and manage data science projects.
 * [Prefect](https://docs.prefect.io/) - A workflow management system, designed for modern infrastructure.
 
 ---
