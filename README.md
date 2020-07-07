@@ -5,6 +5,7 @@ A curated list of awesome MLOps tools.
 Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Awesome MLOps](#awesome-mlops)
+    - [CI/CD for Machine Learning](#cicd-for-machine-learning)
     - [Cron Job Monitoring](#cron-job-monitoring)
     - [Data Exploration](#data-exploration)
     - [Data Processing](#data-processing)
@@ -26,6 +27,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Contributing](#contributing)
 
 ---
+
+## CI/CD for Machine Learning
+
+*Tools for performing CI/CD for Machine Learning.*
+
+* [CML](https://github.com/iterative/cml) - Open-source library for implementing CI/CD in machine learning projects.
 
 ## Cron Job Monitoring
 
