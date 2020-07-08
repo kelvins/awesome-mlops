@@ -47,6 +47,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Google Colab](https://colab.research.google.com) - Hosted Jupyter notebook service that requires no setup to use.
 - [Jupyter Notebook](https://jupyter.org/) - Web-based notebook environment for interactive computing.
 - [JupyterLab](https://jupyterlab.readthedocs.io) - The next-generation user interface for Project Jupyter.
+- [Jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts.
 
 ## Data Processing
 
