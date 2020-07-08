@@ -139,6 +139,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Optimization tools related to model scalability in production.*
 
 * [Dask](https://dask.org/) - Provides advanced parallelism for analytics, enabling performance at scale for the tools you love.
+* [Fiber](https://uber.github.io/fiber/) - Python distributed computing library for modern computer clusters.
 * [Mahout](https://mahout.apache.org/) - Distributed linear algebra framework and mathematically expressive Scala DSL.
 * [MLlib](https://spark.apache.org/mllib/) - Apache Spark's scalable machine learning library.
 * [Modin](https://github.com/modin-project/modin) - Speed up your Pandas workflows by changing a single line of code.
