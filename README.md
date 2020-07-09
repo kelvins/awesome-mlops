@@ -8,8 +8,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [CI/CD for Machine Learning](#cicd-for-machine-learning)
     - [Cron Job Monitoring](#cron-job-monitoring)
     - [Data Exploration](#data-exploration)
+    - [Data Management](#data-management)
     - [Data Processing](#data-processing)
-    - [Data Version Control](#data-version-control)
     - [Data Visualization](#data-visualization)
     - [Feature Store](#feature-store)
     - [Hyperparameter Tuning](#hyperparameter-tuning)
@@ -49,6 +49,13 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [JupyterLab](https://jupyterlab.readthedocs.io) - The next-generation user interface for Project Jupyter.
 - [Jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts.
 
+## Data Management
+
+*Tools for performing data management.*
+
+* [Arrikto](https://www.arrikto.com/) - Dead simple, ultra fast storage for the hybrid Kubernetes world.
+* [DVC](https://dvc.org/) - Management and versioning of datasets and machine learning models.
+
 ## Data Processing
 
 *Tools related to data processing and data pipelines.*
@@ -56,12 +63,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Airflow](https://airflow.apache.org/) - Platform to programmatically author, schedule, and monitor workflows.
 * [Hadoop](https://hadoop.apache.org/) - Framework that allows for the distributed processing of large data sets across clusters of computers.
 * [Spark](https://spark.apache.org/) - Unified analytics engine for large-scale data processing.
-
-## Data Version Control
-
-*Tools for performing data version control.*
-
-* [DVC](https://dvc.org/) - Management and versioning of datasets and machine learning models.
 
 ## Data Visualization
 
