@@ -21,6 +21,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Workflow Tools](#workflow-tools)
 - [Resources](#resources)
     - [Articles](#articles)
+    - [Other Lists](#other-lists)
     - [Podcasts](#podcasts)
     - [Slack](#slack)
     - [Websites](#websites)
@@ -172,6 +173,11 @@ Where to discover new tools and discuss about existing ones.
 * [Continuous delivery for machine learning](https://www.thoughtworks.com/pt/insights/articles/intelligent-enterprise-series-cd4ml) (ThoughtWorks)
 * [Delivering on the Vision of MLOps: A maturity-based approach](https://azure.microsoft.com/mediahandler/files/resourcefiles/gigaom-Delivering-on-the-Vision-of-MLOps/Delivering%20on%20the%20Vision%20of%20MLOps.pdf) (GigaOm)
 * [MLOps: Continuous delivery and automation pipelines in machine learning](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) (Google)
+
+## Other Lists
+
+* [Awesome MLOps](https://github.com/visenger/awesome-mlops)
+* [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
 
 ## Podcasts
 
