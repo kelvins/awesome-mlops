@@ -117,6 +117,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Modzy](https://www.modzy.com/) - AI platform and marketplace offering scalable, secure, and ready-to-deploy AI models.
 * [Pachyderm](https://www.pachyderm.com/) - Combines data lineage with end-to-end pipelines on Kubernetes, engineered for the enterprise.
 * [Sagemaker](https://aws.amazon.com/sagemaker/) - Fully managed service that provides the ability to build, train, and deploy ML models quickly.
+* [Valohai](https://valohai.com/) - Takes you from POC to production while managing the whole model lifecycle.
 
 ## Model Lifecycle
 
