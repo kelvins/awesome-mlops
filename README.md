@@ -57,6 +57,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Arrikto](https://www.arrikto.com/) - Dead simple, ultra fast storage for the hybrid Kubernetes world.
 * [DVC](https://dvc.org/) - Management and versioning of datasets and machine learning models.
+* [Intake](https://github.com/intake/intake) - A lightweight set of tools for loading and sharing data in data science projects.
 
 ## Data Processing
 
