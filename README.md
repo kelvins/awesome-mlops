@@ -159,6 +159,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools related to machine learning simplification and standardization.*
 
+* [Hermione](https://github.com/a3data/hermione) - Help Data Scientists on setting up more organized codes, in a quicker and simpler way.
 * [Turi Create](https://github.com/apple/turicreate) - Simplifies the development of custom machine learning models.
 
 ## Workflow Tools
