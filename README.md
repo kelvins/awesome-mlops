@@ -18,6 +18,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Model Lifecycle](#model-lifecycle)
     - [Model Serving](#model-serving)
     - [Optimization Tools](#optimization-tools)
+    - [Simplification Tools](#simplification-tools)
     - [Workflow Tools](#workflow-tools)
 - [Resources](#resources)
     - [Articles](#articles)
@@ -153,6 +154,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Ray](https://github.com/ray-project/ray) - Fast and simple framework for building and running distributed applications.
 * [Singa](http://singa.apache.org/en/index.html) - Apache top level project, focusing on distributed training of deep learning and machine learning models.
 * [Tpot](https://github.com/EpistasisLab/tpot) - Automated machine learning tool that optimizes machine learning pipelines using genetic programming.
+
+## Simplification Tools
+
+*Tools related to machine learning simplification and standardization.*
+
+* [Turi Create](https://github.com/apple/turicreate) - Simplifies the development of custom machine learning models.
 
 ## Workflow Tools
 
