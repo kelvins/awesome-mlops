@@ -126,6 +126,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Comet](https://www.comet.ml/site/) - Track your datasets, code changes, experimentation history, and models.
 * [Mlflow](https://mlflow.org/) - Open source platform for the machine learning lifecycle.
 * [Neptune AI](https://neptune.ai/) - The most lightweight experiment management tool that fits any workflow.
+* [Sacred](https://github.com/IDSIA/sacred) - A tool to help you configure, organize, log and reproduce experiments.
 
 ## Model Serving
 
