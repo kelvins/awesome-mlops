@@ -79,6 +79,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Feature store tools for data serving.*
 
+* [Butterfree](https://github.com/quintoandar/butterfree) - A tool for building feature stores. Transform your raw data into beautiful features.
 * [Feast](https://feast.dev/) - End-to-end open source feature store for machine learning.
 
 ## Hyperparameter Tuning
