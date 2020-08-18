@@ -119,6 +119,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [LynxKite](https://lynxkite.com/) - A complete graph data science platform for very large graphs and other datasets.
 * [Modzy](https://www.modzy.com/) - AI platform and marketplace offering scalable, secure, and ready-to-deploy AI models.
 * [Pachyderm](https://www.pachyderm.com/) - Combines data lineage with end-to-end pipelines on Kubernetes, engineered for the enterprise.
+* [Polyaxon](https://www.github.com/polyaxon/polyaxon/) - A platform for reproducible and scalable machine learning and deep learning on kubernetes.
 * [Sagemaker](https://aws.amazon.com/sagemaker/) - Fully managed service that provides the ability to build, train, and deploy ML models quickly.
 * [Valohai](https://valohai.com/) - Takes you from POC to production while managing the whole model lifecycle.
 
