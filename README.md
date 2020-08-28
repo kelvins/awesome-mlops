@@ -46,12 +46,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools for performing data exploration.*
 
-- [Apache Zeppelin](https://zeppelin.apache.org/) - Notebook that enables data-driven, interactive data analytics and collaborative documents.
-- [Google Colab](https://colab.research.google.com) - Hosted Jupyter notebook service that requires no setup to use.
-- [Jupyter Notebook](https://jupyter.org/) - Web-based notebook environment for interactive computing.
-- [JupyterLab](https://jupyterlab.readthedocs.io) - The next-generation user interface for Project Jupyter.
-- [Jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts.
-- [Polynote](https://polynote.org/) - The polyglot notebook with first-class Scala support.
+* [Apache Zeppelin](https://zeppelin.apache.org/) - Notebook that enables data-driven, interactive data analytics and collaborative documents.
+* [Google Colab](https://colab.research.google.com) - Hosted Jupyter notebook service that requires no setup to use.
+* [Jupyter Notebook](https://jupyter.org/) - Web-based notebook environment for interactive computing.
+* [JupyterLab](https://jupyterlab.readthedocs.io) - The next-generation user interface for Project Jupyter.
+* [Jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts.
+* [Polynote](https://polynote.org/) - The polyglot notebook with first-class Scala support.
 
 ## Data Management
 
@@ -155,6 +155,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Mahout](https://mahout.apache.org/) - Distributed linear algebra framework and mathematically expressive Scala DSL.
 * [MLlib](https://spark.apache.org/mllib/) - Apache Spark's scalable machine learning library.
 * [Modin](https://github.com/modin-project/modin) - Speed up your Pandas workflows by changing a single line of code.
+* [Rapids](https://rapids.ai/index.html) - Gives the ability to execute end-to-end data science and analytics pipelines entirely on GPUs.
 * [Ray](https://github.com/ray-project/ray) - Fast and simple framework for building and running distributed applications.
 * [Singa](http://singa.apache.org/en/index.html) - Apache top level project, focusing on distributed training of deep learning and machine learning models.
 * [Tpot](https://github.com/EpistasisLab/tpot) - Automated machine learning tool that optimizes machine learning pipelines using genetic programming.
