@@ -46,6 +46,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools for performing data exploration.*
 
+- [Apache Zeppelin](https://zeppelin.apache.org/) - Notebook that enables data-driven, interactive data analytics and collaborative documents.
 - [Google Colab](https://colab.research.google.com) - Hosted Jupyter notebook service that requires no setup to use.
 - [Jupyter Notebook](https://jupyter.org/) - Web-based notebook environment for interactive computing.
 - [JupyterLab](https://jupyterlab.readthedocs.io) - The next-generation user interface for Project Jupyter.
