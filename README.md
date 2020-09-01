@@ -188,6 +188,7 @@ Where to discover new tools and discuss about existing ones.
 
 ## Articles
 
+* [A Tour of End-to-End Machine Learning Platforms](https://databaseline.tech/a-tour-of-end-to-end-ml-platforms/) (Databaseline)
 * [AI Wiki](https://docs.paperspace.com/machine-learning/) (Paperspace)
 * [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html) (Martin Fowler)
 * [Continuous delivery for machine learning](https://www.thoughtworks.com/pt/insights/articles/intelligent-enterprise-series-cd4ml) (ThoughtWorks)
