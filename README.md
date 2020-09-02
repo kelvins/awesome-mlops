@@ -91,6 +91,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Tools and libraries to perform hyperparameter tuning.*
 
 * [Katib](https://github.com/kubeflow/katib) - Kubernetes-based system for hyperparameter tuning and neural architecture search.
+* [Optuna](https://optuna.org/) - Open source hyperparameter optimization framework to automate hyperparameter search.
 * [Tune](https://docs.ray.io/en/latest/tune.html) - Python library for experiment execution and hyperparameter tuning at any scale.
 
 ## Knowledge Sharing
