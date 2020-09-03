@@ -170,6 +170,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Hermione](https://github.com/a3data/hermione) - Help Data Scientists on setting up more organized codes, in a quicker and simpler way.
 * [Koalas](https://github.com/databricks/koalas) - Pandas API on Apache Spark. Makes data scientists more productive when interacting with big data.
+* [Ludwig](https://github.com/uber/ludwig) - Allows users to train and test deep learning models without the need to write code.
 * [PyCaret](https://pycaret.org/) - Open source, low-code machine learning library in Python.
 * [Turi Create](https://github.com/apple/turicreate) - Simplifies the development of custom machine learning models.
 
