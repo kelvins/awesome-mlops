@@ -112,7 +112,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Cubonacci](https://cubonacci.com/) - Intuitive code-first MLOps platform that streamlines the end-to-end machine learning workflow.
 * [DAGsHub](https://dagshub.com/) - A platform built on open source tools for data, model and pipeline management.
 * [Dataiku](https://www.dataiku.com/) - Platform democratizing access to data and enabling enterprises to build their own path to AI.
-* [DataRobot](https://www.datarobot.com/) - AI platform that democratizes data science and automates the end-to-end machine learning at scale.
+* [DataRobot](https://www.datarobot.com/) - AI platform that democratizes data science and automates the end-to-end ML at scale.
 * [Domino](https://www.dominodatalab.com/) - One place for your data science tools, apps, results, models, and knowledge.
 * [Gradient](https://gradient.paperspace.com/) - Multicloud CI/CD and MLOps platform for machine learning teams.
 * [H2O](https://www.h2o.ai/) - Open source leader in AI with a mission to democratize AI for everyone.
@@ -164,8 +164,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Petastorm](https://github.com/uber/petastorm) - Enables single machine or distributed training and evaluation of deep learning models.
 * [Rapids](https://rapids.ai/index.html) - Gives the ability to execute end-to-end data science and analytics pipelines entirely on GPUs.
 * [Ray](https://github.com/ray-project/ray) - Fast and simple framework for building and running distributed applications.
-* [Singa](http://singa.apache.org/en/index.html) - Apache top level project, focusing on distributed training of deep learning and machine learning models.
-* [Tpot](https://github.com/EpistasisLab/tpot) - Automated machine learning tool that optimizes machine learning pipelines using genetic programming.
+* [Singa](http://singa.apache.org/en/index.html) - Apache top level project, focusing on distributed training of DL and ML models.
+* [Tpot](https://github.com/EpistasisLab/tpot) - Automated ML tool that optimizes machine learning pipelines using genetic programming.
 
 ## Simplification Tools
 
