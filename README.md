@@ -66,7 +66,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Tools related to data processing and data pipelines.*
 
 * [Airflow](https://airflow.apache.org/) - Platform to programmatically author, schedule, and monitor workflows.
-* [Hadoop](https://hadoop.apache.org/) - Framework that allows for the distributed processing of large data sets across clusters of computers.
+* [Hadoop](https://hadoop.apache.org/) - Framework that allows for the distributed processing of large data sets across clusters.
 * [Spark](https://spark.apache.org/) - Unified analytics engine for large-scale data processing.
 
 ## Data Visualization
