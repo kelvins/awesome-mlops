@@ -1,5 +1,0 @@
-language: python
-python:
-  - "3.8"
-script:
-  - python check_order.py
