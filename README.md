@@ -157,6 +157,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Optimization tools related to model scalability in production.*
 
 * [Dask](https://dask.org/) - Provides advanced parallelism for analytics, enabling performance at scale for the tools you love.
+* [DeepSpeed](https://github.com/microsoft/DeepSpeed) - Deep learning optimization library that makes distributed training easy, efficient, and effective.
 * [Fiber](https://uber.github.io/fiber/) - Python distributed computing library for modern computer clusters.
 * [Horovod](https://github.com/horovod/horovod) - Distributed deep learning training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
 * [Mahout](https://mahout.apache.org/) - Distributed linear algebra framework and mathematically expressive Scala DSL.
