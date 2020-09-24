@@ -203,6 +203,7 @@ Where to discover new tools and discuss about existing ones.
 * [Continuous delivery for machine learning](https://www.thoughtworks.com/pt/insights/articles/intelligent-enterprise-series-cd4ml) (ThoughtWorks)
 * [Delivering on the Vision of MLOps: A maturity-based approach](https://azure.microsoft.com/mediahandler/files/resourcefiles/gigaom-Delivering-on-the-Vision-of-MLOps/Delivering%20on%20the%20Vision%20of%20MLOps.pdf) (GigaOm)
 * [MLOps: Continuous delivery and automation pipelines in machine learning](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) (Google)
+* [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf) (Google)
 
 ## Other Lists
 
@@ -221,7 +222,7 @@ Where to discover new tools and discuss about existing ones.
 ## Slack
 
 * [Kubeflow Workspace](https://kubeflow.slack.com/#/)
-* [MLOPs Community Wokspace](https://mlops-community.slack.com)
+* [MLOps Community Wokspace](https://mlops-community.slack.com)
 
 ## Websites
 
