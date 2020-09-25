@@ -209,6 +209,7 @@ Where to discover new tools and discuss about existing ones.
 ## Other Lists
 
 * [Awesome Data Science](https://github.com/academic/awesome-datascience)
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Awesome MLOps](https://github.com/visenger/awesome-mlops)
 * [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
 * [Awesome Python](https://github.com/vinta/awesome-python)
