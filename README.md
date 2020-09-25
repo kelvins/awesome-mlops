@@ -189,6 +189,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Flyte](https://flyte.org/) - Easy to create concurrent, scalable, and maintainable workflows for machine learning.
 * [Kale](https://github.com/kubeflow-kale/kale) - Aims at simplifying the Data Science experience of deploying Kubeflow Pipelines workflows.
 * [Kedro](https://github.com/quantumblacklabs/kedro) - Library that implements software engineering best-practice for data and ML pipelines.
+* [Luigi](https://github.com/spotify/luigi) - Python module that helps you build complex pipelines of batch jobs.
 * [Metaflow](https://metaflow.org/) - Human-friendly lib that helps scientists and engineers build and manage data science projects.
 * [Prefect](https://docs.prefect.io/) - A workflow management system, designed for modern infrastructure.
 
