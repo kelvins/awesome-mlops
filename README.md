@@ -73,6 +73,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools for data visualization, reports and dashboards.*
 
+* [Dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter.
 * [Data Studio](https://datastudio.google.com) - Reporting solution for power users who want to go beyond the data and dashboards of GA.
 * [Metabase](https://www.metabase.com/) - The simplest, fastest way to get business intelligence and analytics to everyone.
 * [Redash](https://redash.io/) - Connect to any data source, easily visualize, dashboard and share your data.
