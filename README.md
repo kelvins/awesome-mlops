@@ -91,6 +91,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools and libraries to perform hyperparameter tuning.*
 
+* [Hyperas](https://github.com/maxpumperla/hyperas) - A very simple wrapper for convenient hyperparameter optimization.
 * [Hyperopt](https://github.com/hyperopt/hyperopt) - Distributed Asynchronous Hyperparameter Optimization in Python.
 * [Katib](https://github.com/kubeflow/katib) - Kubernetes-based system for hyperparameter tuning and neural architecture search.
 * [Optuna](https://optuna.org/) - Open source hyperparameter optimization framework to automate hyperparameter search.
