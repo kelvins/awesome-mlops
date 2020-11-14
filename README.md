@@ -26,6 +26,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Workflow Tools](#workflow-tools)
 - [Resources](#resources)
     - [Articles](#articles)
+    - [Books](#books)
     - [Events](#events)
     - [Other Lists](#other-lists)
     - [Podcasts](#podcasts)
@@ -254,6 +255,13 @@ Where to discover new tools and discuss about existing ones.
 * [Delivering on the Vision of MLOps: A maturity-based approach](https://azure.microsoft.com/mediahandler/files/resourcefiles/gigaom-Delivering-on-the-Vision-of-MLOps/Delivering%20on%20the%20Vision%20of%20MLOps.pdf) (GigaOm)
 * [MLOps: Continuous delivery and automation pipelines in machine learning](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) (Google)
 * [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf) (Google)
+
+## Books
+
+* [Building Machine Learning Pipelines](https://www.oreilly.com/library/view/building-machine-learning/9781492053187/) (O'Reilly)
+* [Building Machine Learning Powered Applications](https://www.oreilly.com/library/view/building-machine-learning/9781492045106/) (O'Reilly)
+* [Introducing MLOps](https://www.oreilly.com/library/view/introducing-mlops/9781492083283/) (O'Reilly)
+* [Machine Learning Design Patterns](https://www.oreilly.com/library/view/machine-learning-design/9781098115777/) (O'Reilly)
 
 ## Events
 
