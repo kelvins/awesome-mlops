@@ -40,6 +40,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools for monitoring cron jobs (recurring jobs).*
 
+* [Cronitor](https://cronitor.io/cron-job-monitoring) - Monitor any cron job or scheduled task.
 * [HealthchecksIO](https://healthchecks.io/) - Simple and effective cron job monitoring.
 
 ## Data Exploration
