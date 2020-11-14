@@ -162,6 +162,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Tools for performing model interpretability/explainability.*
 
 * [Alibi](https://www.seldon.io/tech/products/alibi/) - Open-source Python library enabling ML model inspection and interpretation.
+* [InterpretML](https://interpret.ml/) - A toolkit to help understand models and enable responsible machine learning.
 * [LIME](https://github.com/marcotcr/lime) - Explaining the predictions of any machine learning classifier.
 * [SHAP](https://github.com/slundberg/shap) - A game theoretic approach to explain the output of any machine learning model.
 
