@@ -193,6 +193,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Kedro](https://github.com/quantumblacklabs/kedro) - Library that implements software engineering best-practice for data and ML pipelines.
 * [Luigi](https://github.com/spotify/luigi) - Python module that helps you build complex pipelines of batch jobs.
 * [Metaflow](https://metaflow.org/) - Human-friendly lib that helps scientists and engineers build and manage data science projects.
+* [MLRun](https://github.com/mlrun/mlrun) - Generic mechanism for data scientists to build, run, and monitor ML tasks and pipelines.
 * [Prefect](https://docs.prefect.io/) - A workflow management system, designed for modern infrastructure.
 
 ---
