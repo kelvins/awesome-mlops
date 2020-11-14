@@ -16,6 +16,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Hyperparameter Tuning](#hyperparameter-tuning)
     - [Knowledge Sharing](#knowledge-sharing)
     - [Machine Learning Platform](#machine-learning-platform)
+    - [Model Interpretability](#model-interpretability)
     - [Model Lifecycle](#model-lifecycle)
     - [Model Serving](#model-serving)
     - [Optimization Tools](#optimization-tools)
@@ -141,6 +142,14 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Polyaxon](https://www.github.com/polyaxon/polyaxon/) - A platform for reproducible and scalable machine learning and deep learning on kubernetes.
 * [Sagemaker](https://aws.amazon.com/sagemaker/) - Fully managed service that provides the ability to build, train, and deploy ML models quickly.
 * [Valohai](https://valohai.com/) - Takes you from POC to production while managing the whole model lifecycle.
+
+## Model Interpretability
+
+*Tools for performing model interpretability/explainability.*
+
+* [Alibi](https://www.seldon.io/tech/products/alibi/) - Open-source Python library enabling ML model inspection and interpretation.
+* [LIME](https://github.com/marcotcr/lime) - Explaining the predictions of any machine learning classifier.
+* [SHAP](https://github.com/slundberg/shap) - A game theoretic approach to explain the output of any machine learning model.
 
 ## Model Lifecycle
 
