@@ -5,6 +5,7 @@ A curated list of awesome MLOps tools.
 Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Awesome MLOps](#awesome-mlops)
+    - [AutoML](#automl)
     - [CI/CD for Machine Learning](#cicd-for-machine-learning)
     - [Cron Job Monitoring](#cron-job-monitoring)
     - [Data Exploration](#data-exploration)
@@ -32,6 +33,17 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Contributing](#contributing)
 
 ---
+
+## AutoML
+
+*Tools for performing AutoML.*
+
+* [AutoGluon](https://github.com/awslabs/autogluon) - Automates machine learning tasks enabling you to easily achieve strong predictive performance.
+* [AutoKeras](https://github.com/keras-team/autokeras) - AutoKeras goal is to make machine learning accessible for everyone.
+* [AutoPyTorch](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch.
+* [AutoSKLearn](https://github.com/automl/auto-sklearn) - Automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator.
+* [H2O AutoML](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html) - Automates machine learning workflow, which includes automatic training and tuning of models.
+* [MLBox](https://github.com/AxeldeRomblay/MLBox) - MLBox is a powerful Automated Machine Learning python library.
 
 ## CI/CD for Machine Learning
 
