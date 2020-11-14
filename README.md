@@ -10,6 +10,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Data Exploration](#data-exploration)
     - [Data Management](#data-management)
     - [Data Processing](#data-processing)
+    - [Data Validation](#data-validation)
     - [Data Visualization](#data-visualization)
     - [Feature Store](#feature-store)
     - [Hyperparameter Tuning](#hyperparameter-tuning)
@@ -69,6 +70,13 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Airflow](https://airflow.apache.org/) - Platform to programmatically author, schedule, and monitor workflows.
 * [Hadoop](https://hadoop.apache.org/) - Framework that allows for the distributed processing of large data sets across clusters.
 * [Spark](https://spark.apache.org/) - Unified analytics engine for large-scale data processing.
+
+## Data Validation
+
+*Tools related to data validation.*
+
+* [Cerberus](https://github.com/pyeve/cerberus) - Lightweight, extensible data validation library for Python.
+* [JSON Schema](https://json-schema.org/) - A vocabulary that allows you to annotate and validate JSON documents.
 
 ## Data Visualization
 
