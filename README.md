@@ -20,6 +20,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Model Serving](#model-serving)
     - [Optimization Tools](#optimization-tools)
     - [Simplification Tools](#simplification-tools)
+    - [Visual Analysis and Debugging](#visual-analysis-and-debugging)
     - [Workflow Tools](#workflow-tools)
 - [Resources](#resources)
     - [Articles](#articles)
@@ -191,6 +192,14 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Ludwig](https://github.com/uber/ludwig) - Allows users to train and test deep learning models without the need to write code.
 * [PyCaret](https://pycaret.org/) - Open source, low-code machine learning library in Python.
 * [Turi Create](https://github.com/apple/turicreate) - Simplifies the development of custom machine learning models.
+
+## Visual Analysis and Debugging
+
+*Tools for performing visual analysis and debugging of ML/DL models.*
+
+* [Manifold](https://github.com/uber/manifold) - A model-agnostic visual debugging tool for machine learning.
+* [Netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models.
+* [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection.
 
 ## Workflow Tools
 
