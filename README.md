@@ -217,6 +217,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Koalas](https://github.com/databricks/koalas) - Pandas API on Apache Spark. Makes data scientists more productive when interacting with big data.
 * [Ludwig](https://github.com/uber/ludwig) - Allows users to train and test deep learning models without the need to write code.
 * [PyCaret](https://pycaret.org/) - Open source, low-code machine learning library in Python.
+* [TrainGenerator](https://github.com/jrieke/traingenerator) - A web app to generate template code for machine learning.
 * [Turi Create](https://github.com/apple/turicreate) - Simplifies the development of custom machine learning models.
 
 ## Visual Analysis and Debugging
