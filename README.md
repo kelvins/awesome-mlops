@@ -276,6 +276,7 @@ Where to discover new tools and discuss about existing ones.
 
 * [Awesome Data Science](https://github.com/academic/awesome-datascience)
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [Awesome Game Datasets](https://github.com/leomaurodesenv/game-datasets)
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Awesome MLOps](https://github.com/visenger/awesome-mlops)
 * [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
