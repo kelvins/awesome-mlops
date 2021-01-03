@@ -78,7 +78,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Arrikto](https://www.arrikto.com/) - Dead simple, ultra fast storage for the hybrid Kubernetes world.
 * [DVC](https://dvc.org/) - Management and versioning of datasets and machine learning models.
 * [Intake](https://github.com/intake/intake) - A lightweight set of tools for loading and sharing data in data science projects.
-* [lakeFS](https://github.com/treeverse/lakeFS) -  Repeatable, atomic and versioned data lake on top of object storage.
+* [lakeFS](https://github.com/treeverse/lakeFS) - Repeatable, atomic and versioned data lake on top of object storage.
 
 ## Data Processing
 
@@ -277,6 +277,7 @@ Where to discover new tools and discuss about existing ones.
 
 * [Awesome Data Science](https://github.com/academic/awesome-datascience)
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [Awesome Game Datasets](https://github.com/leomaurodesenv/game-datasets) (includes AI content)
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Awesome MLOps](https://github.com/visenger/awesome-mlops)
 * [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
@@ -291,6 +292,7 @@ Where to discover new tools and discuss about existing ones.
 
 ## Slack
 
+* [Data Hackers Workspace](https://datahackers.com.br/slack/) (pt-br)
 * [Kubeflow Workspace](https://kubeflow.slack.com/#/)
 * [MLOps Community Wokspace](https://mlops-community.slack.com)
 
