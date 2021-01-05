@@ -292,7 +292,6 @@ Where to discover new tools and discuss about existing ones.
 
 ## Slack
 
-* [Data Hackers Workspace](https://datahackers.com.br/slack/) (pt-br)
 * [Kubeflow Workspace](https://kubeflow.slack.com/#/)
 * [MLOps Community Wokspace](https://mlops-community.slack.com)
 
