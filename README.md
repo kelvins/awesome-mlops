@@ -185,6 +185,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Tools for serving models in production.*
 
 * [BentoML](https://bentoml.org) - Open-source platform for high-performance ML model serving.
+* [BudgetML](https://github.com/ebhy/budgetml) - Deploy a ML inference service on a budget in less than 10 lines of code.
 * [Cortex](https://www.cortex.dev/) - Machine learning model serving infrastructure.
 * [GraphPipe](https://oracle.github.io/graphpipe) - Machine learning model deployment made simple.
 * [KFServing](https://github.com/kubeflow/kfserving) - Kubernetes custom resource definition for serving ML models on arbitrary frameworks.
