@@ -245,6 +245,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Metaflow](https://metaflow.org/) - Human-friendly lib that helps scientists and engineers build and manage data science projects.
 * [MLRun](https://github.com/mlrun/mlrun) - Generic mechanism for data scientists to build, run, and monitor ML tasks and pipelines.
 * [Prefect](https://docs.prefect.io/) - A workflow management system, designed for modern infrastructure.
+* [ZenML](https://github.com/maiot-io/zenml) - An extensible open-source MLOps framework to create reproducible pipelines.
 
 ---
 
