@@ -274,6 +274,7 @@ Where to discover new tools and discuss about existing ones.
 
 ## Events
 
+* [apply() - The ML data engineering conference](https://www.applyconf.com/)
 * [MLOps Conference - Keynotes and Panels](https://www.youtube.com/playlist?list=PLH8M0UOY0uy6d_n3vEQe6J_gRBUrISF9m)
 * [Stanford MLSys Seminar Series](https://mlsys.stanford.edu/)
 
