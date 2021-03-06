@@ -141,6 +141,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Algorithmia](https://algorithmia.com/) - Securely govern your machine learning operations with a healthy ML lifecycle.
 * [Allegro AI](https://allegro.ai/) - Transform ML/DL research into products. Faster.
+* [Bodywork](https://bodywork.readthedocs.io/en/latest/) - Deploys machine learning projects developed in Python, to Kubernetes.
 * [CNVRG](https://cnvrg.io/) - An end-to-end machine learning platform to build and deploy AI models at scale.
 * [Cubonacci](https://cubonacci.com/) - Intuitive code-first MLOps platform that streamlines the end-to-end machine learning workflow.
 * [DAGsHub](https://dagshub.com/) - A platform built on open source tools for data, model and pipeline management.
