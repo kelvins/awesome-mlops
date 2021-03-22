@@ -230,6 +230,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools for performing visual analysis and debugging of ML/DL models.*
 
+* [Evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze ML models during validation or production monitoring. 
 * [Manifold](https://github.com/uber/manifold) - A model-agnostic visual debugging tool for machine learning.
 * [Netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models.
 * [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection.
