@@ -177,6 +177,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Tools for managing model lifecycle (tracking experiments, parameters and metrics).*
 
 * [Comet](https://www.comet.ml/site/) - Track your datasets, code changes, experimentation history, and models.
+* [Guild AI](https://guild.ai/) - Open source experiment tracking, pipeline automation, and hyperparameter tuning.
 * [Mlflow](https://mlflow.org/) - Open source platform for the machine learning lifecycle.
 * [ModelDB](https://github.com/VertaAI/modeldb/) - Open source ML model versioning, metadata, and experiment management.
 * [Neptune AI](https://neptune.ai/) - The most lightweight experiment management tool that fits any workflow.
@@ -230,7 +231,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools for performing visual analysis and debugging of ML/DL models.*
 
-* [Evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze ML models during validation or production monitoring. 
+* [Evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze ML models during validation or production monitoring.
 * [Manifold](https://github.com/uber/manifold) - A model-agnostic visual debugging tool for machine learning.
 * [Netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models.
 * [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection.
