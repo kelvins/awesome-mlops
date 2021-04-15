@@ -126,6 +126,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Katib](https://github.com/kubeflow/katib) - Kubernetes-based system for hyperparameter tuning and neural architecture search.
 * [Optuna](https://optuna.org/) - Open source hyperparameter optimization framework to automate hyperparameter search.
 * [Scikit Optimize](https://github.com/scikit-optimize/scikit-optimize) - Simple and efficient library to minimize expensive and noisy black-box functions.
+* [Talos](https://github.com/autonomio/talos) - Hyperparameter Optimization for TensorFlow, Keras and PyTorch.
 * [Tune](https://docs.ray.io/en/latest/tune.html) - Python library for experiment execution and hyperparameter tuning at any scale.
 
 ## Knowledge Sharing
