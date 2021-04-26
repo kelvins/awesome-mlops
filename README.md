@@ -273,7 +273,7 @@ Where to discover new tools and discuss about existing ones.
 
 ## Books
 
-* [Engineering MLOps](https://www.packtpub.com/product/engineering-mlops/9781800562882) 
+* [Engineering MLOps](https://www.packtpub.com/product/engineering-mlops/9781800562882) - Rapidly build, test, and manage production-ready machine learning life cycles at scale.
 * [Building Machine Learning Pipelines](https://www.oreilly.com/library/view/building-machine-learning/9781492053187/) (O'Reilly)
 * [Building Machine Learning Powered Applications](https://www.oreilly.com/library/view/building-machine-learning/9781492045106/) (O'Reilly)
 * [Introducing MLOps](https://www.oreilly.com/library/view/introducing-mlops/9781492083283/) (O'Reilly)
