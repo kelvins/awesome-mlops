@@ -195,6 +195,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Cortex](https://www.cortex.dev/) - Machine learning model serving infrastructure.
 * [GraphPipe](https://oracle.github.io/graphpipe) - Machine learning model deployment made simple.
 * [KFServing](https://github.com/kubeflow/kfserving) - Kubernetes custom resource definition for serving ML models on arbitrary frameworks.
+* [Opyrator](https://github.com/ml-tooling/opyrator) - Turns your ML code into microservices with web API, interactive GUI, and more.
 * [PredictionIO](https://github.com/apache/predictionio) - Event collection, deployment of algorithms, evaluation, querying predictive results via APIs.
 * [Seldon](https://www.seldon.io/) - Take your ML projects from POC to production with maximum efficiency and minimal risk.
 * [Streamlit](https://github.com/streamlit/streamlit) - Lets you create apps for your ML projects with deceptively simple Python scripts.
