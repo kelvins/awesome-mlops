@@ -275,7 +275,7 @@ Where to discover new tools and discuss about existing ones.
 
 * [Building Machine Learning Pipelines](https://www.oreilly.com/library/view/building-machine-learning/9781492053187/) (O'Reilly)
 * [Building Machine Learning Powered Applications](https://www.oreilly.com/library/view/building-machine-learning/9781492045106/) (O'Reilly)
-* [Engineering MLOps](https://www.packtpub.com/product/engineering-mlops/9781800562882) - Rapidly build, test, and manage production-ready machine learning life cycles at scale. (Packt)
+* [Engineering MLOps](https://www.packtpub.com/product/engineering-mlops/9781800562882) (Packt)
 * [Introducing MLOps](https://www.oreilly.com/library/view/introducing-mlops/9781492083283/) (O'Reilly)
 * [Kubeflow for Machine Learning](https://www.oreilly.com/library/view/kubeflow-for-machine/9781492050117/) (O'Reilly)
 * [Kubeflow Operations Guide](https://www.oreilly.com/library/view/kubeflow-operations-guide/9781492053262/) (O'Reilly)
