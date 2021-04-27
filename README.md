@@ -46,6 +46,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [AutoSKLearn](https://github.com/automl/auto-sklearn) - Automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator.
 * [H2O AutoML](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html) - Automates machine learning workflow, which includes automatic training and tuning of models.
 * [MLBox](https://github.com/AxeldeRomblay/MLBox) - MLBox is a powerful Automated Machine Learning python library.
+* [Model Search](https://github.com/google/model_search) - Framework that implements AutoML algorithms for model architecture search at scale.
 
 ## CI/CD for Machine Learning
 
