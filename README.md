@@ -197,6 +197,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [BudgetML](https://github.com/ebhy/budgetml) - Deploy a ML inference service on a budget in less than 10 lines of code.
 * [Cortex](https://www.cortex.dev/) - Machine learning model serving infrastructure.
 * [GraphPipe](https://oracle.github.io/graphpipe) - Machine learning model deployment made simple.
+* [Hydrosphere](https://github.com/Hydrospheredata/hydro-serving) - Platform for deploying your Machine Learning to production.
 * [KFServing](https://github.com/kubeflow/kfserving) - Kubernetes custom resource definition for serving ML models on arbitrary frameworks.
 * [Opyrator](https://github.com/ml-tooling/opyrator) - Turns your ML code into microservices with web API, interactive GUI, and more.
 * [PredictionIO](https://github.com/apache/predictionio) - Event collection, deployment of algorithms, evaluation, querying predictive results via APIs.
