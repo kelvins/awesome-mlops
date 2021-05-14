@@ -181,6 +181,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools for managing model lifecycle (tracking experiments, parameters and metrics).*
 
+* [Aim](https://github.com/aimhubio/aim) - A super-easy way to record, search and compare 1000s of ML training runs.
 * [Comet](https://www.comet.ml/site/) - Track your datasets, code changes, experimentation history, and models.
 * [Guild AI](https://guild.ai/) - Open source experiment tracking, pipeline automation, and hyperparameter tuning.
 * [Mlflow](https://mlflow.org/) - Open source platform for the machine learning lifecycle.
