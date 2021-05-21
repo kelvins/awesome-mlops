@@ -99,6 +99,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Cerberus](https://github.com/pyeve/cerberus) - Lightweight, extensible data validation library for Python.
 * [JSON Schema](https://json-schema.org/) - A vocabulary that allows you to annotate and validate JSON documents.
+* [Great Expectations](https://greatexpectations.io) - A Python data validation framework that allows to test your data against datasets.
 
 ## Data Visualization
 
