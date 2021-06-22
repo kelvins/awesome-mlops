@@ -8,6 +8,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [AutoML](#automl)
     - [CI/CD for Machine Learning](#cicd-for-machine-learning)
     - [Cron Job Monitoring](#cron-job-monitoring)
+    - [Data Catalog](#data-catalog)
     - [Data Exploration](#data-exploration)
     - [Data Management](#data-management)
     - [Data Processing](#data-processing)
@@ -61,6 +62,15 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Cronitor](https://cronitor.io/cron-job-monitoring) - Monitor any cron job or scheduled task.
 * [HealthchecksIO](https://healthchecks.io/) - Simple and effective cron job monitoring.
+
+## Data Catalog
+
+*Tools for data cataloging.*
+
+* [Amundsen](https://www.amundsen.io/) - Data discovery and metadata engine for improving the productivity when interacting with data.
+* [Apache Atlas](https://atlas.apache.org) - Provides open metadata management and governance capabilities to build a data catalog.
+* [CKAN](https://github.com/ckan/ckan) - Open-source DMS (data management system) for powering data hubs and data portals.
+* [Magda](https://github.com/magda-io/magda) - A federated, open-source data catalog for all your big data and small data.
 
 ## Data Exploration
 
