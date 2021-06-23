@@ -94,6 +94,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [DVC](https://dvc.org/) - Management and versioning of datasets and machine learning models.
 * [Intake](https://github.com/intake/intake) - A lightweight set of tools for loading and sharing data in data science projects.
 * [lakeFS](https://github.com/treeverse/lakeFS) - Repeatable, atomic and versioned data lake on top of object storage.
+* [Marquez](https://github.com/MarquezProject/marquez) - Collect, aggregate, and visualize a data ecosystem's metadata.
 * [Milvus](https://github.com/milvus-io/milvus/) - An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy.
 * [Pinecone](https://www.pinecone.io) - Managed and distributed vector similarity search used with a lightweight SDK.
 
