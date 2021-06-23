@@ -102,6 +102,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Tools related to data processing and data pipelines.*
 
 * [Airflow](https://airflow.apache.org/) - Platform to programmatically author, schedule, and monitor workflows.
+* [Azkaban](https://github.com/azkaban/azkaban) - Batch workflow job scheduler created at LinkedIn to run Hadoop jobs.
 * [Dagster](https://github.com/dagster-io/dagster) - A data orchestrator for machine learning, analytics, and ETL.
 * [Hadoop](https://hadoop.apache.org/) - Framework that allows for the distributed processing of large data sets across clusters.
 * [Spark](https://spark.apache.org/) - Unified analytics engine for large-scale data processing.
