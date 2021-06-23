@@ -72,6 +72,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Apache Atlas](https://atlas.apache.org) - Provides open metadata management and governance capabilities to build a data catalog.
 * [CKAN](https://github.com/ckan/ckan) - Open-source DMS (data management system) for powering data hubs and data portals.
 * [Magda](https://github.com/magda-io/magda) - A federated, open-source data catalog for all your big data and small data.
+* [Metacat](https://github.com/Netflix/metacat) - Unified metadata exploration API service for Hive, RDS, Teradata, Redshift, S3 and Cassandra.
 
 ## Data Exploration
 
