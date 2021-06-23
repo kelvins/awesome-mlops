@@ -301,6 +301,7 @@ Where to discover new tools and discuss about existing ones.
 * [Kubeflow for Machine Learning](https://www.oreilly.com/library/view/kubeflow-for-machine/9781492050117/) (O'Reilly)
 * [Kubeflow Operations Guide](https://www.oreilly.com/library/view/kubeflow-operations-guide/9781492053262/) (O'Reilly)
 * [Machine Learning Design Patterns](https://www.oreilly.com/library/view/machine-learning-design/9781098115777/) (O'Reilly)
+* [Machine Learning Engineering in Action](https://www.manning.com/books/machine-learning-engineering-in-action) (Manning)
 
 ## Events
 
