@@ -89,6 +89,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Arrikto](https://www.arrikto.com/) - Dead simple, ultra fast storage for the hybrid Kubernetes world.
 * [Delta Lake](https://github.com/delta-io/delta) - Storage layer that brings scalable, ACID transactions to Apache Spark and other engines.
+* [Dolt](https://github.com/dolthub/dolt) - SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.
 * [DVC](https://dvc.org/) - Management and versioning of datasets and machine learning models.
 * [Intake](https://github.com/intake/intake) - A lightweight set of tools for loading and sharing data in data science projects.
 * [lakeFS](https://github.com/treeverse/lakeFS) - Repeatable, atomic and versioned data lake on top of object storage.
