@@ -353,6 +353,7 @@ Where to discover new tools and discuss about existing ones.
 * [MLOps](https://mlops.org/)
 * [ML-Ops](https://ml-ops.org/)
 * [MLOps Community](https://mlops.community/)
+* [MLOps Guide](https://mlops-guide.github.io/)
 
 # Contributing
 
