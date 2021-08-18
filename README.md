@@ -163,6 +163,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Complete machine learning platform solutions.*
 
+* [aiWARE](https://www.veritone.com/aiware/aiware-os/) - aiWARE helps MLOps teams evaluate, deploy, integrate, scale & monitor models for vision, speech, and text.
 * [Algorithmia](https://algorithmia.com/) - Securely govern your machine learning operations with a healthy ML lifecycle.
 * [Allegro AI](https://allegro.ai/) - Transform ML/DL research into products. Faster.
 * [Bodywork](https://bodywork.readthedocs.io/en/latest/) - Deploys machine learning projects developed in Python, to Kubernetes.
