@@ -327,6 +327,7 @@ Where to discover new tools and discuss about existing ones.
 
 ## Other Lists
 
+* [Applied ML](https://github.com/eugeneyan/applied-ml)
 * [Awesome Data Science](https://github.com/academic/awesome-datascience)
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [Awesome Game Datasets](https://github.com/leomaurodesenv/game-datasets) (includes AI content)
