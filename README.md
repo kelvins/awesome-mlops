@@ -196,6 +196,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [InterpretML](https://interpret.ml/) - A toolkit to help understand models and enable responsible machine learning.
 * [LIME](https://github.com/marcotcr/lime) - Explaining the predictions of any machine learning classifier.
 * [Lucid](https://github.com/tensorflow/lucid) - Collection of infrastructure and tools for research in neural network interpretability.
+* [SAGE](https://github.com/iancovert/sage) - For calculating global feature importance using Shapley values.
 * [SHAP](https://github.com/slundberg/shap) - A game theoretic approach to explain the output of any machine learning model.
 * [Skater](https://github.com/oracle/Skater) - Unified framework to enable Model Interpretation for all forms of model.
 
