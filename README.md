@@ -354,7 +354,6 @@ Where to discover new tools and discuss about existing ones.
 
 * [Feature Stores for ML](http://featurestore.org/)
 * [Made with ML](https://madewithml.com/)
-* [MLOps](https://mlops.org/)
 * [ML-Ops](https://ml-ops.org/)
 * [MLOps Community](https://mlops.community/)
 * [MLOps Guide](https://mlops-guide.github.io/)
