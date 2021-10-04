@@ -74,6 +74,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [DataHub](https://github.com/linkedin/datahub) - LinkedIn's generalized metadata search & discovery tool.
 * [Magda](https://github.com/magda-io/magda) - A federated, open-source data catalog for all your big data and small data.
 * [Metacat](https://github.com/Netflix/metacat) - Unified metadata exploration API service for Hive, RDS, Teradata, Redshift, S3 and Cassandra.
+* [OpenMetadata](https://open-metadata.org/) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right.
 
 ## Data Exploration
 
