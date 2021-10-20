@@ -146,6 +146,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools and libraries to perform hyperparameter tuning.*
 
+* [Advisor](https://github.com/tobegit3hub/advisor) - Open-source implementation of Google Vizier for hyper parameters tuning.
 * [Hyperas](https://github.com/maxpumperla/hyperas) - A very simple wrapper for convenient hyperparameter optimization.
 * [Hyperopt](https://github.com/hyperopt/hyperopt) - Distributed Asynchronous Hyperparameter Optimization in Python.
 * [Katib](https://github.com/kubeflow/katib) - Kubernetes-based system for hyperparameter tuning and neural architecture search.
