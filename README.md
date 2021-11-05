@@ -45,7 +45,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [AutoKeras](https://github.com/keras-team/autokeras) - AutoKeras goal is to make machine learning accessible for everyone.
 * [AutoPyTorch](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch.
 * [AutoSKLearn](https://github.com/automl/auto-sklearn) - Automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator.
-* [H2O AutoML](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html) - Automates machine learning workflow, which includes automatic training and tuning of models.
+* [H2O AutoML](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html) - Automates ML workflow, which includes automatic training and tuning of models.
 * [MindsDB](https://github.com/mindsdb/mindsdb) - AI layer for databases that allows you to effortlessly develop, train and deploy ML models.
 * [MLBox](https://github.com/AxeldeRomblay/MLBox) - MLBox is a powerful Automated Machine Learning python library.
 * [Model Search](https://github.com/google/model_search) - Framework that implements AutoML algorithms for model architecture search at scale.
@@ -74,13 +74,13 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [DataHub](https://github.com/linkedin/datahub) - LinkedIn's generalized metadata search & discovery tool.
 * [Magda](https://github.com/magda-io/magda) - A federated, open-source data catalog for all your big data and small data.
 * [Metacat](https://github.com/Netflix/metacat) - Unified metadata exploration API service for Hive, RDS, Teradata, Redshift, S3 and Cassandra.
-* [OpenMetadata](https://open-metadata.org/) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right.
+* [OpenMetadata](https://open-metadata.org/) - A Single place to discover, collaborate and get your data right.
 
 ## Data Exploration
 
 *Tools for performing data exploration.*
 
-* [Apache Zeppelin](https://zeppelin.apache.org/) - Notebook that enables data-driven, interactive data analytics and collaborative documents.
+* [Apache Zeppelin](https://zeppelin.apache.org/) - Enables data-driven, interactive data analytics and collaborative documents.
 * [Google Colab](https://colab.research.google.com) - Hosted Jupyter notebook service that requires no setup to use.
 * [Jupyter Notebook](https://jupyter.org/) - Web-based notebook environment for interactive computing.
 * [JupyterLab](https://jupyterlab.readthedocs.io) - The next-generation user interface for Project Jupyter.
