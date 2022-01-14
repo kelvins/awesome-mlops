@@ -54,7 +54,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## CI/CD for Machine Learning
 
 *Tools for performing CI/CD for Machine Learning.*
-* [Ploomber](https://github.com/ploomber/ploomber) - Write maintainable, production-ready pipelines. Develop locally, deploy to the cloud.
 * [CML](https://github.com/iterative/cml) - Open-source library for implementing CI/CD in machine learning projects.
 
 ## Cron Job Monitoring
@@ -108,7 +107,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools related to data processing and data pipelines.*
 
-* [Ploomber](https://github.com/ploomber/ploomber) - Write maintainable, production-ready pipelines. Develop locally, deploy to the cloud.
 * [Airflow](https://airflow.apache.org/) - Platform to programmatically author, schedule, and monitor workflows.
 * [Azkaban](https://github.com/azkaban/azkaban) - Batch workflow job scheduler created at LinkedIn to run Hadoop jobs.
 * [Dagster](https://github.com/dagster-io/dagster) - A data orchestrator for machine learning, analytics, and ETL.
@@ -169,7 +167,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Complete machine learning platform solutions.*
 
-* [Ploomber](https://github.com/ploomber/ploomber) - Write maintainable, production-ready pipelines. Develop locally, deploy to the cloud.
 * [aiWARE](https://www.veritone.com/aiware/aiware-os/) - aiWARE helps MLOps teams evaluate, deploy, integrate, scale & monitor ML models.
 * [Algorithmia](https://algorithmia.com/) - Securely govern your machine learning operations with a healthy ML lifecycle.
 * [Allegro AI](https://allegro.ai/) - Transform ML/DL research into products. Faster.
@@ -287,7 +284,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools and frameworks to create workflows or pipelines in the machine learning context.*
 
-* [Ploomber](https://github.com/ploomber/ploomber) - Write maintainable, production-ready pipelines. Develop locally, deploy to the cloud.
 * [Argo](https://github.com/argoproj/argo) - Open source container-native workflow engine for orchestrating parallel jobs on Kubernetes.
 * [Automate Studio](https://www.veritone.com/applications/automate-studio/) - Rapidly build & deploy AI-powered workflows.
 * [Couler](https://github.com/couler-proj/couler) - Unified interface for constructing and managing workflows on different workflow engines.
@@ -297,6 +293,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Luigi](https://github.com/spotify/luigi) - Python module that helps you build complex pipelines of batch jobs.
 * [Metaflow](https://metaflow.org/) - Human-friendly lib that helps scientists and engineers build and manage data science projects.
 * [MLRun](https://github.com/mlrun/mlrun) - Generic mechanism for data scientists to build, run, and monitor ML tasks and pipelines.
+* [Ploomber](https://github.com/ploomber/ploomber) - Write maintainable, production-ready pipelines. Develop locally, deploy to the cloud.
 * [Prefect](https://docs.prefect.io/) - A workflow management system, designed for modern infrastructure.
 * [ZenML](https://github.com/maiot-io/zenml) - An extensible open-source MLOps framework to create reproducible pipelines.
 
