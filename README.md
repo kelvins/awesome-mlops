@@ -54,6 +54,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## CI/CD for Machine Learning
 
 *Tools for performing CI/CD for Machine Learning.*
+
 * [CML](https://github.com/iterative/cml) - Open-source library for implementing CI/CD in machine learning projects.
 
 ## Cron Job Monitoring
