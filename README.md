@@ -54,7 +54,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## CI/CD for Machine Learning
 
 *Tools for performing CI/CD for Machine Learning.*
-
 * [CML](https://github.com/iterative/cml) - Open-source library for implementing CI/CD in machine learning projects.
 
 ## Cron Job Monitoring
@@ -294,6 +293,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Luigi](https://github.com/spotify/luigi) - Python module that helps you build complex pipelines of batch jobs.
 * [Metaflow](https://metaflow.org/) - Human-friendly lib that helps scientists and engineers build and manage data science projects.
 * [MLRun](https://github.com/mlrun/mlrun) - Generic mechanism for data scientists to build, run, and monitor ML tasks and pipelines.
+* [Ploomber](https://github.com/ploomber/ploomber) - Write maintainable, production-ready pipelines. Develop locally, deploy to the cloud.
 * [Prefect](https://docs.prefect.io/) - A workflow management system, designed for modern infrastructure.
 * [ZenML](https://github.com/maiot-io/zenml) - An extensible open-source MLOps framework to create reproducible pipelines.
 
