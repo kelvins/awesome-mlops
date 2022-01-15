@@ -270,6 +270,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [MLNotify](https://github.com/aporia-ai/mlnotify) - No need to keep checking your training, just one import line and you'll know the second it's done.
 * [PyCaret](https://pycaret.org/) - Open source, low-code machine learning library in Python.
 * [Sagify](https://github.com/Kenza-AI/sagify) - A CLI utility to train and deploy ML/DL models on AWS SageMaker.
+* [Soopervisor](https://github.com/ploomber/soopervisor) - Export ML projects to Kubernetes (Argo workflows), Airflow, AWS Batch, and SLURM.
+* [Soorgeon](https://github.com/ploomber/soorgeon) - Convert monolithic Jupyter notebooks 📙 into maintainable pipelines. 📊.
 * [TrainGenerator](https://github.com/jrieke/traingenerator) - A web app to generate template code for machine learning.
 * [Turi Create](https://github.com/apple/turicreate) - Simplifies the development of custom machine learning models.
 
