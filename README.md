@@ -113,6 +113,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Azkaban](https://github.com/azkaban/azkaban) - Batch workflow job scheduler created at LinkedIn to run Hadoop jobs.
 * [Dagster](https://github.com/dagster-io/dagster) - A data orchestrator for machine learning, analytics, and ETL.
 * [Hadoop](https://hadoop.apache.org/) - Framework that allows for the distributed processing of large data sets across clusters.
+* [Prefect](https://github.com/PrefectHQ/prefect) - Orchestrate the modern data stack.
 * [Spark](https://spark.apache.org/) - Unified analytics engine for large-scale data processing.
 
 ## Data Validation
