@@ -200,6 +200,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Alibi](https://www.seldon.io/tech/products/alibi/) - Open-source Python library enabling ML model inspection and interpretation.
 * [Captum](https://github.com/pytorch/captum) - Model interpretability and understanding library for PyTorch.
+* [ELI5](https://github.com/eli5-org/eli5) - Python package which helps to debug machine learning classifiers and explain their predictions.
 * [InterpretML](https://interpret.ml/) - A toolkit to help understand models and enable responsible machine learning.
 * [LIME](https://github.com/marcotcr/lime) - Explaining the predictions of any machine learning classifier.
 * [Lucid](https://github.com/tensorflow/lucid) - Collection of infrastructure and tools for research in neural network interpretability.
