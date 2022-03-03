@@ -345,6 +345,8 @@ Where to discover new tools and discuss about existing ones.
 ## Other Lists
 
 * [Applied ML](https://github.com/eugeneyan/applied-ml)
+* [Awesome AutoML Papers](https://github.com/hibayesian/awesome-automl-papers)
+* [Awesome AutoML](https://github.com/windmaple/awesome-AutoML)
 * [Awesome Data Science](https://github.com/academic/awesome-datascience)
 * [Awesome DataOps](https://github.com/kelvins/awesome-dataops)
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
