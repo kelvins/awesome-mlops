@@ -153,6 +153,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Hyperas](https://github.com/maxpumperla/hyperas) - A very simple wrapper for convenient hyperparameter optimization.
 * [Hyperopt](https://github.com/hyperopt/hyperopt) - Distributed Asynchronous Hyperparameter Optimization in Python.
 * [Katib](https://github.com/kubeflow/katib) - Kubernetes-based system for hyperparameter tuning and neural architecture search.
+* [KerasTuner](https://github.com/keras-team/keras-tuner) - Easy-to-use, scalable hyperparameter optimization framework.
 * [Optuna](https://optuna.org/) - Open source hyperparameter optimization framework to automate hyperparameter search.
 * [Scikit Optimize](https://github.com/scikit-optimize/scikit-optimize) - Simple and efficient library to minimize expensive and noisy black-box functions.
 * [Talos](https://github.com/autonomio/talos) - Hyperparameter Optimization for TensorFlow, Keras and PyTorch.
