@@ -45,6 +45,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [AutoKeras](https://github.com/keras-team/autokeras) - AutoKeras goal is to make machine learning accessible for everyone.
 * [AutoPyTorch](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch.
 * [AutoSKLearn](https://github.com/automl/auto-sklearn) - Automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator.
+* [FLAML](https://github.com/microsoft/FLAML) - Finds accurate ML models automatically, efficiently and economically.
 * [H2O AutoML](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html) - Automates ML workflow, which includes automatic training and tuning of models.
 * [MindsDB](https://github.com/mindsdb/mindsdb) - AI layer for databases that allows you to effortlessly develop, train and deploy ML models.
 * [MLBox](https://github.com/AxeldeRomblay/MLBox) - MLBox is a powerful Automated Machine Learning python library.
