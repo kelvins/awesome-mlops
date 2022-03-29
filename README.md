@@ -326,6 +326,7 @@ Where to discover new tools and discuss about existing ones.
 
 ## Books
 
+* [Beginning MLOps with MLFlow: Deploy Models in AWS SageMaker, Google Cloud, and Microsoft Azure](https://www.amazon.com/Beginning-MLOps-MLFlow-SageMaker-Microsoft/dp/1484265483) (Apress)
 * [Building Machine Learning Pipelines](https://www.oreilly.com/library/view/building-machine-learning/9781492053187/) (O'Reilly)
 * [Building Machine Learning Powered Applications](https://www.oreilly.com/library/view/building-machine-learning/9781492045106/) (O'Reilly)
 * [Engineering MLOps](https://www.packtpub.com/product/engineering-mlops/9781800562882) (Packt)
@@ -334,6 +335,8 @@ Where to discover new tools and discuss about existing ones.
 * [Kubeflow Operations Guide](https://www.oreilly.com/library/view/kubeflow-operations-guide/9781492053262/) (O'Reilly)
 * [Machine Learning Design Patterns](https://www.oreilly.com/library/view/machine-learning-design/9781098115777/) (O'Reilly)
 * [Machine Learning Engineering in Action](https://www.manning.com/books/machine-learning-engineering-in-action) (Manning)
+* [ML Ops: Operationalizing Data Science](https://www.oreilly.com/library/view/ml-ops-operationalizing/9781492074663/) (O'Reilly)
+* [MLOps Engineering at Scale](https://www.manning.com/books/mlops-engineering-at-scale) (Manning)
 * [Practical MLOps](https://www.oreilly.com/library/view/practical-mlops/9781098103002/) (O'Reilly)
 
 ## Events
@@ -356,6 +359,7 @@ Where to discover new tools and discuss about existing ones.
 * [Awesome MLOps](https://github.com/visenger/awesome-mlops)
 * [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
 * [Awesome Python](https://github.com/vinta/awesome-python)
+* [Deep Learning in Production](https://github.com/ahkarami/Deep-Learning-in-Production)
 
 ## Podcasts
 
