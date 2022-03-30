@@ -56,6 +56,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools for performing CI/CD for Machine Learning.*
 
+* [ClearML](https://github.com/allegroai/clearml) - Auto-Magical CI/CD to streamline your ML workflow.
 * [CML](https://github.com/iterative/cml) - Open-source library for implementing CI/CD in machine learning projects.
 
 ## Cron Job Monitoring
@@ -224,6 +225,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Neptune AI](https://neptune.ai/) - The most lightweight experiment management tool that fits any workflow.
 * [Replicate](https://github.com/replicate/replicate) - Library that uploads files and metadata (like hyperparameters) to S3 or GCS.
 * [Sacred](https://github.com/IDSIA/sacred) - A tool to help you configure, organize, log and reproduce experiments.
+* [Weights and Biases](https://github.com/wandb/client) - A tool for visualizing and tracking your machine learning experiments.
 
 ## Model Serving
 
@@ -251,6 +253,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Optimization tools related to model scalability in production.*
 
+* [Accelerate](https://github.com/huggingface/accelerate) - A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision.
 * [Dask](https://dask.org/) - Provides advanced parallelism for analytics, enabling performance at scale for the tools you love.
 * [DeepSpeed](https://github.com/microsoft/DeepSpeed) - Deep learning optimization library that makes distributed training easy, efficient, and effective.
 * [Fiber](https://uber.github.io/fiber/) - Python distributed computing library for modern computer clusters.
@@ -271,6 +274,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Hermione](https://github.com/a3data/hermione) - Help Data Scientists on setting up more organized codes, in a quicker and simpler way.
 * [Hydra](https://github.com/facebookresearch/hydra) - A framework for elegantly configuring complex applications.
 * [Koalas](https://github.com/databricks/koalas) - Pandas API on Apache Spark. Makes data scientists more productive when interacting with big data.
+* [Losswise](https://losswise.com) - Makes it easy to track the progress of a machine learning project.
 * [Ludwig](https://github.com/uber/ludwig) - Allows users to train and test deep learning models without the need to write code.
 * [MLNotify](https://github.com/aporia-ai/mlnotify) - No need to keep checking your training, just one import line and you'll know the second it's done.
 * [PyCaret](https://pycaret.org/) - Open source, low-code machine learning library in Python.
@@ -284,9 +288,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools for performing visual analysis and debugging of ML/DL models.*
 
+* [Arize](https://github.com/Arize-ai/client_python) - An end-to-end ML observability and model monitoring platform.
 * [Evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze ML models during validation or production monitoring.
+* [Fiddler](https://www.fiddler.ai/) - Monitor, explain, and analyze your AI in production.
 * [Manifold](https://github.com/uber/manifold) - A model-agnostic visual debugging tool for machine learning.
 * [Netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models.
+* [Superwise](https://www.superwise.ai) - Gives ML practitioners fully automated, enterprise-grade model observability in a self-service SaaS platform.
 * [Whylogs](https://github.com/whylabs/whylogs) - The open source standard for data logging. Enables ML monitoring and observability.
 * [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection.
 
