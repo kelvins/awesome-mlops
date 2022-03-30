@@ -100,6 +100,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Dolt](https://github.com/dolthub/dolt) - SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.
 * [Dud](https://github.com/kevin-hanselman/dud) - A lightweight CLI tool for versioning data alongside source code and building data pipelines.
 * [DVC](https://dvc.org/) - Management and versioning of datasets and machine learning models.
+* [Git LFS](https://git-lfs.github.com) - An open source Git extension for versioning large files.
 * [Hub](https://github.com/activeloopai/Hub) - A dataset format for creating, storing, and collaborating on AI datasets of any size. 
 * [Intake](https://github.com/intake/intake) - A lightweight set of tools for loading and sharing data in data science projects.
 * [lakeFS](https://github.com/treeverse/lakeFS) - Repeatable, atomic and versioned data lake on top of object storage.
@@ -125,6 +126,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Cerberus](https://github.com/pyeve/cerberus) - Lightweight, extensible data validation library for Python.
 * [Great Expectations](https://greatexpectations.io) - A Python data validation framework that allows to test your data against datasets.
 * [JSON Schema](https://json-schema.org/) - A vocabulary that allows you to annotate and validate JSON documents.
+* [TFDV](https://github.com/tensorflow/data-validation) - An library for exploring and validating machine learning data.
 
 ## Data Visualization
 
@@ -216,15 +218,20 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools for managing model lifecycle (tracking experiments, parameters and metrics).*
 
+* [AIF360](https://github.com/Trusted-AI/AIF360) - A comprehensive set of fairness metrics for datasets and machine learning models.
 * [Aim](https://github.com/aimhubio/aim) - A super-easy way to record, search and compare 1000s of ML training runs.
 * [Comet](https://github.com/comet-ml) - Track your datasets, code changes, experimentation history, and models.
+* [Fairlearn](https://github.com/fairlearn/fairlearn) - A Python package to assess and improve fairness of machine learning models.
 * [Guild AI](https://guild.ai/) - Open source experiment tracking, pipeline automation, and hyperparameter tuning.
 * [Keepsake](https://github.com/replicate/keepsake) - Version control for machine learning with support to Amazon S3 and Google Cloud Storage.
+* [MinIO](https://github.com/minio/minio) - Pioneering high-performance, Kubernetes-native object storage.
 * [Mlflow](https://mlflow.org/) - Open source platform for the machine learning lifecycle.
 * [ModelDB](https://github.com/VertaAI/modeldb/) - Open source ML model versioning, metadata, and experiment management.
 * [Neptune AI](https://neptune.ai/) - The most lightweight experiment management tool that fits any workflow.
+* [Opacus](https://github.com/pytorch/opacus) - A library that enables training PyTorch models with differential privacy.
 * [Replicate](https://github.com/replicate/replicate) - Library that uploads files and metadata (like hyperparameters) to S3 or GCS.
 * [Sacred](https://github.com/IDSIA/sacred) - A tool to help you configure, organize, log and reproduce experiments.
+* [TensorFlow Privacy](https://github.com/tensorflow/privacy) - Library for training machine learning models with privacy for training data.
 * [Weights and Biases](https://github.com/wandb/client) - A tool for visualizing and tracking your machine learning experiments.
 
 ## Model Serving
