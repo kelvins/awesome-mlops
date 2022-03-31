@@ -18,6 +18,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Hyperparameter Tuning](#hyperparameter-tuning)
     - [Knowledge Sharing](#knowledge-sharing)
     - [Machine Learning Platform](#machine-learning-platform)
+    - [Model Fairness and Privacy](#model-fairness-and-privacy)
     - [Model Interpretability](#model-interpretability)
     - [Model Lifecycle](#model-lifecycle)
     - [Model Serving](#model-serving)
@@ -56,6 +57,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools for performing CI/CD for Machine Learning.*
 
+* [ClearML](https://github.com/allegroai/clearml) - Auto-Magical CI/CD to streamline your ML workflow.
 * [CML](https://github.com/iterative/cml) - Open-source library for implementing CI/CD in machine learning projects.
 
 ## Cron Job Monitoring
@@ -99,6 +101,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Dolt](https://github.com/dolthub/dolt) - SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.
 * [Dud](https://github.com/kevin-hanselman/dud) - A lightweight CLI tool for versioning data alongside source code and building data pipelines.
 * [DVC](https://dvc.org/) - Management and versioning of datasets and machine learning models.
+* [Git LFS](https://git-lfs.github.com) - An open source Git extension for versioning large files.
 * [Hub](https://github.com/activeloopai/Hub) - A dataset format for creating, storing, and collaborating on AI datasets of any size. 
 * [Intake](https://github.com/intake/intake) - A lightweight set of tools for loading and sharing data in data science projects.
 * [lakeFS](https://github.com/treeverse/lakeFS) - Repeatable, atomic and versioned data lake on top of object storage.
@@ -124,6 +127,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Cerberus](https://github.com/pyeve/cerberus) - Lightweight, extensible data validation library for Python.
 * [Great Expectations](https://greatexpectations.io) - A Python data validation framework that allows to test your data against datasets.
 * [JSON Schema](https://json-schema.org/) - A vocabulary that allows you to annotate and validate JSON documents.
+* [TFDV](https://github.com/tensorflow/data-validation) - An library for exploring and validating machine learning data.
 
 ## Data Visualization
 
@@ -197,6 +201,15 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Sagemaker](https://aws.amazon.com/sagemaker/) - Fully managed service that provides the ability to build, train, and deploy ML models quickly.
 * [Valohai](https://valohai.com/) - Takes you from POC to production while managing the whole model lifecycle.
 
+## Model Fairness and Privacy
+
+*Tools for performing model fairness and privacy in production.*
+
+* [AIF360](https://github.com/Trusted-AI/AIF360) - A comprehensive set of fairness metrics for datasets and machine learning models.
+* [Fairlearn](https://github.com/fairlearn/fairlearn) - A Python package to assess and improve fairness of machine learning models.
+* [Opacus](https://github.com/pytorch/opacus) - A library that enables training PyTorch models with differential privacy.
+* [TensorFlow Privacy](https://github.com/tensorflow/privacy) - Library for training machine learning models with privacy for training data.
+
 ## Model Interpretability
 
 *Tools for performing model interpretability/explainability.*
@@ -219,11 +232,13 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Comet](https://github.com/comet-ml) - Track your datasets, code changes, experimentation history, and models.
 * [Guild AI](https://guild.ai/) - Open source experiment tracking, pipeline automation, and hyperparameter tuning.
 * [Keepsake](https://github.com/replicate/keepsake) - Version control for machine learning with support to Amazon S3 and Google Cloud Storage.
+* [Losswise](https://losswise.com) - Makes it easy to track the progress of a machine learning project.
 * [Mlflow](https://mlflow.org/) - Open source platform for the machine learning lifecycle.
 * [ModelDB](https://github.com/VertaAI/modeldb/) - Open source ML model versioning, metadata, and experiment management.
 * [Neptune AI](https://neptune.ai/) - The most lightweight experiment management tool that fits any workflow.
 * [Replicate](https://github.com/replicate/replicate) - Library that uploads files and metadata (like hyperparameters) to S3 or GCS.
 * [Sacred](https://github.com/IDSIA/sacred) - A tool to help you configure, organize, log and reproduce experiments.
+* [Weights and Biases](https://github.com/wandb/client) - A tool for visualizing and tracking your machine learning experiments.
 
 ## Model Serving
 
@@ -251,6 +266,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Optimization tools related to model scalability in production.*
 
+* [Accelerate](https://github.com/huggingface/accelerate) - A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision.
 * [Dask](https://dask.org/) - Provides advanced parallelism for analytics, enabling performance at scale for the tools you love.
 * [DeepSpeed](https://github.com/microsoft/DeepSpeed) - Deep learning optimization library that makes distributed training easy, efficient, and effective.
 * [Fiber](https://uber.github.io/fiber/) - Python distributed computing library for modern computer clusters.
@@ -284,9 +300,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools for performing visual analysis and debugging of ML/DL models.*
 
+* [Arize](https://github.com/Arize-ai/client_python) - An end-to-end ML observability and model monitoring platform.
 * [Evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze ML models during validation or production monitoring.
+* [Fiddler](https://www.fiddler.ai/) - Monitor, explain, and analyze your AI in production.
 * [Manifold](https://github.com/uber/manifold) - A model-agnostic visual debugging tool for machine learning.
 * [Netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models.
+* [Superwise](https://www.superwise.ai) - Gives ML practitioners fully automated, enterprise-grade model observability in a self-service SaaS platform.
 * [Whylogs](https://github.com/whylabs/whylogs) - The open source standard for data logging. Enables ML monitoring and observability.
 * [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection.
 
