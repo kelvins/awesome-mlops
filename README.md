@@ -18,6 +18,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Hyperparameter Tuning](#hyperparameter-tuning)
     - [Knowledge Sharing](#knowledge-sharing)
     - [Machine Learning Platform](#machine-learning-platform)
+    - [Model Fairness and Privacy](#model-fairness-and-privacy)
     - [Model Interpretability](#model-interpretability)
     - [Model Lifecycle](#model-lifecycle)
     - [Model Serving](#model-serving)
@@ -200,6 +201,15 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Sagemaker](https://aws.amazon.com/sagemaker/) - Fully managed service that provides the ability to build, train, and deploy ML models quickly.
 * [Valohai](https://valohai.com/) - Takes you from POC to production while managing the whole model lifecycle.
 
+## Model Fairness and Privacy
+
+*Tools for performing model fairness and privacy in production.*
+
+* [AIF360](https://github.com/Trusted-AI/AIF360) - A comprehensive set of fairness metrics for datasets and machine learning models.
+* [Fairlearn](https://github.com/fairlearn/fairlearn) - A Python package to assess and improve fairness of machine learning models.
+* [Opacus](https://github.com/pytorch/opacus) - A library that enables training PyTorch models with differential privacy.
+* [TensorFlow Privacy](https://github.com/tensorflow/privacy) - Library for training machine learning models with privacy for training data.
+
 ## Model Interpretability
 
 *Tools for performing model interpretability/explainability.*
@@ -218,20 +228,16 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools for managing model lifecycle (tracking experiments, parameters and metrics).*
 
-* [AIF360](https://github.com/Trusted-AI/AIF360) - A comprehensive set of fairness metrics for datasets and machine learning models.
 * [Aim](https://github.com/aimhubio/aim) - A super-easy way to record, search and compare 1000s of ML training runs.
 * [Comet](https://github.com/comet-ml) - Track your datasets, code changes, experimentation history, and models.
-* [Fairlearn](https://github.com/fairlearn/fairlearn) - A Python package to assess and improve fairness of machine learning models.
 * [Guild AI](https://guild.ai/) - Open source experiment tracking, pipeline automation, and hyperparameter tuning.
 * [Keepsake](https://github.com/replicate/keepsake) - Version control for machine learning with support to Amazon S3 and Google Cloud Storage.
-* [MinIO](https://github.com/minio/minio) - Pioneering high-performance, Kubernetes-native object storage.
+* [Losswise](https://losswise.com) - Makes it easy to track the progress of a machine learning project.
 * [Mlflow](https://mlflow.org/) - Open source platform for the machine learning lifecycle.
 * [ModelDB](https://github.com/VertaAI/modeldb/) - Open source ML model versioning, metadata, and experiment management.
 * [Neptune AI](https://neptune.ai/) - The most lightweight experiment management tool that fits any workflow.
-* [Opacus](https://github.com/pytorch/opacus) - A library that enables training PyTorch models with differential privacy.
 * [Replicate](https://github.com/replicate/replicate) - Library that uploads files and metadata (like hyperparameters) to S3 or GCS.
 * [Sacred](https://github.com/IDSIA/sacred) - A tool to help you configure, organize, log and reproduce experiments.
-* [TensorFlow Privacy](https://github.com/tensorflow/privacy) - Library for training machine learning models with privacy for training data.
 * [Weights and Biases](https://github.com/wandb/client) - A tool for visualizing and tracking your machine learning experiments.
 
 ## Model Serving
@@ -281,7 +287,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Hermione](https://github.com/a3data/hermione) - Help Data Scientists on setting up more organized codes, in a quicker and simpler way.
 * [Hydra](https://github.com/facebookresearch/hydra) - A framework for elegantly configuring complex applications.
 * [Koalas](https://github.com/databricks/koalas) - Pandas API on Apache Spark. Makes data scientists more productive when interacting with big data.
-* [Losswise](https://losswise.com) - Makes it easy to track the progress of a machine learning project.
 * [Ludwig](https://github.com/uber/ludwig) - Allows users to train and test deep learning models without the need to write code.
 * [MLNotify](https://github.com/aporia-ai/mlnotify) - No need to keep checking your training, just one import line and you'll know the second it's done.
 * [PyCaret](https://pycaret.org/) - Open source, low-code machine learning library in Python.
