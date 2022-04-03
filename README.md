@@ -230,6 +230,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Aim](https://github.com/aimhubio/aim) - A super-easy way to record, search and compare 1000s of ML training runs.
 * [Comet](https://github.com/comet-ml) - Track your datasets, code changes, experimentation history, and models.
+* [FedML MLOps Platform](https://open.fedml.ai/) - Simplifies the workflow of federated learning anywhere at any scale.
 * [Guild AI](https://guild.ai/) - Open source experiment tracking, pipeline automation, and hyperparameter tuning.
 * [Keepsake](https://github.com/replicate/keepsake) - Version control for machine learning with support to Amazon S3 and Google Cloud Storage.
 * [Losswise](https://losswise.com) - Makes it easy to track the progress of a machine learning project.
@@ -255,6 +256,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Merlin](https://github.com/gojek/merlin) - A platform for deploying and serving machine learning models.
 * [Opyrator](https://github.com/ml-tooling/opyrator) - Turns your ML code into microservices with web API, interactive GUI, and more.
 * [PredictionIO](https://github.com/apache/predictionio) - Event collection, deployment of algorithms, evaluation, querying predictive results via APIs.
+* [Rune](https://github.com/hotg-ai/rune) - Provides containers to encapsulate and deploy edgeML pipelines and applications.
 * [Seldon](https://www.seldon.io/) - Take your ML projects from POC to production with maximum efficiency and minimal risk.
 * [Streamlit](https://github.com/streamlit/streamlit) - Lets you create apps for your ML projects with deceptively simple Python scripts.
 * [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving) - Flexible, high-performance serving system for ML models, designed for production.
