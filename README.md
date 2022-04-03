@@ -185,6 +185,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Dataiku](https://www.dataiku.com/) - Platform democratizing access to data and enabling enterprises to build their own path to AI.
 * [DataRobot](https://www.datarobot.com/) - AI platform that democratizes data science and automates the end-to-end ML at scale.
 * [Domino](https://www.dominodatalab.com/) - One place for your data science tools, apps, results, models, and knowledge.
+* [FedML](https://fedml.ai/) - Simplifies the workflow of federated learning anywhere at any scale.
 * [Gradient](https://gradient.paperspace.com/) - Multicloud CI/CD and MLOps platform for machine learning teams.
 * [H2O](https://www.h2o.ai/) - Open source leader in AI with a mission to democratize AI for everyone.
 * [Hopsworks](https://www.hopsworks.ai/) - Open-source platform for developing and operating machine learning models at scale.
@@ -230,7 +231,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Aim](https://github.com/aimhubio/aim) - A super-easy way to record, search and compare 1000s of ML training runs.
 * [Comet](https://github.com/comet-ml) - Track your datasets, code changes, experimentation history, and models.
-* [FedML MLOps Platform](https://open.fedml.ai/) - Simplifies the workflow of federated learning anywhere at any scale.
 * [Guild AI](https://guild.ai/) - Open source experiment tracking, pipeline automation, and hyperparameter tuning.
 * [Keepsake](https://github.com/replicate/keepsake) - Version control for machine learning with support to Amazon S3 and Google Cloud Storage.
 * [Losswise](https://losswise.com) - Makes it easy to track the progress of a machine learning project.
@@ -256,7 +256,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Merlin](https://github.com/gojek/merlin) - A platform for deploying and serving machine learning models.
 * [Opyrator](https://github.com/ml-tooling/opyrator) - Turns your ML code into microservices with web API, interactive GUI, and more.
 * [PredictionIO](https://github.com/apache/predictionio) - Event collection, deployment of algorithms, evaluation, querying predictive results via APIs.
-* [Rune](https://github.com/hotg-ai/rune) - Provides containers to encapsulate and deploy edgeML pipelines and applications.
+* [Rune](https://github.com/hotg-ai/rune) - Provides containers to encapsulate and deploy EdgeML pipelines and applications.
 * [Seldon](https://www.seldon.io/) - Take your ML projects from POC to production with maximum efficiency and minimal risk.
 * [Streamlit](https://github.com/streamlit/streamlit) - Lets you create apps for your ML projects with deceptively simple Python scripts.
 * [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving) - Flexible, high-performance serving system for ML models, designed for production.
