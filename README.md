@@ -302,6 +302,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools for performing visual analysis and debugging of ML/DL models.*
 
+* [Aporia](https://www.aporia.com/) - Full-Stack ML Observability with Customized ML Monitoring & Explainability for ML models in production.
 * [Arize](https://github.com/Arize-ai/client_python) - An end-to-end ML observability and model monitoring platform.
 * [Evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze ML models during validation or production monitoring.
 * [Fiddler](https://www.fiddler.ai/) - Monitor, explain, and analyze your AI in production.
