@@ -201,6 +201,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Polyaxon](https://www.github.com/polyaxon/polyaxon/) - A platform for reproducible and scalable machine learning and deep learning on kubernetes.
 * [Sagemaker](https://aws.amazon.com/sagemaker/) - Fully managed service that provides the ability to build, train, and deploy ML models quickly.
 * [Valohai](https://valohai.com/) - Takes you from POC to production while managing the whole model lifecycle.
+* [Katonic.ai](https://katonic.ai/) - Automate your cycle of Intelligence with Katonic MLOps Platform.
 
 ## Model Fairness and Privacy
 
