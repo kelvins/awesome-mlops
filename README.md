@@ -109,6 +109,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Milvus](https://github.com/milvus-io/milvus/) - An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy.
 * [Pinecone](https://www.pinecone.io) - Managed and distributed vector similarity search used with a lightweight SDK.
 * [Quilt](https://github.com/quiltdata/quilt) - A self-organizing data hub with S3 support.
+* [Qdrant](https://github.com/qdrant/qdrant) - An open source vector similarity search engine with extended filtering support. 
 
 ## Data Processing
 
