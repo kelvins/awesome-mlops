@@ -102,13 +102,13 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Dud](https://github.com/kevin-hanselman/dud) - A lightweight CLI tool for versioning data alongside source code and building data pipelines.
 * [DVC](https://dvc.org/) - Management and versioning of datasets and machine learning models.
 * [Git LFS](https://git-lfs.github.com) - An open source Git extension for versioning large files.
-* [Hub](https://github.com/activeloopai/Hub) - A dataset format for creating, storing, and collaborating on AI datasets of any size. 
+* [Hub](https://github.com/activeloopai/Hub) - A dataset format for creating, storing, and collaborating on AI datasets of any size.
 * [Intake](https://github.com/intake/intake) - A lightweight set of tools for loading and sharing data in data science projects.
 * [lakeFS](https://github.com/treeverse/lakeFS) - Repeatable, atomic and versioned data lake on top of object storage.
 * [Marquez](https://github.com/MarquezProject/marquez) - Collect, aggregate, and visualize a data ecosystem's metadata.
 * [Milvus](https://github.com/milvus-io/milvus/) - An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy.
 * [Pinecone](https://www.pinecone.io) - Managed and distributed vector similarity search used with a lightweight SDK.
-* [Qdrant](https://github.com/qdrant/qdrant) - An open source vector similarity search engine with extended filtering support. 
+* [Qdrant](https://github.com/qdrant/qdrant) - An open source vector similarity search engine with extended filtering support.
 * [Quilt](https://github.com/quiltdata/quilt) - A self-organizing data hub with S3 support.
 
 ## Data Processing
@@ -151,6 +151,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Butterfree](https://github.com/quintoandar/butterfree) - A tool for building feature stores. Transform your raw data into beautiful features.
 * [ByteHub](https://github.com/bytehub-ai/bytehub) - An easy-to-use feature store. Optimized for time-series data.
 * [Feast](https://feast.dev/) - End-to-end open source feature store for machine learning.
+* [Feathr](https://github.com/linkedin/feathr) - An enterprise-grade, high performance feature store.
 * [Tecton](https://www.tecton.ai/) - A fully-managed feature platform built to orchestrate the complete lifecycle of features.
 
 ## Hyperparameter Tuning
