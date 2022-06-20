@@ -372,7 +372,7 @@ Where to discover new tools and discuss about existing ones.
 * [ML Ops: Operationalizing Data Science](https://www.oreilly.com/library/view/ml-ops-operationalizing/9781492074663/) (O'Reilly)
 * [MLOps Engineering at Scale](https://www.manning.com/books/mlops-engineering-at-scale) (Manning)
 * [Practical MLOps](https://www.oreilly.com/library/view/practical-mlops/9781098103002/) (O'Reilly)
-
+* [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) (O'Reilly)
 ## Events
 
 * [apply() - The ML data engineering conference](https://www.applyconf.com/)
@@ -401,6 +401,8 @@ Where to discover new tools and discuss about existing ones.
 * [Machine Learning – Software Engineering Daily](https://podcasts.google.com/?feed=aHR0cHM6Ly9zb2Z0d2FyZWVuZ2luZWVyaW5nZGFpbHkuY29tL2NhdGVnb3J5L21hY2hpbmUtbGVhcm5pbmcvZmVlZC8)
 * [MLOps.community](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xNzRjYjFiOC9wb2RjYXN0L3Jzcw)
 * [This Week in Machine Learning & AI](https://twimlai.com/)
+* [Pipeline Conversation](https://podcast.zenml.io/)
+* [Practical AI: Machine Learning, Data Science](https://changelog.com/practicalai)
 
 ## Slack
 
