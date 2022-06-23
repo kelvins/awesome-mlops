@@ -362,6 +362,7 @@ Where to discover new tools and discuss about existing ones.
 * [Beginning MLOps with MLFlow](https://www.amazon.com/Beginning-MLOps-MLFlow-SageMaker-Microsoft/dp/1484265483) (Apress)
 * [Building Machine Learning Pipelines](https://www.oreilly.com/library/view/building-machine-learning/9781492053187/) (O'Reilly)
 * [Building Machine Learning Powered Applications](https://www.oreilly.com/library/view/building-machine-learning/9781492045106/) (O'Reilly)
+* [Deep Learning in Production](https://www.amazon.com/gp/product/6180033773) (AI Summer)
 * [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) (O'Reilly)
 * [Engineering MLOps](https://www.packtpub.com/product/engineering-mlops/9781800562882) (Packt)
 * [Introducing MLOps](https://www.oreilly.com/library/view/introducing-mlops/9781492083283/) (O'Reilly)
