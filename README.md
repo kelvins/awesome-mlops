@@ -406,7 +406,6 @@ Where to discover new tools and discuss about existing ones.
 * [Practical AI: Machine Learning, Data Science](https://changelog.com/practicalai)
 * [This Week in Machine Learning & AI](https://twimlai.com/)
 
-
 ## Slack
 
 * [Kubeflow Workspace](https://kubeflow.slack.com/#/)
