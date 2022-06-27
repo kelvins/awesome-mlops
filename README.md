@@ -15,6 +15,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Data Validation](#data-validation)
     - [Data Visualization](#data-visualization)
     - [Feature Store](#feature-store)
+    - [Data & Feature enrichment](#data--feature-enrichment)
     - [Hyperparameter Tuning](#hyperparameter-tuning)
     - [Knowledge Sharing](#knowledge-sharing)
     - [Machine Learning Platform](#machine-learning-platform)
