@@ -154,6 +154,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Feathr](https://github.com/linkedin/feathr) - An enterprise-grade, high performance feature store.
 * [Tecton](https://www.tecton.ai/) - A fully-managed feature platform built to orchestrate the complete lifecycle of features.
 
+## Data & Feature enrichment
+
+*Tools and libraries for enrichment with a new data & features*
+
+* [TSFresh](https://github.com/blue-yonder/tsfresh) - Python library for automatic extraction of relevant features from time series.
+
 ## Hyperparameter Tuning
 
 *Tools and libraries to perform hyperparameter tuning.*
