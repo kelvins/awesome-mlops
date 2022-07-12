@@ -276,7 +276,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools for testing and validating models.*
 
-* [Deepchecks](https://github.com/deepchecks/deepchecks) - Open-source package for validating machine learning models & data, with various checks and suites. 
+* [Deepchecks](https://github.com/deepchecks/deepchecks) - Open-source package for validating ML models & data, with various checks and suites. 
 
 ## Optimization Tools
 
