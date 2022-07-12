@@ -22,6 +22,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Model Interpretability](#model-interpretability)
     - [Model Lifecycle](#model-lifecycle)
     - [Model Serving](#model-serving)
+    - [Model Testing & Validation](#model-testing--validation)
     - [Optimization Tools](#optimization-tools)
     - [Simplification Tools](#simplification-tools)
     - [Visual Analysis and Debugging](#visual-analysis-and-debugging)
@@ -270,6 +271,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [TorchServe](https://github.com/pytorch/serve) - A flexible and easy to use tool for serving PyTorch models.
 * [Triton Inference Server](https://github.com/triton-inference-server/server) - Provides an optimized cloud and edge inferencing solution.
 * [Vespa](https://github.com/vespa-engine/vespa) - Store, search, organize and make machine-learned inferences over big data at serving time.
+
+## Model Testing & Validation
+
+*Tools for testing and validating models.*
+
+* [Deepchecks](https://github.com/deepchecks/deepchecks) - Open-source package for validating machine learning models & data, with various checks and suites. 
 
 ## Optimization Tools
 
