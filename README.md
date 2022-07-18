@@ -15,7 +15,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Data Validation](#data-validation)
     - [Data Visualization](#data-visualization)
     - [Feature Store](#feature-store)
-    - [Data & Feature enrichment](#data--feature-enrichment)
+    - [Feature Engineering](#feature-engineering)
+    - [Data Enrichment](#data-enrichment)
     - [Hyperparameter Tuning](#hyperparameter-tuning)
     - [Knowledge Sharing](#knowledge-sharing)
     - [Machine Learning Platform](#machine-learning-platform)
@@ -155,11 +156,18 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Feathr](https://github.com/linkedin/feathr) - An enterprise-grade, high performance feature store.
 * [Tecton](https://www.tecton.ai/) - A fully-managed feature platform built to orchestrate the complete lifecycle of features.
 
-## Data & Feature enrichment
+## Feature Engineering
 
-*Tools and libraries for enrichment with a new data & features*
+*Tools and libraries related to feature engineering.*
 
 * [TSFresh](https://github.com/blue-yonder/tsfresh) - Python library for automatic extraction of relevant features from time series.
+* [Featuretools](https://github.com/alteryx/featuretools) - Python library for automated feature engineering.
+
+## Data Enrichment
+
+*Tools and libraries for data enrichment.*
+
+* [Upgini](https://github.com/upgini/upgini) - Data & feature enrichment library for machine learning: automatically enriches your training dataset with only the accuracy improving features from public and community shared data sources.
 
 ## Hyperparameter Tuning
 
