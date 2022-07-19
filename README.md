@@ -9,11 +9,13 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [CI/CD for Machine Learning](#cicd-for-machine-learning)
     - [Cron Job Monitoring](#cron-job-monitoring)
     - [Data Catalog](#data-catalog)
+    - [Data Enrichment](#data-enrichment)
     - [Data Exploration](#data-exploration)
     - [Data Management](#data-management)
     - [Data Processing](#data-processing)
     - [Data Validation](#data-validation)
     - [Data Visualization](#data-visualization)
+    - [Feature Engineering](#feature-engineering)
     - [Feature Store](#feature-store)
     - [Hyperparameter Tuning](#hyperparameter-tuning)
     - [Knowledge Sharing](#knowledge-sharing)
@@ -81,6 +83,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Metacat](https://github.com/Netflix/metacat) - Unified metadata exploration API service for Hive, RDS, Teradata, Redshift, S3 and Cassandra.
 * [OpenMetadata](https://open-metadata.org/) - A Single place to discover, collaborate and get your data right.
 
+## Data Enrichment
+
+*Tools and libraries for data enrichment.*
+
+* [Upgini](https://github.com/upgini/upgini) - Data & feature enrichment library for machine learning: automatically enriches your training dataset with only the accuracy improving features from public and community shared data sources.
+
 ## Data Exploration
 
 *Tools for performing data exploration.*
@@ -145,6 +153,13 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Redash](https://redash.io/) - Connect to any data source, easily visualize, dashboard and share your data.
 * [Superset](https://superset.incubator.apache.org/) - Modern, enterprise-ready business intelligence web application.
 * [Tableau](https://www.tableau.com) - Powerful and fastest growing data visualization tool used in the business intelligence industry.
+
+## Feature Engineering
+
+*Tools and libraries related to feature engineering.*
+
+* [TSFresh](https://github.com/blue-yonder/tsfresh) - Python library for automatic extraction of relevant features from time series.
+* [Featuretools](https://github.com/alteryx/featuretools) - Python library for automated feature engineering.
 
 ## Feature Store
 
