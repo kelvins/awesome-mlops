@@ -24,6 +24,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Model Interpretability](#model-interpretability)
     - [Model Lifecycle](#model-lifecycle)
     - [Model Serving](#model-serving)
+    - [Model Testing & Validation](#model-testing--validation)
     - [Optimization Tools](#optimization-tools)
     - [Simplification Tools](#simplification-tools)
     - [Visual Analysis and Debugging](#visual-analysis-and-debugging)
@@ -48,6 +49,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [AutoKeras](https://github.com/keras-team/autokeras) - AutoKeras goal is to make machine learning accessible for everyone.
 * [AutoPyTorch](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch.
 * [AutoSKLearn](https://github.com/automl/auto-sklearn) - Automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator.
+* [EvalML](https://github.com/alteryx/evalml) - A library that builds, optimizes, and evaluates ML pipelines using domain-specific functions.
 * [FLAML](https://github.com/microsoft/FLAML) - Finds accurate ML models automatically, efficiently and economically.
 * [H2O AutoML](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html) - Automates ML workflow, which includes automatic training and tuning of models.
 * [MindsDB](https://github.com/mindsdb/mindsdb) - AI layer for databases that allows you to effortlessly develop, train and deploy ML models.
@@ -285,6 +287,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Triton Inference Server](https://github.com/triton-inference-server/server) - Provides an optimized cloud and edge inferencing solution.
 * [Vespa](https://github.com/vespa-engine/vespa) - Store, search, organize and make machine-learned inferences over big data at serving time.
 
+## Model Testing & Validation
+
+*Tools for testing and validating models.*
+
+* [Deepchecks](https://github.com/deepchecks/deepchecks) - Open-source package for validating ML models & data, with various checks and suites. 
+
 ## Optimization Tools
 
 *Optimization tools related to model scalability in production.*
@@ -389,6 +397,7 @@ Where to discover new tools and discuss about existing ones.
 * [MLOps Engineering at Scale](https://www.manning.com/books/mlops-engineering-at-scale) (Manning)
 * [Practical Deep Learning at Scale with MLflow](https://www.packtpub.com/product/practical-deep-learning-at-scale-with-mlflow/9781803241333) (Packt)
 * [Practical MLOps](https://www.oreilly.com/library/view/practical-mlops/9781098103002/) (O'Reilly)
+* [The Machine Learning Solutions Architect Handbook](https://www.packtpub.com/product/the-machine-learning-solutions-architect-handbook/9781801072168) (Packt)
 
 ## Events
 
