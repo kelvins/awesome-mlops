@@ -87,7 +87,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools and libraries for data enrichment.*
 
-* [Upgini](https://github.com/upgini/upgini) - Data & feature enrichment library for machine learning: automatically enriches your training dataset with only the accuracy improving features from public and community shared data sources.
+* [Upgini](https://github.com/upgini/upgini) - Enriches training datasets with features from public and community shared data sources.
 
 ## Data Exploration
 
