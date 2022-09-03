@@ -158,6 +158,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools and libraries related to feature engineering.*
 
+* [Feature Engine](https://github.com/feature-engine/feature_engine) - Feature engineering package with SKlearn like functionality.
 * [Featuretools](https://github.com/alteryx/featuretools) - Python library for automated feature engineering.
 * [TSFresh](https://github.com/blue-yonder/tsfresh) - Python library for automatic extraction of relevant features from time series.
 
