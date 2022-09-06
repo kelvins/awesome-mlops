@@ -255,6 +255,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Tools for managing model lifecycle (tracking experiments, parameters and metrics).*
 
 * [Aim](https://github.com/aimhubio/aim) - A super-easy way to record, search and compare 1000s of ML training runs.
+* [Cascade](https://github.com/Oxid15/cascade) - Library of ML-Engineering tools for rapid prototyping and experiment management.
 * [Comet](https://github.com/comet-ml) - Track your datasets, code changes, experimentation history, and models.
 * [Guild AI](https://guild.ai/) - Open source experiment tracking, pipeline automation, and hyperparameter tuning.
 * [Keepsake](https://github.com/replicate/keepsake) - Version control for machine learning with support to Amazon S3 and Google Cloud Storage.
