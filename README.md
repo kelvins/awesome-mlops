@@ -139,6 +139,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Great Expectations](https://greatexpectations.io) - A Python data validation framework that allows to test your data against datasets.
 * [JSON Schema](https://json-schema.org/) - A vocabulary that allows you to annotate and validate JSON documents.
 * [TFDV](https://github.com/tensorflow/data-validation) - An library for exploring and validating machine learning data.
+* [Robust Intelligence](https://www.robustintelligence.com/) - Proactively eliminate failure at every stage of the model lifecycle for ML integrity.
 
 ## Data Visualization
 
@@ -235,6 +236,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Fairlearn](https://github.com/fairlearn/fairlearn) - A Python package to assess and improve fairness of machine learning models.
 * [Opacus](https://github.com/pytorch/opacus) - A library that enables training PyTorch models with differential privacy.
 * [TensorFlow Privacy](https://github.com/tensorflow/privacy) - Library for training machine learning models with privacy for training data.
+* [Robust Intelligence](https://www.robustintelligence.com/) - Proactively eliminate failure at every stage of the model lifecycle for ML integrity.
 
 ## Model Interpretability
 
@@ -295,6 +297,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Tools for testing and validating models.*
 
 * [Deepchecks](https://github.com/deepchecks/deepchecks) - Open-source package for validating ML models & data, with various checks and suites. 
+* [Robust Intelligence](https://www.robustintelligence.com/) - Proactively eliminate failure at every stage of the model lifecycle for ML integrity.
 
 ## Optimization Tools
 
@@ -346,6 +349,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Superwise](https://www.superwise.ai) - Fully automated, enterprise-grade model observability in a self-service SaaS platform.
 * [Whylogs](https://github.com/whylabs/whylogs) - The open source standard for data logging. Enables ML monitoring and observability.
 * [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection.
+* [Robust Intelligence](https://www.robustintelligence.com/) - Proactively eliminate failure at every stage of the model lifecycle for ML integrity.
 
 ## Workflow Tools
 
