@@ -428,13 +428,13 @@ Where to discover new tools and discuss about existing ones.
 
 ## Podcasts
 
+* [How AI Built This](https://how-ai-built-this.captivate.fm/)
 * [Kubernetes Podcast from Google](https://kubernetespodcast.com/)
 * [Machine Learning – Software Engineering Daily](https://podcasts.google.com/?feed=aHR0cHM6Ly9zb2Z0d2FyZWVuZ2luZWVyaW5nZGFpbHkuY29tL2NhdGVnb3J5L21hY2hpbmUtbGVhcm5pbmcvZmVlZC8)
 * [MLOps.community](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xNzRjYjFiOC9wb2RjYXN0L3Jzcw)
 * [Pipeline Conversation](https://podcast.zenml.io/)
 * [Practical AI: Machine Learning, Data Science](https://changelog.com/practicalai)
 * [This Week in Machine Learning & AI](https://twimlai.com/)
-* [How AI Built This](https://how-ai-built-this.captivate.fm/)
 
 ## Slack
 
