@@ -166,11 +166,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Feature store tools for data serving.*
 
-* [Featureform](https://github.com/featureform/featureform) - A virtual featurestore. Plug-&-play with your existing infra. Data Scientist approved.
+
 * [Butterfree](https://github.com/quintoandar/butterfree) - A tool for building feature stores. Transform your raw data into beautiful features.
 * [ByteHub](https://github.com/bytehub-ai/bytehub) - An easy-to-use feature store. Optimized for time-series data.
 * [Feast](https://feast.dev/) - End-to-end open source feature store for machine learning.
 * [Feathr](https://github.com/linkedin/feathr) - An enterprise-grade, high performance feature store.
+* [Featureform](https://github.com/featureform/featureform) - A virtual featurestore. Plug-&-play with your existing infra. Data Scientist approved.
 * [Tecton](https://www.tecton.ai/) - A fully-managed feature platform built to orchestrate the complete lifecycle of features.
 
 ## Hyperparameter Tuning
