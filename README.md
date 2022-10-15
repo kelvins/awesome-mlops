@@ -222,6 +222,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [MLReef](https://github.com/MLReef/mlreef) - Open source MLOps platform that helps you collaborate, reproduce and share your ML work.
 * [Modzy](https://www.modzy.com/) - AI platform and marketplace offering scalable, secure, and ready-to-deploy AI models.
 * [Neu.ro](https://neu.ro) - MLOps platform that integrates open-source and proprietary tools into client-oriented systems.
+* [Omnimizer](https://www.omniml.ai) - Simplifies and accelerates MLOps by bridging the gap between ML models and edge hardware.
 * [Pachyderm](https://www.pachyderm.com/) - Combines data lineage with end-to-end pipelines on Kubernetes, engineered for the enterprise.
 * [Polyaxon](https://www.github.com/polyaxon/polyaxon/) - A platform for reproducible and scalable machine learning and deep learning on kubernetes.
 * [Sagemaker](https://aws.amazon.com/sagemaker/) - Fully managed service that provides the ability to build, train, and deploy ML models quickly.
@@ -402,6 +403,7 @@ Where to discover new tools and discuss about existing ones.
 * [MLOps Engineering at Scale](https://www.manning.com/books/mlops-engineering-at-scale) (Manning)
 * [Practical Deep Learning at Scale with MLflow](https://www.packtpub.com/product/practical-deep-learning-at-scale-with-mlflow/9781803241333) (Packt)
 * [Practical MLOps](https://www.oreilly.com/library/view/practical-mlops/9781098103002) (O'Reilly)
+* [Production-Ready Applied Deep Learning](https://www.packtpub.com/product/production-ready-applied-deep-learning/9781803243665) (Packt)
 * [Reliable Machine Learning](https://www.oreilly.com/library/view/reliable-machine-learning/9781098106218) (O'Reilly)
 * [The Machine Learning Solutions Architect Handbook](https://www.packtpub.com/product/the-machine-learning-solutions-architect-handbook/9781801072168) (Packt)
 
