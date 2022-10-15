@@ -106,7 +106,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Tools for performing data management.*
 
 * [Arrikto](https://www.arrikto.com/) - Dead simple, ultra fast storage for the hybrid Kubernetes world.
-* [BlazingSQL](https://blazingsql.com/) - A lightweight, GPU accelerated, SQL engine for Python. Built on RAPIDS cuDF.
+* [BlazingSQL](https://github.com/BlazingDB/blazingsql) - A lightweight, GPU accelerated, SQL engine for Python. Built on RAPIDS cuDF.
 * [Delta Lake](https://github.com/delta-io/delta) - Storage layer that brings scalable, ACID transactions to Apache Spark and other engines.
 * [Dolt](https://github.com/dolthub/dolt) - SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.
 * [Dud](https://github.com/kevin-hanselman/dud) - A lightweight CLI tool for versioning data alongside source code and building data pipelines.
@@ -170,6 +170,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [ByteHub](https://github.com/bytehub-ai/bytehub) - An easy-to-use feature store. Optimized for time-series data.
 * [Feast](https://feast.dev/) - End-to-end open source feature store for machine learning.
 * [Feathr](https://github.com/linkedin/feathr) - An enterprise-grade, high performance feature store.
+* [Featureform](https://github.com/featureform/featureform) - A Virtual Feature Store. Turn your existing data infrastructure into a feature store.
 * [Tecton](https://www.tecton.ai/) - A fully-managed feature platform built to orchestrate the complete lifecycle of features.
 
 ## Hyperparameter Tuning
@@ -430,6 +431,7 @@ Where to discover new tools and discuss about existing ones.
 
 ## Podcasts
 
+* [How AI Built This](https://how-ai-built-this.captivate.fm/)
 * [Kubernetes Podcast from Google](https://kubernetespodcast.com/)
 * [Machine Learning – Software Engineering Daily](https://podcasts.google.com/?feed=aHR0cHM6Ly9zb2Z0d2FyZWVuZ2luZWVyaW5nZGFpbHkuY29tL2NhdGVnb3J5L21hY2hpbmUtbGVhcm5pbmcvZmVlZC8)
 * [MLOps.community](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xNzRjYjFiOC9wb2RjYXN0L3Jzcw)
