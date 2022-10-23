@@ -297,7 +297,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools for testing and validating models.*
 
-* [Deepchecks](https://github.com/deepchecks/deepchecks) - Open-source package for validating ML models & data, with various checks and suites. 
+* [Deepchecks](https://github.com/deepchecks/deepchecks) - Open-source package for validating ML models & data, with various checks and suites.
+* [Trubrics](https://github.com/trubrics/trubrics-sdk) - Validate machine learning with data science and domain expert feedback.
 
 ## Optimization Tools
 
