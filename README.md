@@ -226,6 +226,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Pachyderm](https://www.pachyderm.com/) - Combines data lineage with end-to-end pipelines on Kubernetes, engineered for the enterprise.
 * [Polyaxon](https://www.github.com/polyaxon/polyaxon/) - A platform for reproducible and scalable machine learning and deep learning on kubernetes.
 * [Sagemaker](https://aws.amazon.com/sagemaker/) - Fully managed service that provides the ability to build, train, and deploy ML models quickly.
+* [Sematic](https://sematic.dev) - An open-source end-to-end pipelining tool to go from laptop prototype to cloud pipelines in no time.
 * [SigOpt](https://sigopt.com/) - A platform that makes it easy to track runs, visualize training, and scale hyperparameter tuning.
 * [Valohai](https://valohai.com/) - Takes you from POC to production while managing the whole model lifecycle.
 
