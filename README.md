@@ -342,7 +342,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Tools for performing visual analysis and debugging of ML/DL models.*
 
 * [Aporia](https://www.aporia.com/) - Observability with customized monitoring and explainability for ML models.
-* [Arize](https://github.com/Arize-ai/client_python) - An end-to-end ML observability and model monitoring platform.
+* [Arize](https://www.arize.com/) - A free end-to-end ML observability and model monitoring platform.
 * [Evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze ML models during validation or production monitoring.
 * [Fiddler](https://www.fiddler.ai/) - Monitor, explain, and analyze your AI in production.
 * [Manifold](https://github.com/uber/manifold) - A model-agnostic visual debugging tool for machine learning.
