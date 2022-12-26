@@ -314,7 +314,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [MLlib](https://spark.apache.org/mllib/) - Apache Spark's scalable machine learning library.
 * [Modin](https://github.com/modin-project/modin) - Speed up your Pandas workflows by changing a single line of code.
 * [Nebulgym](https://github.com/nebuly-ai/nebulgym) - Easy-to-use library to accelerate AI training.
-* [Nebullvm](https://github.com/nebuly-ai/nebullvm) - Easy-to-use library to boost AI inference.
+* [Speedster](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/speedster) - Automatically apply SOTA optimization techniques to achieve the maximum inference speed-up on your hardware.
 * [Petastorm](https://github.com/uber/petastorm) - Enables single machine or distributed training and evaluation of deep learning models.
 * [Rapids](https://rapids.ai/index.html) - Gives the ability to execute end-to-end data science and analytics pipelines entirely on GPUs.
 * [Ray](https://github.com/ray-project/ray) - Fast and simple framework for building and running distributed applications.
