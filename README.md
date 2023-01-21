@@ -280,6 +280,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Tools for serving models in production.*
 
 * [Banana](https://banana.dev) - Host your ML inference code on serverless GPUs and integrate it into your app with one line of code.
+* [Beam](https://beam.cloud) - Develop on serverless GPUs, deploy highly performant APIs, and rapidly prototype ML models.
 * [BentoML](https://github.com/bentoml/BentoML) - Open-source platform for high-performance ML model serving.
 * [BudgetML](https://github.com/ebhy/budgetml) - Deploy a ML inference service on a budget in less than 10 lines of code.
 * [Cortex](https://www.cortex.dev/) - Machine learning model serving infrastructure.
@@ -318,8 +319,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Mahout](https://mahout.apache.org/) - Distributed linear algebra framework and mathematically expressive Scala DSL.
 * [MLlib](https://spark.apache.org/mllib/) - Apache Spark's scalable machine learning library.
 * [Modin](https://github.com/modin-project/modin) - Speed up your Pandas workflows by changing a single line of code.
-* [Nebulgym](https://github.com/nebuly-ai/nebulgym) - Easy-to-use library to accelerate AI training.
 * [Nebullvm](https://github.com/nebuly-ai/nebullvm) - Easy-to-use library to boost AI inference.
+* [Nos](https://github.com/nebuly-ai/nos) - Open-source module for running AI workloads on Kubernetes in an optimized way.
 * [Petastorm](https://github.com/uber/petastorm) - Enables single machine or distributed training and evaluation of deep learning models.
 * [Rapids](https://rapids.ai/index.html) - Gives the ability to execute end-to-end data science and analytics pipelines entirely on GPUs.
 * [Ray](https://github.com/ray-project/ray) - Fast and simple framework for building and running distributed applications.
@@ -402,6 +403,7 @@ Where to discover new tools and discuss about existing ones.
 * [Deep Learning in Production](https://www.amazon.com/gp/product/6180033773) (AI Summer)
 * [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956) (O'Reilly)
 * [Engineering MLOps](https://www.packtpub.com/product/engineering-mlops/9781800562882) (Packt)
+* [Implementing MLOps in the Enterprise](https://www.oreilly.com/library/view/implementing-mlops-in/9781098136574) (O'Reilly)
 * [Introducing MLOps](https://www.oreilly.com/library/view/introducing-mlops/9781492083283) (O'Reilly)
 * [Kubeflow for Machine Learning](https://www.oreilly.com/library/view/kubeflow-for-machine/9781492050117) (O'Reilly)
 * [Kubeflow Operations Guide](https://www.oreilly.com/library/view/kubeflow-operations-guide/9781492053262) (O'Reilly)
