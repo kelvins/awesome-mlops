@@ -161,7 +161,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [cleanlab](https://github.com/cleanlab/cleanlab): Python library for data-centric AI and machine learning with messy, real-world data and labels.
 * [snorkel](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision.
-* [dataprep](https://github.com/sfu-db/dataprep) - Collect, clean and visualize your data in Python.
+* [DataPrep](https://github.com/sfu-db/dataprep) - Collect, clean and visualize your data in Python.
 * [OpenRefine](https://github.com/OpenRefine/OpenRefine) - Power tool for working with messy data and improving it.
 
 ## Feature Engineering
