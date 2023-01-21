@@ -100,7 +100,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [JupyterLab](https://jupyterlab.readthedocs.io) - The next-generation user interface for Project Jupyter.
 * [Jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts.
 * [Polynote](https://polynote.org/) - The polyglot notebook with first-class Scala support.
-* [pandas-profiling](https://github.com/ydataai/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects.
+* [Pandas Profiling](https://github.com/ydataai/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects.
 
 ## Data Management
 
