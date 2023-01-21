@@ -45,7 +45,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools for performing AutoML.*
 
-* [AutoGluon](https://github.com/awslabs/autogluon) - Automates machine learning tasks enabling you to easily achieve strong predictive performance for image, text, tabular, time-series, and multi-modal data.
+* [AutoGluon](https://github.com/awslabs/autogluon) - Automated machine learning for image, text, tabular, time-series, and multi-modal data.
 * [AutoKeras](https://github.com/keras-team/autokeras) - AutoKeras goal is to make machine learning accessible for everyone.
 * [AutoPyTorch](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch.
 * [AutoSKLearn](https://github.com/automl/auto-sklearn) - Automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator.
@@ -87,6 +87,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools and libraries for data enrichment.*
 
+* [Snorkel](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision.
 * [Upgini](https://github.com/upgini/upgini) - Enriches training datasets with features from public and community shared data sources.
 
 ## Data Exploration
@@ -95,12 +96,13 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Apache Zeppelin](https://zeppelin.apache.org/) - Enables data-driven, interactive data analytics and collaborative documents.
 * [BambooLib](https://github.com/tkrabel/bamboolib) -  An intuitive GUI for Pandas DataFrames.
+* [DataPrep](https://github.com/sfu-db/dataprep) - Collect, clean and visualize your data in Python.
 * [Google Colab](https://colab.research.google.com) - Hosted Jupyter notebook service that requires no setup to use.
 * [Jupyter Notebook](https://jupyter.org/) - Web-based notebook environment for interactive computing.
 * [JupyterLab](https://jupyterlab.readthedocs.io) - The next-generation user interface for Project Jupyter.
 * [Jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts.
-* [Polynote](https://polynote.org/) - The polyglot notebook with first-class Scala support.
 * [Pandas Profiling](https://github.com/ydataai/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects.
+* [Polynote](https://polynote.org/) - The polyglot notebook with first-class Scala support.
 
 ## Data Management
 
@@ -130,6 +132,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Azkaban](https://github.com/azkaban/azkaban) - Batch workflow job scheduler created at LinkedIn to run Hadoop jobs.
 * [Dagster](https://github.com/dagster-io/dagster) - A data orchestrator for machine learning, analytics, and ETL.
 * [Hadoop](https://hadoop.apache.org/) - Framework that allows for the distributed processing of large data sets across clusters.
+* [OpenRefine](https://github.com/OpenRefine/OpenRefine) - Power tool for working with messy data and improving it.
 * [Spark](https://spark.apache.org/) - Unified analytics engine for large-scale data processing.
 
 ## Data Validation
@@ -137,6 +140,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Tools related to data validation.*
 
 * [Cerberus](https://github.com/pyeve/cerberus) - Lightweight, extensible data validation library for Python.
+* [Cleanlab](https://github.com/cleanlab/cleanlab) - Python library for data-centric AI and machine learning with messy, real-world data and labels.
 * [Great Expectations](https://greatexpectations.io) - A Python data validation framework that allows to test your data against datasets.
 * [JSON Schema](https://json-schema.org/) - A vocabulary that allows you to annotate and validate JSON documents.
 * [TFDV](https://github.com/tensorflow/data-validation) - An library for exploring and validating machine learning data.
@@ -154,15 +158,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Redash](https://redash.io/) - Connect to any data source, easily visualize, dashboard and share your data.
 * [Superset](https://superset.incubator.apache.org/) - Modern, enterprise-ready business intelligence web application.
 * [Tableau](https://www.tableau.com) - Powerful and fastest growing data visualization tool used in the business intelligence industry.
-
-## Data-centric AI
-
-*Tools for improving training data to improve ML models.*
-
-* [Cleanlab](https://github.com/cleanlab/cleanlab) - Python library for data-centric AI and machine learning with messy, real-world data and labels.
-* [Snorkel](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision.
-* [DataPrep](https://github.com/sfu-db/dataprep) - Collect, clean and visualize your data in Python.
-* [OpenRefine](https://github.com/OpenRefine/OpenRefine) - Power tool for working with messy data and improving it.
 
 ## Feature Engineering
 
