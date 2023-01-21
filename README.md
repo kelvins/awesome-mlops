@@ -275,7 +275,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Tools for serving models in production.*
 
 * [Banana](https://banana.dev) - Host your ML inference code on serverless GPUs and integrate it into your app with one line of code.
-* [Beam](https://beam.cloud) - Develop on serverless GPUs, deploy highly performant APIs, and rapidly prototype ML models — without managing any infrastructure.
+* [Beam](https://beam.cloud) - Develop on serverless GPUs, deploy highly performant APIs, and rapidly prototype ML models.
 * [BentoML](https://github.com/bentoml/BentoML) - Open-source platform for high-performance ML model serving.
 * [BudgetML](https://github.com/ebhy/budgetml) - Deploy a ML inference service on a budget in less than 10 lines of code.
 * [Cortex](https://www.cortex.dev/) - Machine learning model serving infrastructure.
