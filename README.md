@@ -51,7 +51,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [AutoSKLearn](https://github.com/automl/auto-sklearn) - Automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator.
 * [EvalML](https://github.com/alteryx/evalml) - A library that builds, optimizes, and evaluates ML pipelines using domain-specific functions.
 * [FLAML](https://github.com/microsoft/FLAML) - Finds accurate ML models automatically, efficiently and economically.
-* [H2O AutoML](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html) - Automates ML workflow, which includes automatic training and tuning of models.
+* [H2O AutoML](https://h2o.ai/platform/h2o-automl) - Automates ML workflow, which includes automatic training and tuning of models.
 * [MindsDB](https://github.com/mindsdb/mindsdb) - AI layer for databases that allows you to effortlessly develop, train and deploy ML models.
 * [MLBox](https://github.com/AxeldeRomblay/MLBox) - MLBox is a powerful Automated Machine Learning python library.
 * [Model Search](https://github.com/google/model_search) - Framework that implements AutoML algorithms for model architecture search at scale.
