@@ -15,6 +15,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Data Processing](#data-processing)
     - [Data Validation](#data-validation)
     - [Data Visualization](#data-visualization)
+    - [Drift Detection](#drift-detection)
     - [Feature Engineering](#feature-engineering)
     - [Feature Store](#feature-store)
     - [Hyperparameter Tuning](#hyperparameter-tuning)
@@ -158,6 +159,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Redash](https://redash.io/) - Connect to any data source, easily visualize, dashboard and share your data.
 * [Superset](https://superset.incubator.apache.org/) - Modern, enterprise-ready business intelligence web application.
 * [Tableau](https://www.tableau.com) - Powerful and fastest growing data visualization tool used in the business intelligence industry.
+
+## Drift Detection
+
+*Tools and libraries related to drift detection.*
+
+* [Frouros](https://github.com/IFCA/frouros) - Frouros is an open source library for drift detection in machine learning problems.
 
 ## Feature Engineering
 
