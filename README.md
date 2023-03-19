@@ -15,6 +15,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Data Processing](#data-processing)
     - [Data Validation](#data-validation)
     - [Data Visualization](#data-visualization)
+    - [Drift Detection](#drift-detection)
     - [Feature Engineering](#feature-engineering)
     - [Feature Store](#feature-store)
     - [Hyperparameter Tuning](#hyperparameter-tuning)
@@ -159,6 +160,14 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Redash](https://redash.io/) - Connect to any data source, easily visualize, dashboard and share your data.
 * [Superset](https://superset.incubator.apache.org/) - Modern, enterprise-ready business intelligence web application.
 * [Tableau](https://www.tableau.com) - Powerful and fastest growing data visualization tool used in the business intelligence industry.
+
+## Drift Detection
+
+*Tools and libraries related to drift detection.*
+
+* [Alibi Detect](https://github.com/SeldonIO/alibi-detect) - An open source Python library focused on outlier, adversarial and drift detection.
+* [Frouros](https://github.com/IFCA/frouros) - An open source Python library for drift detection in machine learning systems.
+* [TorchDrift](https://github.com/torchdrift/torchdrift/) - A data and concept drift library for PyTorch.
 
 ## Feature Engineering
 
@@ -376,6 +385,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Orchest](https://github.com/orchest/orchest/) - Visual pipeline editor and workflow orchestrator with an easy to use UI and based on Kubernetes.
 * [Ploomber](https://github.com/ploomber/ploomber) - Write maintainable, production-ready pipelines. Develop locally, deploy to the cloud.
 * [Prefect](https://docs.prefect.io/) - A workflow management system, designed for modern infrastructure.
+* [VDP](https://github.com/instill-ai/vdp) - An open-source tool to seamlessly integrate AI for unstructured data into the modern data stack.
 * [ZenML](https://github.com/maiot-io/zenml) - An extensible open-source MLOps framework to create reproducible pipelines.
 
 ---
