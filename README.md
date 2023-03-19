@@ -164,7 +164,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools and libraries related to drift detection.*
 
-* [Frouros](https://github.com/IFCA/frouros) - Frouros is an open source library for drift detection in machine learning problems.
+* [Alibi Detect](https://github.com/SeldonIO/alibi-detect) - An open source Python library focused on outlier, adversarial and drift detection.
+* [Frouros](https://github.com/IFCA/frouros) - An open source Python library for drift detection in machine learning systems.
+* [TorchDrift](https://github.com/torchdrift/torchdrift/) - A data and concept drift library for PyTorch.
 
 ## Feature Engineering
 
