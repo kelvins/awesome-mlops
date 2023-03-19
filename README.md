@@ -133,7 +133,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Azkaban](https://github.com/azkaban/azkaban) - Batch workflow job scheduler created at LinkedIn to run Hadoop jobs.
 * [Dagster](https://github.com/dagster-io/dagster) - A data orchestrator for machine learning, analytics, and ETL.
 * [Hadoop](https://hadoop.apache.org/) - Framework that allows for the distributed processing of large data sets across clusters.
-* [Hamilton](https://github.com/dagworks-inc/hamilton) - A scalable general purpose micro-framework for defining dataflows. 
 * [OpenRefine](https://github.com/OpenRefine/OpenRefine) - Power tool for working with messy data and improving it.
 * [Spark](https://spark.apache.org/) - Unified analytics engine for large-scale data processing.
 
@@ -377,6 +376,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Couler](https://github.com/couler-proj/couler) - Unified interface for constructing and managing workflows on different workflow engines.
 * [dstack](https://github.com/dstackai/dstack) - An open-core tool to automate data and training workflows.
 * [Flyte](https://flyte.org/) - Easy to create concurrent, scalable, and maintainable workflows for machine learning.
+* [Hamilton](https://github.com/dagworks-inc/hamilton) - A scalable general purpose micro-framework for defining dataflows.
 * [Kale](https://github.com/kubeflow-kale/kale) - Aims at simplifying the Data Science experience of deploying Kubeflow Pipelines workflows.
 * [Kedro](https://github.com/quantumblacklabs/kedro) - Library that implements software engineering best-practice for data and ML pipelines.
 * [Luigi](https://github.com/spotify/luigi) - Python module that helps you build complex pipelines of batch jobs.
