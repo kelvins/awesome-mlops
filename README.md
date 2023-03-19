@@ -15,6 +15,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Data Processing](#data-processing)
     - [Data Validation](#data-validation)
     - [Data Visualization](#data-visualization)
+    - [Drift Detection](#drift-detection)
     - [Feature Engineering](#feature-engineering)
     - [Feature Store](#feature-store)
     - [Hyperparameter Tuning](#hyperparameter-tuning)
@@ -159,6 +160,14 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Superset](https://superset.incubator.apache.org/) - Modern, enterprise-ready business intelligence web application.
 * [Tableau](https://www.tableau.com) - Powerful and fastest growing data visualization tool used in the business intelligence industry.
 
+## Drift Detection
+
+*Tools and libraries related to drift detection.*
+
+* [Alibi Detect](https://github.com/SeldonIO/alibi-detect) - An open source Python library focused on outlier, adversarial and drift detection.
+* [Frouros](https://github.com/IFCA/frouros) - An open source Python library for drift detection in machine learning systems.
+* [TorchDrift](https://github.com/torchdrift/torchdrift/) - A data and concept drift library for PyTorch.
+
 ## Feature Engineering
 
 *Tools and libraries related to feature engineering.*
@@ -293,6 +302,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [MLEM](https://github.com/iterative/mlem) - Version and deploy your ML models following GitOps principles.
 * [Opyrator](https://github.com/ml-tooling/opyrator) - Turns your ML code into microservices with web API, interactive GUI, and more.
 * [PredictionIO](https://github.com/apache/predictionio) - Event collection, deployment of algorithms, evaluation, querying predictive results via APIs.
+* [Quix](https://docs.quix.io/platform/tutorials/train-and-deploy-ml/deploy-ml.html) - Serverless platform for processing data streams in real-time with machine learning models.
 * [Rune](https://github.com/hotg-ai/rune) - Provides containers to encapsulate and deploy EdgeML pipelines and applications.
 * [Seldon](https://www.seldon.io/) - Take your ML projects from POC to production with maximum efficiency and minimal risk.
 * [Streamlit](https://github.com/streamlit/streamlit) - Lets you create apps for your ML projects with deceptively simple Python scripts.
@@ -368,6 +378,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Couler](https://github.com/couler-proj/couler) - Unified interface for constructing and managing workflows on different workflow engines.
 * [dstack](https://github.com/dstackai/dstack) - An open-core tool to automate data and training workflows.
 * [Flyte](https://flyte.org/) - Easy to create concurrent, scalable, and maintainable workflows for machine learning.
+* [Hamilton](https://github.com/dagworks-inc/hamilton) - A scalable general purpose micro-framework for defining dataflows.
 * [Kale](https://github.com/kubeflow-kale/kale) - Aims at simplifying the Data Science experience of deploying Kubeflow Pipelines workflows.
 * [Kedro](https://github.com/quantumblacklabs/kedro) - Library that implements software engineering best-practice for data and ML pipelines.
 * [Luigi](https://github.com/spotify/luigi) - Python module that helps you build complex pipelines of batch jobs.
@@ -376,6 +387,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Orchest](https://github.com/orchest/orchest/) - Visual pipeline editor and workflow orchestrator with an easy to use UI and based on Kubernetes.
 * [Ploomber](https://github.com/ploomber/ploomber) - Write maintainable, production-ready pipelines. Develop locally, deploy to the cloud.
 * [Prefect](https://docs.prefect.io/) - A workflow management system, designed for modern infrastructure.
+* [VDP](https://github.com/instill-ai/vdp) - An open-source tool to seamlessly integrate AI for unstructured data into the modern data stack.
 * [ZenML](https://github.com/maiot-io/zenml) - An extensible open-source MLOps framework to create reproducible pipelines.
 
 ---
