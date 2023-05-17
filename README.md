@@ -150,6 +150,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools for data visualization, reports and dashboards.*
 
+* [Arize-Phoenix](https://phoenix.arize.com) - MLOps in a Notebook - uncover insights, surface problems, nonitor, and fine tune your generative LLM, CV, and tabular models
 * [Count](https://count.co) - SQL/drag-and-drop querying and visualisation tool based on notebooks.
 * [Dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter.
 * [Data Studio](https://datastudio.google.com) - Reporting solution for power users who want to go beyond the data and dashboards of GA.
