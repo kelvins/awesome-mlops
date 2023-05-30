@@ -476,6 +476,7 @@ Where to discover new tools and discuss about existing ones.
 * [ML-Ops](https://ml-ops.org/)
 * [MLOps Community](https://mlops.community/)
 * [MLOps Guide](https://mlops-guide.github.io/)
+* [MLOps Now](https://mlopsnow.com)
 
 # Contributing
 
