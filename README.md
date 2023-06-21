@@ -159,6 +159,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Redash](https://redash.io/) - Connect to any data source, easily visualize, dashboard and share your data.
 * [Superset](https://superset.incubator.apache.org/) - Modern, enterprise-ready business intelligence web application.
 * [Tableau](https://www.tableau.com) - Powerful and fastest growing data visualization tool used in the business intelligence industry.
+* [SolidUI](https://github.com/CloudOrc/SolidUI) - AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing.
 
 ## Drift Detection
 
