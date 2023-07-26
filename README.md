@@ -243,7 +243,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [SAS Viya](https://www.sas.com/en_us/software/viya.html) - Cloud native AI, analytic and data management platform that supports the analytics life cycle.
 * [Sematic](https://sematic.dev) - An open-source end-to-end pipelining tool to go from laptop prototype to cloud in no time.
 * [SigOpt](https://sigopt.com/) - A platform that makes it easy to track runs, visualize training, and scale hyperparameter tuning.
-* [TrueFoundry](https://www.truefoundry.com) - A Cloud-native MLOps Platform over Kubernetes to simplify training and serving of ML Models with developer flexibility and lower costs while ensuring security and best DevSecOps practices.
+* [TrueFoundry](https://www.truefoundry.com) - A Cloud-native MLOps Platform over Kubernetes to simplify training and serving of ML Models.
 * [Valohai](https://valohai.com/) - Takes you from POC to production while managing the whole model lifecycle.
 
 ## Model Fairness and Privacy
