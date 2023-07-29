@@ -463,7 +463,7 @@ Where to discover new tools and discuss about existing ones.
 * [Pipeline Conversation](https://podcast.zenml.io/)
 * [Practical AI: Machine Learning, Data Science](https://changelog.com/practicalai)
 * [This Week in Machine Learning & AI](https://twimlai.com/)
-* [TrueMLTalks](https://www.youtube.com/playlist?list=PL4-eEhdXDO5F9Myvh41EeUh7oCgzqFRGk)
+* [True ML Talks](https://www.youtube.com/playlist?list=PL4-eEhdXDO5F9Myvh41EeUh7oCgzqFRGk)
 
 ## Slack
 
