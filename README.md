@@ -217,6 +217,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Allegro AI](https://allegro.ai/) - Transform ML/DL research into products. Faster.
 * [Bodywork](https://bodywork.readthedocs.io/en/latest/) - Deploys machine learning projects developed in Python, to Kubernetes.
 * [CNVRG](https://cnvrg.io/) - An end-to-end machine learning platform to build and deploy AI models at scale.
+* [CometLLM](https://github.com/comet-ml/comet-llm) - Track, visualize, and evaluate your LLM prompts and chains in one easy-to-use UI.
 * [DAGsHub](https://dagshub.com/) - A platform built on open source tools for data, model and pipeline management.
 * [Dataiku](https://www.dataiku.com/) - Platform democratizing access to data and enabling enterprises to build their own path to AI.
 * [DataRobot](https://www.datarobot.com/) - AI platform that democratizes data science and automates the end-to-end ML at scale.
