@@ -361,6 +361,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Aporia](https://www.aporia.com/) - Observability with customized monitoring and explainability for ML models.
 * [Arize](https://www.arize.com/) - A free end-to-end ML observability and model monitoring platform.
+* [CometLLM](https://github.com/comet-ml/comet-llm) - Track, visualize, and evaluate your LLM prompts and chains in one easy-to-use UI.
 * [Evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze ML models during validation or production monitoring.
 * [Fiddler](https://www.fiddler.ai/) - Monitor, explain, and analyze your AI in production.
 * [Manifold](https://github.com/uber/manifold) - A model-agnostic visual debugging tool for machine learning.
