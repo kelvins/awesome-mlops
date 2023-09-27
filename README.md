@@ -343,6 +343,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools related to machine learning simplification and standardization.*
 
+* [Chassis](https://chassisml.io) - Turns models into ML-friendly containers that run just about anywhere.
 * [Hermione](https://github.com/a3data/hermione) - Help Data Scientists on setting up more organized codes, in a quicker and simpler way.
 * [Hydra](https://github.com/facebookresearch/hydra) - A framework for elegantly configuring complex applications.
 * [Koalas](https://github.com/databricks/koalas) - Pandas API on Apache Spark. Makes data scientists more productive when interacting with big data.
