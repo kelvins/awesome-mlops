@@ -267,7 +267,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Lucid](https://github.com/tensorflow/lucid) - Collection of infrastructure and tools for research in neural network interpretability.
 * [SAGE](https://github.com/iancovert/sage) - For calculating global feature importance using Shapley values.
 * [SHAP](https://github.com/slundberg/shap) - A game theoretic approach to explain the output of any machine learning model.
-* [Skater](https://github.com/oracle/Skater) - Unified framework to enable Model Interpretation for all forms of model.
 
 ## Model Lifecycle
 
