@@ -234,7 +234,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [LynxKite](https://lynxkite.com/) - A complete graph data science platform for very large graphs and other datasets.
 * [ML Workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE specialized for machine learning and data science.
 * [MLReef](https://github.com/MLReef/mlreef) - Open source MLOps platform that helps you collaborate, reproduce and share your ML work.
-* [Modzy](https://www.modzy.com/) - AI platform and marketplace offering scalable, secure, and ready-to-deploy AI models.
+* [Modzy](https://www.modzy.com/) - Deploy, connect, run, and monitor machine learning (ML) models in the enterprise and at the edge.
 * [Neu.ro](https://neu.ro) - MLOps platform that integrates open-source and proprietary tools into client-oriented systems.
 * [Omnimizer](https://www.omniml.ai) - Simplifies and accelerates MLOps by bridging the gap between ML models and edge hardware.
 * [Pachyderm](https://www.pachyderm.com/) - Combines data lineage with end-to-end pipelines on Kubernetes, engineered for the enterprise.
