@@ -154,6 +154,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter.
 * [Data Studio](https://datastudio.google.com) - Reporting solution for power users who want to go beyond the data and dashboards of GA.
 * [Facets](https://github.com/PAIR-code/facets) - Visualizations for understanding and analyzing machine learning datasets.
+* [Grafana](https://grafana.com/grafana/) -  Multi-platform open source analytics and interactive visualization web application.
 * [Lux](https://github.com/lux-org/lux) - Fast and easy data exploration by automating the visualization and data analysis process.
 * [Metabase](https://www.metabase.com/) - The simplest, fastest way to get business intelligence and analytics to everyone.
 * [Redash](https://redash.io/) - Connect to any data source, easily visualize, dashboard and share your data.
