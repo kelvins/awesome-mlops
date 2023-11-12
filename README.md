@@ -158,6 +158,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Lux](https://github.com/lux-org/lux) - Fast and easy data exploration by automating the visualization and data analysis process.
 * [Metabase](https://www.metabase.com/) - The simplest, fastest way to get business intelligence and analytics to everyone.
 * [Redash](https://redash.io/) - Connect to any data source, easily visualize, dashboard and share your data.
+* [SolidUI](https://github.com/CloudOrc/SolidUI) - AI-generated visualization prototyping and editing platform, support 2D and 3D models.
 * [Superset](https://superset.incubator.apache.org/) - Modern, enterprise-ready business intelligence web application.
 * [Tableau](https://www.tableau.com) - Powerful and fastest growing data visualization tool used in the business intelligence industry.
 
