@@ -304,7 +304,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [MLEM](https://github.com/iterative/mlem) - Version and deploy your ML models following GitOps principles.
 * [Opyrator](https://github.com/ml-tooling/opyrator) - Turns your ML code into microservices with web API, interactive GUI, and more.
 * [PredictionIO](https://github.com/apache/predictionio) - Event collection, deployment of algorithms, evaluation, querying predictive results via APIs.
-* [Quix](https://docs.quix.io/platform/tutorials/train-and-deploy-ml/deploy-ml.html) - Serverless platform for processing data streams in real-time with machine learning models.
+* [Quix](https://quix.io) - Serverless platform for processing data streams in real-time with machine learning models.
 * [Rune](https://github.com/hotg-ai/rune) - Provides containers to encapsulate and deploy EdgeML pipelines and applications.
 * [Seldon](https://www.seldon.io/) - Take your ML projects from POC to production with maximum efficiency and minimal risk.
 * [Streamlit](https://github.com/streamlit/streamlit) - Lets you create apps for your ML projects with deceptively simple Python scripts.
