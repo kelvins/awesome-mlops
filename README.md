@@ -154,6 +154,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter.
 * [Data Studio](https://datastudio.google.com) - Reporting solution for power users who want to go beyond the data and dashboards of GA.
 * [Facets](https://github.com/PAIR-code/facets) - Visualizations for understanding and analyzing machine learning datasets.
+* [Grafana](https://grafana.com/grafana/) -  Multi-platform open source analytics and interactive visualization web application.
 * [Lux](https://github.com/lux-org/lux) - Fast and easy data exploration by automating the visualization and data analysis process.
 * [Metabase](https://www.metabase.com/) - The simplest, fastest way to get business intelligence and analytics to everyone.
 * [Redash](https://redash.io/) - Connect to any data source, easily visualize, dashboard and share your data.
@@ -235,7 +236,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [LynxKite](https://lynxkite.com/) - A complete graph data science platform for very large graphs and other datasets.
 * [ML Workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE specialized for machine learning and data science.
 * [MLReef](https://github.com/MLReef/mlreef) - Open source MLOps platform that helps you collaborate, reproduce and share your ML work.
-* [Modzy](https://www.modzy.com/) - AI platform and marketplace offering scalable, secure, and ready-to-deploy AI models.
+* [Modzy](https://www.modzy.com/) - Deploy, connect, run, and monitor machine learning (ML) models in the enterprise and at the edge.
 * [Neu.ro](https://neu.ro) - MLOps platform that integrates open-source and proprietary tools into client-oriented systems.
 * [Omnimizer](https://www.omniml.ai) - Simplifies and accelerates MLOps by bridging the gap between ML models and edge hardware.
 * [Pachyderm](https://www.pachyderm.com/) - Combines data lineage with end-to-end pipelines on Kubernetes, engineered for the enterprise.
@@ -244,6 +245,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [SAS Viya](https://www.sas.com/en_us/software/viya.html) - Cloud native AI, analytic and data management platform that supports the analytics life cycle.
 * [Sematic](https://sematic.dev) - An open-source end-to-end pipelining tool to go from laptop prototype to cloud in no time.
 * [SigOpt](https://sigopt.com/) - A platform that makes it easy to track runs, visualize training, and scale hyperparameter tuning.
+* [TrueFoundry](https://www.truefoundry.com) - A Cloud-native MLOps Platform over Kubernetes to simplify training and serving of ML Models.
 * [Valohai](https://valohai.com/) - Takes you from POC to production while managing the whole model lifecycle.
 
 ## Model Fairness and Privacy
@@ -267,7 +269,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Lucid](https://github.com/tensorflow/lucid) - Collection of infrastructure and tools for research in neural network interpretability.
 * [SAGE](https://github.com/iancovert/sage) - For calculating global feature importance using Shapley values.
 * [SHAP](https://github.com/slundberg/shap) - A game theoretic approach to explain the output of any machine learning model.
-* [Skater](https://github.com/oracle/Skater) - Unified framework to enable Model Interpretation for all forms of model.
 
 ## Model Lifecycle
 
@@ -282,7 +283,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Mlflow](https://mlflow.org/) - Open source platform for the machine learning lifecycle.
 * [ModelDB](https://github.com/VertaAI/modeldb/) - Open source ML model versioning, metadata, and experiment management.
 * [Neptune AI](https://neptune.ai/) - The most lightweight experiment management tool that fits any workflow.
-* [Replicate](https://github.com/replicate/replicate) - Library that uploads files and metadata (like hyperparameters) to S3 or GCS.
 * [Sacred](https://github.com/IDSIA/sacred) - A tool to help you configure, organize, log and reproduce experiments.
 * [Weights and Biases](https://github.com/wandb/client) - A tool for visualizing and tracking your machine learning experiments.
 
@@ -294,6 +294,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Beam](https://beam.cloud) - Develop on serverless GPUs, deploy highly performant APIs, and rapidly prototype ML models.
 * [BentoML](https://github.com/bentoml/BentoML) - Open-source platform for high-performance ML model serving.
 * [BudgetML](https://github.com/ebhy/budgetml) - Deploy a ML inference service on a budget in less than 10 lines of code.
+* [Cog](https://github.com/replicate/cog) - Open-source tool that lets you package ML models in a standard, production-ready container.
 * [Cortex](https://www.cortex.dev/) - Machine learning model serving infrastructure.
 * [Gradio](https://github.com/gradio-app/gradio) - Create customizable UI components around your models.
 * [GraphPipe](https://oracle.github.io/graphpipe) - Machine learning model deployment made simple.
@@ -343,6 +344,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools related to machine learning simplification and standardization.*
 
+* [Chassis](https://chassisml.io) - Turns models into ML-friendly containers that run just about anywhere.
 * [Hermione](https://github.com/a3data/hermione) - Help Data Scientists on setting up more organized codes, in a quicker and simpler way.
 * [Hydra](https://github.com/facebookresearch/hydra) - A framework for elegantly configuring complex applications.
 * [Koalas](https://github.com/databricks/koalas) - Pandas API on Apache Spark. Makes data scientists more productive when interacting with big data.
@@ -361,6 +363,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Aporia](https://www.aporia.com/) - Observability with customized monitoring and explainability for ML models.
 * [Arize](https://www.arize.com/) - A free end-to-end ML observability and model monitoring platform.
+* [CometLLM](https://github.com/comet-ml/comet-llm) - Track, visualize, and evaluate your LLM prompts and chains in one easy-to-use UI.
 * [Evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze ML models during validation or production monitoring.
 * [Fiddler](https://www.fiddler.ai/) - Monitor, explain, and analyze your AI in production.
 * [Manifold](https://github.com/uber/manifold) - A model-agnostic visual debugging tool for machine learning.
@@ -464,6 +467,7 @@ Where to discover new tools and discuss about existing ones.
 * [Pipeline Conversation](https://podcast.zenml.io/)
 * [Practical AI: Machine Learning, Data Science](https://changelog.com/practicalai)
 * [This Week in Machine Learning & AI](https://twimlai.com/)
+* [True ML Talks](https://www.youtube.com/playlist?list=PL4-eEhdXDO5F9Myvh41EeUh7oCgzqFRGk)
 
 ## Slack
 
