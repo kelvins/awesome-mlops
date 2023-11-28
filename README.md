@@ -300,6 +300,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [GraphPipe](https://oracle.github.io/graphpipe) - Machine learning model deployment made simple.
 * [Hydrosphere](https://github.com/Hydrospheredata/hydro-serving) - Platform for deploying your Machine Learning to production.
 * [KFServing](https://github.com/kubeflow/kfserving) - Kubernetes custom resource definition for serving ML models on arbitrary frameworks.
+* [LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the free, Open Source OpenAI alternative. LocalAI act as a drop-in replacement REST API that’s compatible with OpenAI API specifications for inferencing. It allows you to run LLMs, generate images, audio, and more locally or on-prem with consumer grade hardware, supporting multiple model architectures.
 * [Merlin](https://github.com/gojek/merlin) - A platform for deploying and serving machine learning models.
 * [MLEM](https://github.com/iterative/mlem) - Version and deploy your ML models following GitOps principles.
 * [Opyrator](https://github.com/ml-tooling/opyrator) - Turns your ML code into microservices with web API, interactive GUI, and more.
