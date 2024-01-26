@@ -431,12 +431,13 @@ Where to discover new tools and discuss about existing ones.
 * [Machine Learning Engineering in Action](https://www.manning.com/books/machine-learning-engineering-in-action) (Manning)
 * [ML Ops: Operationalizing Data Science](https://www.oreilly.com/library/view/ml-ops-operationalizing/9781492074663) (O'Reilly)
 * [MLOps Engineering at Scale](https://www.manning.com/books/mlops-engineering-at-scale) (Manning)
+* [MLOps Lifecycle Toolkit](https://link.springer.com/book/10.1007/978-1-4842-9642-4) (Apress)
 * [Practical Deep Learning at Scale with MLflow](https://www.packtpub.com/product/practical-deep-learning-at-scale-with-mlflow/9781803241333) (Packt)
 * [Practical MLOps](https://www.oreilly.com/library/view/practical-mlops/9781098103002) (O'Reilly)
 * [Production-Ready Applied Deep Learning](https://www.packtpub.com/product/production-ready-applied-deep-learning/9781803243665) (Packt)
 * [Reliable Machine Learning](https://www.oreilly.com/library/view/reliable-machine-learning/9781098106218) (O'Reilly)
 * [The Machine Learning Solutions Architect Handbook](https://www.packtpub.com/product/the-machine-learning-solutions-architect-handbook/9781801072168) (Packt)
-* [MLOps Lifecycle Toolkit](https://www.oreilly.com/library/view/implementing-mlops-in/9781098136574/) (Apress)
+
 ## Events
 
 * [apply() - The ML data engineering conference](https://www.applyconf.com/)
