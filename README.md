@@ -480,7 +480,7 @@ Where to discover new tools and discuss about existing ones.
 ## Websites
 
 * [Feature Stores for ML](http://featurestore.org/)
-* [Made with ML](https://madewithml.com/)
+* [Made with ML](https://github.com/GokuMohandas/Made-With-ML)
 * [ML-Ops](https://ml-ops.org/)
 * [MLOps Community](https://mlops.community/)
 * [MLOps Guide](https://mlops-guide.github.io/)
