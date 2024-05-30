@@ -2,6 +2,12 @@
   "ignorePatterns": [
     {
       "pattern": "https://mlopsworld.com/"
+    },
+    {
+      "pattern": "https://www.tableau.com"
+    },
+    {
+      "pattern": "https://sigopt.com/"
     }
   ],
   "timeout": "20s",
