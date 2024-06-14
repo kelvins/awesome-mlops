@@ -416,6 +416,8 @@ Where to discover new tools and discuss about existing ones.
 * [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml) (Google)
 * [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf) (Google)
 * [What Is MLOps?](https://blogs.nvidia.com/blog/2020/09/03/what-is-mlops/) (NVIDIA)
+* [MLOps Roadmap: A Complete MLOps Career Guide](https://www.scaler.com/blog/mlops-roadmap/) (Scaler Blogs)
+
 
 ## Books
 
