@@ -397,6 +397,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Ploomber](https://github.com/ploomber/ploomber) - Write maintainable, production-ready pipelines. Develop locally, deploy to the cloud.
 * [Prefect](https://docs.prefect.io/) - A workflow management system, designed for modern infrastructure.
 * [VDP](https://github.com/instill-ai/vdp) - An open-source tool to seamlessly integrate AI for unstructured data into the modern data stack.
+* [Wordware](https://www.wordware.ai) - A web-hosted IDE where non-technical domain experts work with AI Engineers to build task-specific AI agents. It approaches prompting as a new programming language rather than low/no-code blocks.
 * [ZenML](https://github.com/maiot-io/zenml) - An extensible open-source MLOps framework to create reproducible pipelines.
 
 ---
