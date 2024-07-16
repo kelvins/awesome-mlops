@@ -275,13 +275,14 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools for managing model lifecycle (tracking experiments, parameters and metrics).*
 
+* [Aeromancy](https://quant-aq.github.io/aeromancy/): Aims to maximize reproducibility while minimizing friction (built on top of [Weights and Biases](https://github.com/wandb/client)).
 * [Aim](https://github.com/aimhubio/aim) - A super-easy way to record, search and compare 1000s of ML training runs.
 * [Cascade](https://github.com/Oxid15/cascade) - Library of ML-Engineering tools for rapid prototyping and experiment management.
 * [Comet](https://github.com/comet-ml) - Track your datasets, code changes, experimentation history, and models.
 * [Guild AI](https://guild.ai/) - Open source experiment tracking, pipeline automation, and hyperparameter tuning.
 * [Keepsake](https://github.com/replicate/keepsake) - Version control for machine learning with support to Amazon S3 and Google Cloud Storage.
 * [Losswise](https://losswise.com) - Makes it easy to track the progress of a machine learning project.
-* [Mlflow](https://mlflow.org/) - Open source platform for the machine learning lifecycle.
+* [MLflow](https://mlflow.org/) - Open source platform for the machine learning lifecycle.
 * [ModelDB](https://github.com/VertaAI/modeldb/) - Open source ML model versioning, metadata, and experiment management.
 * [Neptune AI](https://neptune.ai/) - The most lightweight experiment management tool that fits any workflow.
 * [Sacred](https://github.com/IDSIA/sacred) - A tool to help you configure, organize, log and reproduce experiments.
