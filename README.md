@@ -275,7 +275,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools for managing model lifecycle (tracking experiments, parameters and metrics).*
 
-* [Aeromancy](https://quant-aq.github.io/aeromancy/): Aims to maximize reproducibility while minimizing friction (built on top of [Weights and Biases](https://github.com/wandb/client)).
+* [Aeromancy](https://github.com/quant-aq/aeromancy) - A framework for performing reproducible AI and ML for Weights and Biases.
 * [Aim](https://github.com/aimhubio/aim) - A super-easy way to record, search and compare 1000s of ML training runs.
 * [Cascade](https://github.com/Oxid15/cascade) - Library of ML-Engineering tools for rapid prototyping and experiment management.
 * [Comet](https://github.com/comet-ml) - Track your datasets, code changes, experimentation history, and models.
@@ -399,7 +399,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Ploomber](https://github.com/ploomber/ploomber) - Write maintainable, production-ready pipelines. Develop locally, deploy to the cloud.
 * [Prefect](https://docs.prefect.io/) - A workflow management system, designed for modern infrastructure.
 * [VDP](https://github.com/instill-ai/vdp) - An open-source tool to seamlessly integrate AI for unstructured data into the modern data stack.
-* [Wordware](https://www.wordware.ai) - A web-hosted IDE where non-technical domain experts work with AI Engineers to build task-specific AI agents. It approaches prompting as a new programming language rather than low/no-code blocks.
+* [Wordware](https://www.wordware.ai) - A web-hosted IDE where non-technical domain experts work with AI Engineers to build task-specific AI agents.
 * [ZenML](https://github.com/maiot-io/zenml) - An extensible open-source MLOps framework to create reproducible pipelines.
 
 ---
