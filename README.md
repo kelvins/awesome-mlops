@@ -278,7 +278,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Aeromancy](https://github.com/quant-aq/aeromancy) - A framework for performing reproducible AI and ML for Weights and Biases.
 * [Aim](https://github.com/aimhubio/aim) - A super-easy way to record, search and compare 1000s of ML training runs.
 * [Cascade](https://github.com/Oxid15/cascade) - Library of ML-Engineering tools for rapid prototyping and experiment management.
-* [Comet](https://github.com/comet-ml) - Track your datasets, code changes, experimentation history, and models.
+* [Comet](https://github.com/comet-ml/comet-examples) - Track your datasets, code changes, experimentation history, and models.
 * [Guild AI](https://guild.ai/) - Open source experiment tracking, pipeline automation, and hyperparameter tuning.
 * [Keepsake](https://github.com/replicate/keepsake) - Version control for machine learning with support to Amazon S3 and Google Cloud Storage.
 * [Losswise](https://losswise.com) - Makes it easy to track the progress of a machine learning project.
@@ -369,12 +369,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Aporia](https://www.aporia.com/) - Observability with customized monitoring and explainability for ML models.
 * [Arize](https://www.arize.com/) - A free end-to-end ML observability and model monitoring platform.
-* [CometLLM](https://github.com/comet-ml/comet-llm) - Track, visualize, and evaluate your LLM prompts and chains in one easy-to-use UI.
 * [Evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze ML models during validation or production monitoring.
 * [Fiddler](https://www.fiddler.ai/) - Monitor, explain, and analyze your AI in production.
 * [Manifold](https://github.com/uber/manifold) - A model-agnostic visual debugging tool for machine learning.
 * [NannyML](https://github.com/NannyML/nannyml) - Algorithm capable of fully capturing the impact of data drift on performance.
 * [Netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models.
+* [Opik](https://github.com/comet-ml/opik) - Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle.
 * [Phoenix](https://phoenix.arize.com) - MLOps in a Notebook for troubleshooting and fine-tuning generative LLM, CV, and tabular models.
 * [Radicalbit](https://github.com/radicalbit/radicalbit-ai-monitoring/) - The open source solution for monitoring your AI models in production.
 * [Superwise](https://www.superwise.ai) - Fully automated, enterprise-grade model observability in a self-service SaaS platform.
