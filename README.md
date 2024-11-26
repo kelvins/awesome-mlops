@@ -412,6 +412,7 @@ Where to discover new tools and discuss about existing ones.
 ## Articles
 
 * [A Tour of End-to-End Machine Learning Platforms](https://databaseline.tech/a-tour-of-end-to-end-ml-platforms/) (Databaseline)
+* [Artificial Intelligence (AI) Interview Questions and Answers](https://www.appliedaicourse.com/blog/ai-interview-questions/) (Applied AI Blogs)
 * [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html) (Martin Fowler)
 * [Delivering on the Vision of MLOps: A maturity-based approach](https://azure.microsoft.com/mediahandler/files/resourcefiles/gigaom-Delivering-on-the-Vision-of-MLOps/Delivering%20on%20the%20Vision%20of%20MLOps.pdf) (GigaOm)
 * [Machine Learning Operations (MLOps): Overview, Definition, and Architecture](https://arxiv.org/abs/2205.02302) (arXiv)
