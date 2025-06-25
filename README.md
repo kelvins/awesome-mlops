@@ -490,6 +490,7 @@ Where to discover new tools and discuss about existing ones.
 * [MLOps Community](https://mlops.community/)
 * [MLOps Guide](https://mlops-guide.github.io/)
 * [MLOps Now](https://mlopsnow.com)
+* [A guide to MLOps](https://mlops.swiss-ai-center.ch/)
 
 # Contributing
 
