@@ -476,6 +476,7 @@ Where to discover new tools and discuss about existing ones.
 * [Practical AI: Machine Learning, Data Science](https://changelog.com/practicalai)
 * [This Week in Machine Learning & AI](https://twimlai.com/)
 * [True ML Talks](https://www.youtube.com/playlist?list=PL4-eEhdXDO5F9Myvh41EeUh7oCgzqFRGk)
+* [AI Stories Podcast](https://www.youtube.com/@aistoriespodcast)
 
 ## Slack
 
