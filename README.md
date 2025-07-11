@@ -469,6 +469,7 @@ Where to discover new tools and discuss about existing ones.
 
 ## Podcasts
 
+* [AI Stories Podcast](https://www.youtube.com/@aistoriespodcast)
 * [Kubernetes Podcast from Google](https://kubernetespodcast.com/)
 * [Machine Learning – Software Engineering Daily](https://podcasts.google.com/?feed=aHR0cHM6Ly9zb2Z0d2FyZWVuZ2luZWVyaW5nZGFpbHkuY29tL2NhdGVnb3J5L21hY2hpbmUtbGVhcm5pbmcvZmVlZC8)
 * [MLOps.community](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xNzRjYjFiOC9wb2RjYXN0L3Jzcw)
@@ -476,7 +477,6 @@ Where to discover new tools and discuss about existing ones.
 * [Practical AI: Machine Learning, Data Science](https://changelog.com/practicalai)
 * [This Week in Machine Learning & AI](https://twimlai.com/)
 * [True ML Talks](https://www.youtube.com/playlist?list=PL4-eEhdXDO5F9Myvh41EeUh7oCgzqFRGk)
-* [AI Stories Podcast](https://www.youtube.com/@aistoriespodcast)
 
 ## Slack
 
