@@ -484,6 +484,7 @@ Where to discover new tools and discuss about existing ones.
 
 ## Websites
 
+* [A guide to MLOps](https://mlops.swiss-ai-center.ch/)
 * [Feature Stores for ML](http://featurestore.org/)
 * [Made with ML](https://github.com/GokuMohandas/Made-With-ML)
 * [ML-Ops](https://ml-ops.org/)
