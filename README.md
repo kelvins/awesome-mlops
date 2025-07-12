@@ -169,6 +169,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Alibi Detect](https://github.com/SeldonIO/alibi-detect) - An open source Python library focused on outlier, adversarial and drift detection.
 * [Frouros](https://github.com/IFCA/frouros) - An open source Python library for drift detection in machine learning systems.
+* [ml3-drift](https://github.com/ml-cube/ml3-drift) - Drift detection algorithms seamlessly integrated with known ML and AI frameworks.
 * [TorchDrift](https://github.com/torchdrift/torchdrift/) - A data and concept drift library for PyTorch.
 
 ## Feature Engineering
