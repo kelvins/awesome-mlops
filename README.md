@@ -422,6 +422,7 @@ Where to discover new tools and discuss about existing ones.
 
 ## Books
 
+* [AI Governance](https://www.manning.com/books/ai-governance) (Manning)
 * [Beginning MLOps with MLFlow](https://www.amazon.com/Beginning-MLOps-MLFlow-SageMaker-Microsoft/dp/1484265483) (Apress)
 * [Building Machine Learning Pipelines](https://www.oreilly.com/library/view/building-machine-learning/9781492053187) (O'Reilly)
 * [Building Machine Learning Powered Applications](https://www.oreilly.com/library/view/building-machine-learning/9781492045106) (O'Reilly)
