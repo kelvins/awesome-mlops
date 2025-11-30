@@ -402,6 +402,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [VDP](https://github.com/instill-ai/vdp) - An open-source tool to seamlessly integrate AI for unstructured data into the modern data stack.
 * [Wordware](https://www.wordware.ai) - A web-hosted IDE where non-technical domain experts can build task-specific AI agents.
 * [ZenML](https://github.com/maiot-io/zenml) - An extensible open-source MLOps framework to create reproducible pipelines.
+* [LaikaTest](https://laikatest.com/) - A prompt evaluation and optimization tool for LLM applications with A/B testing, real-time analytics, and built-in safety guardrails.
 
 ---
 
