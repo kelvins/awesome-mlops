@@ -104,7 +104,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [JupyterLab](https://jupyterlab.readthedocs.io) - The next-generation user interface for Project Jupyter.
 * [Jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts.
 * [Deepnote](https://github.com/deepnote/deepnote) - Deepnote is a drop-in replacement for Jupyter and an AI-native data workspace for modern data teams.
-
 * [Pandas Profiling](https://github.com/ydataai/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects.
 * [Polynote](https://polynote.org/) - The polyglot notebook with first-class Scala support.
 
