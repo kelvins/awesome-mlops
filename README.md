@@ -103,7 +103,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Jupyter Notebook](https://jupyter.org/) - Web-based notebook environment for interactive computing.
 * [JupyterLab](https://jupyterlab.readthedocs.io) - The next-generation user interface for Project Jupyter.
 * [Jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts.
-* [Deepnote](https://github.com/deepnote/deepnote) - Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for real-time collaboration, Deepnote agent, and deployable data apps.
+* [Deepnote](https://github.com/deepnote/deepnote) - Deepnote is a drop-in replacement for Jupyter and an AI-native data workspace for modern data teams.
+
 * [Pandas Profiling](https://github.com/ydataai/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects.
 * [Polynote](https://polynote.org/) - The polyglot notebook with first-class Scala support.
 
