@@ -72,6 +72,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Cronitor](https://cronitor.io/cron-job-monitoring) - Monitor any cron job or scheduled task.
 * [HealthchecksIO](https://healthchecks.io/) - Simple and effective cron job monitoring.
+* [Heartbeat.pm](https://heartbeat.pm) - Monitoring aliveness of any sensor/cron job.
 
 ## Data Catalog
 
@@ -99,6 +100,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Apache Zeppelin](https://zeppelin.apache.org/) - Enables data-driven, interactive data analytics and collaborative documents.
 * [BambooLib](https://github.com/tkrabel/bamboolib) -  An intuitive GUI for Pandas DataFrames.
 * [DataPrep](https://github.com/sfu-db/dataprep) - Collect, clean and visualize your data in Python.
+* [Deepnote](https://github.com/deepnote/deepnote) - Drop-in replacement for Jupyter and an AI-native workspace for modern data teams.
 * [Google Colab](https://colab.research.google.com) - Hosted Jupyter notebook service that requires no setup to use.
 * [Jupyter Notebook](https://jupyter.org/) - Web-based notebook environment for interactive computing.
 * [JupyterLab](https://jupyterlab.readthedocs.io) - The next-generation user interface for Project Jupyter.
@@ -423,6 +425,7 @@ Where to discover new tools and discuss about existing ones.
 
 ## Books
 
+* [AI Governance](https://www.manning.com/books/ai-governance) (Manning)
 * [Beginning MLOps with MLFlow](https://www.amazon.com/Beginning-MLOps-MLFlow-SageMaker-Microsoft/dp/1484265483) (Apress)
 * [Building Machine Learning Pipelines](https://www.oreilly.com/library/view/building-machine-learning/9781492053187) (O'Reilly)
 * [Building Machine Learning Powered Applications](https://www.oreilly.com/library/view/building-machine-learning/9781492045106) (O'Reilly)
@@ -492,6 +495,7 @@ Where to discover new tools and discuss about existing ones.
 * [MLOps Community](https://mlops.community/)
 * [MLOps Guide](https://mlops-guide.github.io/)
 * [MLOps Now](https://mlopsnow.com)
+* [System Designer - ML Systems](https://systemdesigner.net/ml-systems)
 
 # Contributing
 
