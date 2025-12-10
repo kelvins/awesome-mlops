@@ -72,6 +72,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Cronitor](https://cronitor.io/cron-job-monitoring) - Monitor any cron job or scheduled task.
 * [HealthchecksIO](https://healthchecks.io/) - Simple and effective cron job monitoring.
+* [Heartbeat.pm](https://heartbeat.pm) - Monitoring aliveness of any sensor/cron job.
 
 ## Data Catalog
 
@@ -99,6 +100,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Apache Zeppelin](https://zeppelin.apache.org/) - Enables data-driven, interactive data analytics and collaborative documents.
 * [BambooLib](https://github.com/tkrabel/bamboolib) -  An intuitive GUI for Pandas DataFrames.
 * [DataPrep](https://github.com/sfu-db/dataprep) - Collect, clean and visualize your data in Python.
+* [Deepnote](https://github.com/deepnote/deepnote) - Drop-in replacement for Jupyter and an AI-native workspace for modern data teams.
 * [Google Colab](https://colab.research.google.com) - Hosted Jupyter notebook service that requires no setup to use.
 * [Jupyter Notebook](https://jupyter.org/) - Web-based notebook environment for interactive computing.
 * [JupyterLab](https://jupyterlab.readthedocs.io) - The next-generation user interface for Project Jupyter.
@@ -400,6 +402,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Ploomber](https://github.com/ploomber/ploomber) - Write maintainable, production-ready pipelines. Develop locally, deploy to the cloud.
 * [Prefect](https://docs.prefect.io/) - A workflow management system, designed for modern infrastructure.
 * [VDP](https://github.com/instill-ai/vdp) - An open-source tool to seamlessly integrate AI for unstructured data into the modern data stack.
+* [Velda](https://velda.io) - Run jobs and workflows as if on your local machine.
 * [Wordware](https://www.wordware.ai) - A web-hosted IDE where non-technical domain experts can build task-specific AI agents.
 * [ZenML](https://github.com/maiot-io/zenml) - An extensible open-source MLOps framework to create reproducible pipelines.
 
@@ -416,12 +419,14 @@ Where to discover new tools and discuss about existing ones.
 * [MLOps Roadmap: A Complete MLOps Career Guide](https://www.scaler.com/blog/mlops-roadmap/) (Scaler Blogs)
 * [MLOps: Continuous delivery and automation pipelines in machine learning](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) (Google)
 * [MLOps: Machine Learning as an Engineering Discipline](https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f) (Medium)
+* [Practitioners guide to MLOps: A framework for continuous delivery and automation of machine learning](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf) (Google)
 * [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml) (Google)
 * [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf) (Google)
 * [What Is MLOps?](https://blogs.nvidia.com/blog/2020/09/03/what-is-mlops/) (NVIDIA)
 
 ## Books
 
+* [AI Governance](https://www.manning.com/books/ai-governance) (Manning)
 * [AI Model Evaluation](https://www.manning.com/books/ai-model-evaluation) (Manning)
 * [Beginning MLOps with MLFlow](https://www.amazon.com/Beginning-MLOps-MLFlow-SageMaker-Microsoft/dp/1484265483) (Apress)
 * [Building Machine Learning Pipelines](https://www.oreilly.com/library/view/building-machine-learning/9781492053187) (O'Reilly)
@@ -492,6 +497,7 @@ Where to discover new tools and discuss about existing ones.
 * [MLOps Community](https://mlops.community/)
 * [MLOps Guide](https://mlops-guide.github.io/)
 * [MLOps Now](https://mlopsnow.com)
+* [System Designer - ML Systems](https://systemdesigner.net/ml-systems)
 
 # Contributing
 
