@@ -399,7 +399,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Orchest](https://github.com/orchest/orchest/) - Visual pipeline editor and workflow orchestrator with an easy to use UI and based on Kubernetes.
 * [Ploomber](https://github.com/ploomber/ploomber) - Write maintainable, production-ready pipelines. Develop locally, deploy to the cloud.
 * [Prefect](https://docs.prefect.io/) - A workflow management system, designed for modern infrastructure.
-* [Velda](https://velda.io) - Run jobs and workflows as if on your local machine — just add the `vrun` prefix to your usual commands.
+* [Velda](https://velda.io) - Run jobs and workflows as if on your local machine.
 * [VDP](https://github.com/instill-ai/vdp) - An open-source tool to seamlessly integrate AI for unstructured data into the modern data stack.
 * [Wordware](https://www.wordware.ai) - A web-hosted IDE where non-technical domain experts can build task-specific AI agents.
 * [ZenML](https://github.com/maiot-io/zenml) - An extensible open-source MLOps framework to create reproducible pipelines.
