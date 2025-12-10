@@ -8,11 +8,14 @@
     },
     {
       "pattern": "https://sigopt.com/"
+    },
+    {
+      "pattern": "https://www.modzy.com/"
     }
   ],
   "timeout": "20s",
   "retryOn429": true,
   "retryCount": 5,
   "fallbackRetryDelay": "30s",
-  "aliveStatusCodes": [0, 200]
+  "aliveStatusCodes": [0, 200, 403, 406]
 }
