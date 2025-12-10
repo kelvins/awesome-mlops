@@ -72,6 +72,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Cronitor](https://cronitor.io/cron-job-monitoring) - Monitor any cron job or scheduled task.
 * [HealthchecksIO](https://healthchecks.io/) - Simple and effective cron job monitoring.
+* [Heartbeat.pm](https://heartbeat.pm) - Monitoring aliveness of any sensor/cron job.
 
 ## Data Catalog
 
