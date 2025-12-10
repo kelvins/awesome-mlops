@@ -99,11 +99,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Apache Zeppelin](https://zeppelin.apache.org/) - Enables data-driven, interactive data analytics and collaborative documents.
 * [BambooLib](https://github.com/tkrabel/bamboolib) -  An intuitive GUI for Pandas DataFrames.
 * [DataPrep](https://github.com/sfu-db/dataprep) - Collect, clean and visualize your data in Python.
+* [Deepnote](https://github.com/deepnote/deepnote) - Drop-in replacement for Jupyter and an AI-native workspace for modern data teams.
 * [Google Colab](https://colab.research.google.com) - Hosted Jupyter notebook service that requires no setup to use.
 * [Jupyter Notebook](https://jupyter.org/) - Web-based notebook environment for interactive computing.
 * [JupyterLab](https://jupyterlab.readthedocs.io) - The next-generation user interface for Project Jupyter.
 * [Jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts.
-* [Deepnote](https://github.com/deepnote/deepnote) - Deepnote is a drop-in replacement for Jupyter and an AI-native data workspace for modern data teams.
 * [Pandas Profiling](https://github.com/ydataai/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects.
 * [Polynote](https://polynote.org/) - The polyglot notebook with first-class Scala support.
 
