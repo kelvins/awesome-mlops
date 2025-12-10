@@ -491,7 +491,7 @@ Where to discover new tools and discuss about existing ones.
 * [MLOps Community](https://mlops.community/)
 * [MLOps Guide](https://mlops-guide.github.io/)
 * [MLOps Now](https://mlopsnow.com)
-* [System Designer - ML Systems](https://systemdesigner.net/ml-systems) - Interactive learning platform for ML systems and MLOps with 28 lessons covering training pipelines, model serving, feature stores, and monitoring. Features AI tutor, collaborative whiteboards, quizzes, and hands-on projects.
+* [System Designer - ML Systems](https://systemdesigner.net/ml-systems)
 
 # Contributing
 
