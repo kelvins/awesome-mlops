@@ -163,9 +163,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Superset](https://superset.incubator.apache.org/) - Modern, enterprise-ready business intelligence web application.
 * [Tableau](https://www.tableau.com) - Powerful and fastest growing data visualization tool used in the business intelligence industry.
 
-##  Detection
+## Drift Detection
 
-*Tools and libraries related to  detection.*
+*Tools and libraries related to drift detection.*
 
 * [Alibi Detect](https://github.com/SeldonIO/alibi-detect) - An open source Python library focused on outlier, adversarial and drift detection.
 * [Frouros](https://github.com/IFCA/frouros) - An open source Python library for drift detection in machine learning systems.
