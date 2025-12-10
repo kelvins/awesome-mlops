@@ -493,6 +493,7 @@ Where to discover new tools and discuss about existing ones.
 * [MLOps Community](https://mlops.community/)
 * [MLOps Guide](https://mlops-guide.github.io/)
 * [MLOps Now](https://mlopsnow.com)
+* [System Designer - ML Systems](https://systemdesigner.net/ml-systems)
 
 # Contributing
 
