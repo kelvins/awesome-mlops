@@ -81,6 +81,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Amundsen](https://www.amundsen.io/) - Data discovery and metadata engine for improving the productivity when interacting with data.
 * [Apache Atlas](https://atlas.apache.org) - Provides open metadata management and governance capabilities to build a data catalog.
 * [CKAN](https://github.com/ckan/ckan) - Open-source DMS (data management system) for powering data hubs and data portals.
+* [CsvPath Framework](https://www.csvpath.org) - Data preboarding infrastructure that sits as a trusted publisher between MFT and the data lake.
 * [DataHub](https://github.com/linkedin/datahub) - LinkedIn's generalized metadata search & discovery tool.
 * [Magda](https://github.com/magda-io/magda) - A federated, open-source data catalog for all your big data and small data.
 * [Metacat](https://github.com/Netflix/metacat) - Unified metadata exploration API service for Hive, RDS, Teradata, Redshift, S3 and Cassandra.
