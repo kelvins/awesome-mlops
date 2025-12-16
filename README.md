@@ -406,6 +406,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Velda](https://velda.io) - Run jobs and workflows as if on your local machine.
 * [Wordware](https://www.wordware.ai) - A web-hosted IDE where non-technical domain experts can build task-specific AI agents.
 * [ZenML](https://github.com/maiot-io/zenml) - An extensible open-source MLOps framework to create reproducible pipelines.
+* [LaikaTest](https://laikatest.com/) - A prompt evaluation and optimization tool for LLM applications with A/B testing, real-time analytics, and built-in safety guardrails.
 
 ---
 
