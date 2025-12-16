@@ -251,6 +251,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [SigOpt](https://sigopt.com/) - A platform that makes it easy to track runs, visualize training, and scale hyperparameter tuning.
 * [TrueFoundry](https://www.truefoundry.com) - A Cloud-native MLOps Platform over Kubernetes to simplify training and serving of ML Models.
 * [Valohai](https://valohai.com/) - Takes you from POC to production while managing the whole model lifecycle.
+* [Skyulf](https://github.com/flyingriverhorse/Skyulf) – An open-source MLOps web app for orchestrating data pipelines and model training workflows with react flow UI.
 
 ## Model Fairness and Privacy
 
