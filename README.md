@@ -457,6 +457,7 @@ Where to discover new tools and discuss about existing ones.
 * [MLOps World: Machine Learning in Production Conference](https://mlopsworld.com/)
 * [NormConf - The Normcore Tech Conference](https://normconf.com/)
 * [Stanford MLSys Seminar Series](https://mlsys.stanford.edu/)
+* [AI Conference Deadline](https://aiconferenceddl.com/)
 
 ## Other Lists
 
