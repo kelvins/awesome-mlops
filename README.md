@@ -250,7 +250,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Sematic](https://sematic.dev) - An open-source end-to-end pipelining tool to go from laptop prototype to cloud in no time.
 * [SigOpt](https://sigopt.com/) - A platform that makes it easy to track runs, visualize training, and scale hyperparameter tuning.
 * [TrueFoundry](https://www.truefoundry.com) - A Cloud-native MLOps Platform over Kubernetes to simplify training and serving of ML Models.
-* [Valohai](https://valohai.com/) - Takes you from POC to production while managing the whole model lifecycle.
+* [Valohai](https://valohai.com/) - MLOps platform for reproducible ML and LLM workflows from experimentation to production, with execution lineage, auditability, and hybrid deployment support.
 
 ## Model Fairness and Privacy
 
