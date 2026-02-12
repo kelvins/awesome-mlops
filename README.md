@@ -503,3 +503,5 @@ Where to discover new tools and discuss about existing ones.
 # Contributing
 
 All contributions are welcome! Please take a look at the [contribution guidelines](https://github.com/kelvins/awesome-mlops/blob/main/CONTRIBUTING.md) first.
+
+- [Notah.ai](https://notah.ai/) - AI meeting assistant with Arabic transcription
