@@ -242,6 +242,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [MLReef](https://github.com/MLReef/mlreef) - Open source MLOps platform that helps you collaborate, reproduce and share your ML work.
 * [Modzy](https://www.modzy.com/) - Deploy, connect, run, and monitor machine learning (ML) models in the enterprise and at the edge.
 * [Neu.ro](https://neu.ro) - MLOps platform that integrates open-source and proprietary tools into client-oriented systems.
+* [Neurolink](https://github.com/juspay/neurolink) - TypeScript-first multi-provider AI agent framework with workflow orchestration and MCP support.
 * [Omnimizer](https://www.omniml.ai) - Simplifies and accelerates MLOps by bridging the gap between ML models and edge hardware.
 * [Pachyderm](https://www.pachyderm.com/) - Combines data lineage with end-to-end pipelines on Kubernetes, engineered for the enterprise.
 * [Polyaxon](https://www.github.com/polyaxon/polyaxon/) - A platform for reproducible and scalable machine learning and deep learning on kubernetes.
@@ -250,7 +251,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Sematic](https://sematic.dev) - An open-source end-to-end pipelining tool to go from laptop prototype to cloud in no time.
 * [SigOpt](https://sigopt.com/) - A platform that makes it easy to track runs, visualize training, and scale hyperparameter tuning.
 * [TrueFoundry](https://www.truefoundry.com) - A Cloud-native MLOps Platform over Kubernetes to simplify training and serving of ML Models.
-* [Valohai](https://valohai.com/) - Takes you from POC to production while managing the whole model lifecycle.
+* [Valohai](https://valohai.com/) - MLOps platform for reproducible ML and LLM workflows from experimentation to production.
 
 ## Model Fairness and Privacy
 
@@ -374,12 +375,14 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Arize](https://www.arize.com/) - A free end-to-end ML observability and model monitoring platform.
 * [Evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze ML models during validation or production monitoring.
 * [Fiddler](https://www.fiddler.ai/) - Monitor, explain, and analyze your AI in production.
+* [Manifest](https://github.com/mnfst/manifest) - Open-source real-time cost observability for AI agents.
 * [Manifold](https://github.com/uber/manifold) - A model-agnostic visual debugging tool for machine learning.
 * [NannyML](https://github.com/NannyML/nannyml) - Algorithm capable of fully capturing the impact of data drift on performance.
 * [Netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models.
 * [Opik](https://github.com/comet-ml/opik) - Evaluate, test, and ship LLM applications with a suite of observability tools.
 * [Phoenix](https://phoenix.arize.com) - MLOps in a Notebook for troubleshooting and fine-tuning generative LLM, CV, and tabular models.
 * [Radicalbit](https://github.com/radicalbit/radicalbit-ai-monitoring/) - The open source solution for monitoring your AI models in production.
+* [Rhesis](https://github.com/rhesis-ai/rhesis) - Testing infrastructure for LLM and agentic applications with collaborative evaluation.
 * [Superwise](https://www.superwise.ai) - Fully automated, enterprise-grade model observability in a self-service SaaS platform.
 * [Whylogs](https://github.com/whylabs/whylogs) - The open source standard for data logging. Enables ML monitoring and observability.
 * [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection.
@@ -453,7 +456,7 @@ Where to discover new tools and discuss about existing ones.
 
 ## Events
 
-* [apply() - The ML data engineering conference](https://www.applyconf.com/)
+* [AI Conference Deadline](https://aiconferenceddl.com/)
 * [MLOps Conference - Keynotes and Panels](https://www.youtube.com/playlist?list=PLH8M0UOY0uy6d_n3vEQe6J_gRBUrISF9m)
 * [MLOps World: Machine Learning in Production Conference](https://mlopsworld.com/)
 * [NormConf - The Normcore Tech Conference](https://normconf.com/)
