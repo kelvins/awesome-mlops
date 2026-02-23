@@ -382,6 +382,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Opik](https://github.com/comet-ml/opik) - Evaluate, test, and ship LLM applications with a suite of observability tools.
 * [Phoenix](https://phoenix.arize.com) - MLOps in a Notebook for troubleshooting and fine-tuning generative LLM, CV, and tabular models.
 * [Radicalbit](https://github.com/radicalbit/radicalbit-ai-monitoring/) - The open source solution for monitoring your AI models in production.
+* [Rhesis](https://github.com/rhesis-ai/rhesis) - Testing infrastructure for LLM and agentic applications with collaborative evaluation.
 * [Superwise](https://www.superwise.ai) - Fully automated, enterprise-grade model observability in a self-service SaaS platform.
 * [Whylogs](https://github.com/whylabs/whylogs) - The open source standard for data logging. Enables ML monitoring and observability.
 * [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection.
