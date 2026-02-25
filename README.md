@@ -328,7 +328,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Deepchecks](https://github.com/deepchecks/deepchecks) - Open-source package for validating ML models & data, with various checks and suites.
 * [Starwhale](https://github.com/star-whale/starwhale) - An MLOps/LLMOps platform for model building, evaluation, and fine-tuning.
 * [Trubrics](https://github.com/trubrics/trubrics-sdk) - Validate machine learning with data science and domain expert feedback.
-* [Veritensor](https://github.com/ArseniiBrazhnyk/Veritensor) - DevSecOps tool for MLOps. Scans models for malware (RCE), datasets for poisoning, and generates cryptographic data provenance manifests.
+* [Veritensor](https://github.com/arsbr/Veritensor) - DevSecOps tool for MLOps. Scans models for malware (RCE), datasets for poisoning, and generates cryptographic data provenance manifests.
   
 ## Optimization Tools
 
