@@ -327,6 +327,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Tools for testing and validating models.*
 
 * [Deepchecks](https://github.com/deepchecks/deepchecks) - Open-source package for validating ML models & data, with various checks and suites.
+* [Gait](https://github.com/davidahmann/gait) - OSS Go CLI for signed agent runpacks, deterministic replay/diff, CI regressions, and policy-gated tool calls.
 * [Starwhale](https://github.com/star-whale/starwhale) - An MLOps/LLMOps platform for model building, evaluation, and fine-tuning.
 * [Trubrics](https://github.com/trubrics/trubrics-sdk) - Validate machine learning with data science and domain expert feedback.
 
