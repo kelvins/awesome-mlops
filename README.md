@@ -300,6 +300,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Beam](https://beam.cloud) - Develop on serverless GPUs, deploy highly performant APIs, and rapidly prototype ML models.
 * [BentoML](https://github.com/bentoml/BentoML) - Open-source platform for high-performance ML model serving.
 * [BudgetML](https://github.com/ebhy/budgetml) - Deploy a ML inference service on a budget in less than 10 lines of code.
+* [CallStack](https://github.com/alenmanjgafic/callstack) - Open source LLM API gateway with unified API for OpenAI, Anthropic, Gemini, and DeepSeek. Features automatic failover, cost tracking, rate limiting, and response caching.
 * [Cog](https://github.com/replicate/cog) - Open-source tool that lets you package ML models in a standard, production-ready container.
 * [Cortex](https://www.cortex.dev/) - Machine learning model serving infrastructure.
 * [Geniusrise](https://docs.geniusrise.ai) - Host inference APIs, bulk inference and fine tune text, vision, audio and multi-modal models.
