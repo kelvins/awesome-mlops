@@ -307,7 +307,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [GraphPipe](https://oracle.github.io/graphpipe) - Machine learning model deployment made simple.
 * [Hydrosphere](https://github.com/Hydrospheredata/hydro-serving) - Platform for deploying your Machine Learning to production.
 * [KFServing](https://github.com/kubeflow/kfserving) - Kubernetes custom resource definition for serving ML models on arbitrary frameworks.
-* [LocalAI](https://github.com/mudler/LocalAI) - Drop-in replacement REST API that’s compatible with OpenAI API specifications for inferencing.
+* [LocalAI](https://github.com/mudler/LocalAI) - Drop-in replacement REST API that's compatible with OpenAI API specifications for inferencing.
 * [Merlin](https://github.com/gojek/merlin) - A platform for deploying and serving machine learning models.
 * [MLEM](https://github.com/iterative/mlem) - Version and deploy your ML models following GitOps principles.
 * [Opyrator](https://github.com/ml-tooling/opyrator) - Turns your ML code into microservices with web API, interactive GUI, and more.
@@ -464,6 +464,7 @@ Where to discover new tools and discuss about existing ones.
 
 ## Other Lists
 
+* [AI Infrastructure Index](https://github.com/alpha-one-index/ai-infra-index) - Comprehensive open-source reference for AI GPU specifications, cloud pricing (12 providers, auto-updated hourly), and infrastructure intelligence
 * [Applied ML](https://github.com/eugeneyan/applied-ml)
 * [Awesome AutoML Papers](https://github.com/hibayesian/awesome-automl-papers)
 * [Awesome AutoML](https://github.com/windmaple/awesome-AutoML)
