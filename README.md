@@ -336,6 +336,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Accelerate](https://github.com/huggingface/accelerate) - A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision.
 * [Dask](https://dask.org/) - Provides advanced parallelism for analytics, enabling performance at scale for the tools you love.
+* [Deploybase](https://deploybase.ai/) - Track real-time GPU and LLM pricing across all cloud and inference providers.
 * [DeepSpeed](https://github.com/microsoft/DeepSpeed) - Deep learning optimization library that makes distributed training easy, efficient, and effective.
 * [Fiber](https://uber.github.io/fiber/) - Python distributed computing library for modern computer clusters.
 * [Horovod](https://github.com/horovod/horovod) - Distributed deep learning training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
