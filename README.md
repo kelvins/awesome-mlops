@@ -334,6 +334,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Optimization tools related to model scalability in production.*
 
+* [ai-infra-index](https://github.com/alpha-one-index/ai-infra-index) - Open-source AI infrastructure index with real-time cloud GPU pricing from 12+ providers updated hourly, GPU specs, benchmarks, model-to-GPU sizing, and cost optimization playbooks.
 * [Accelerate](https://github.com/huggingface/accelerate) - A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision.
 * [Dask](https://dask.org/) - Provides advanced parallelism for analytics, enabling performance at scale for the tools you love.
 * [DeepSpeed](https://github.com/microsoft/DeepSpeed) - Deep learning optimization library that makes distributed training easy, efficient, and effective.
@@ -464,7 +465,6 @@ Where to discover new tools and discuss about existing ones.
 
 ## Other Lists
 
-* [AI Infrastructure Index](https://github.com/alpha-one-index/ai-infra-index) - Comprehensive open-source reference for AI GPU specifications, cloud pricing (12 providers, auto-updated hourly), and infrastructure intelligence
 * [Applied ML](https://github.com/eugeneyan/applied-ml)
 * [Awesome AutoML Papers](https://github.com/hibayesian/awesome-automl-papers)
 * [Awesome AutoML](https://github.com/windmaple/awesome-AutoML)
