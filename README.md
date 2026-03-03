@@ -307,7 +307,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [GraphPipe](https://oracle.github.io/graphpipe) - Machine learning model deployment made simple.
 * [Hydrosphere](https://github.com/Hydrospheredata/hydro-serving) - Platform for deploying your Machine Learning to production.
 * [KFServing](https://github.com/kubeflow/kfserving) - Kubernetes custom resource definition for serving ML models on arbitrary frameworks.
-* [LocalAI](https://github.com/mudler/LocalAI) - Drop-in replacement REST API that’s compatible with OpenAI API specifications for inferencing.
+* [LocalAI](https://github.com/mudler/LocalAI) - Drop-in replacement REST API that's compatible with OpenAI API specifications for inferencing.
 * [Merlin](https://github.com/gojek/merlin) - A platform for deploying and serving machine learning models.
 * [MLEM](https://github.com/iterative/mlem) - Version and deploy your ML models following GitOps principles.
 * [Opyrator](https://github.com/ml-tooling/opyrator) - Turns your ML code into microservices with web API, interactive GUI, and more.
@@ -334,6 +334,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Optimization tools related to model scalability in production.*
 
+* [ai-infra-index](https://github.com/alpha-one-index/ai-infra-index) - Open-source AI infrastructure index with real-time cloud GPU pricing from 12+ providers updated hourly, GPU specs, benchmarks, model-to-GPU sizing, and cost optimization playbooks.
 * [Accelerate](https://github.com/huggingface/accelerate) - A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision.
 * [Dask](https://dask.org/) - Provides advanced parallelism for analytics, enabling performance at scale for the tools you love.
 * [DeepSpeed](https://github.com/microsoft/DeepSpeed) - Deep learning optimization library that makes distributed training easy, efficient, and effective.
