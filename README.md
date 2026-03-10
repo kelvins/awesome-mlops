@@ -375,6 +375,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Arize](https://www.arize.com/) - A free end-to-end ML observability and model monitoring platform.
 * [Evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze ML models during validation or production monitoring.
 * [Fiddler](https://www.fiddler.ai/) - Monitor, explain, and analyze your AI in production.
+* [Ingero](https://github.com/ingero-io/ingero) - eBPF-based GPU causal observability agent for production ML workloads.
 * [Manifest](https://github.com/mnfst/manifest) - Open-source real-time cost observability for AI agents.
 * [Manifold](https://github.com/uber/manifold) - A model-agnostic visual debugging tool for machine learning.
 * [NannyML](https://github.com/NannyML/nannyml) - Algorithm capable of fully capturing the impact of data drift on performance.
