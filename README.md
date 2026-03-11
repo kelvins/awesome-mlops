@@ -377,6 +377,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Fiddler](https://www.fiddler.ai/) - Monitor, explain, and analyze your AI in production.
 * [Manifest](https://github.com/mnfst/manifest) - Open-source real-time cost observability for AI agents.
 * [Manifold](https://github.com/uber/manifold) - A model-agnostic visual debugging tool for machine learning.
+* [ModalTrace](https://github.com/arnabdeypolimi/video_ai_telemetry) - OpenTelemetry observability for real-time AI video pipelines — frame-level metrics, GPU monitoring, and A/V sync tracking.
 * [NannyML](https://github.com/NannyML/nannyml) - Algorithm capable of fully capturing the impact of data drift on performance.
 * [Netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models.
 * [Opik](https://github.com/comet-ml/opik) - Evaluate, test, and ship LLM applications with a suite of observability tools.
