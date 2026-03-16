@@ -127,6 +127,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Pinecone](https://www.pinecone.io) - Managed and distributed vector similarity search used with a lightweight SDK.
 * [Qdrant](https://github.com/qdrant/qdrant) - An open source vector similarity search engine with extended filtering support.
 * [Quilt](https://github.com/quiltdata/quilt) - A self-organizing data hub with S3 support.
+* [widemem-ai](https://github.com/remete618/widemem-ai) - Open-source AI memory layer with importance scoring, temporal decay, hierarchical memory, and YMRL prioritization.
 
 ## Data Processing
 
