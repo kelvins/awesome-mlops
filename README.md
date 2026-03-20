@@ -78,7 +78,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools for data cataloging.*
 
-* [Amundsen](https://www.amundsen.io/) - Data discovery and metadata engine for improving the productivity when interacting with data.
+* [Amundsen](https://www.amundsen.io/) - Data discovery and metadata engine for improving productivity when interacting with data.
 * [Apache Atlas](https://atlas.apache.org) - Provides open metadata management and governance capabilities to build a data catalog.
 * [CKAN](https://github.com/ckan/ckan) - Open-source DMS (data management system) for powering data hubs and data portals.
 * [DataHub](https://github.com/linkedin/datahub) - LinkedIn's generalized metadata search & discovery tool.
@@ -125,7 +125,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Marquez](https://github.com/MarquezProject/marquez) - Collect, aggregate, and visualize a data ecosystem's metadata.
 * [Milvus](https://github.com/milvus-io/milvus/) - An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy.
 * [Pinecone](https://www.pinecone.io) - Managed and distributed vector similarity search used with a lightweight SDK.
-* [Potato](https://github.com/davidjurgens/potato) - Portable annotation tool for creating labeled datasets with 20+ annotation types, AI-assisted labeling, and quality control.
+* [Potato](https://github.com/davidjurgens/potato) - Portable annotation tool for creating labeled datasets.
 * [Qdrant](https://github.com/qdrant/qdrant) - An open source vector similarity search engine with extended filtering support.
 * [Quilt](https://github.com/quiltdata/quilt) - A self-organizing data hub with S3 support.
 
