@@ -481,6 +481,7 @@ Where to discover new tools and discuss about existing ones.
 ## Podcasts
 
 * [AI Stories Podcast](https://www.youtube.com/@aistoriespodcast)
+* [Chain of Thought](https://chainofthought.show/)
 * [Kubernetes Podcast from Google](https://kubernetespodcast.com/)
 * [Machine Learning – Software Engineering Daily](https://podcasts.google.com/?feed=aHR0cHM6Ly9zb2Z0d2FyZWVuZ2luZWVyaW5nZGFpbHkuY29tL2NhdGVnb3J5L21hY2hpbmUtbGVhcm5pbmcvZmVlZC8)
 * [MLOps.community](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xNzRjYjFiOC9wb2RjYXN0L3Jzcw)
