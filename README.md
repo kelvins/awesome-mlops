@@ -377,6 +377,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze ML models during validation or production monitoring.
 * [Fiddler](https://www.fiddler.ai/) - Monitor, explain, and analyze your AI in production.
 * [Manifest](https://github.com/mnfst/manifest) - Open-source real-time cost observability for AI agents.
+* [llm.log](https://github.com/lanesket/llm.log) - Local MITM proxy with TUI dashboard for monitoring LLM API calls — token usage, real costs, latency and full request inspector. Supports OpenAI, Anthropic and OpenRouter. Zero code changes, single binary, pure Go.
 * [Manifold](https://github.com/uber/manifold) - A model-agnostic visual debugging tool for machine learning.
 * [NannyML](https://github.com/NannyML/nannyml) - Algorithm capable of fully capturing the impact of data drift on performance.
 * [Netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models.
