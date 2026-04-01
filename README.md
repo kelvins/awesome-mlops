@@ -171,10 +171,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Tools and libraries related to drift detection.*
 
 * [Alibi Detect](https://github.com/SeldonIO/alibi-detect) - An open source Python library focused on outlier, adversarial and drift detection.
+* [DataScreenIQ](https://datascreeniq.com) – Real-time drift detection API for pipelines and ML systems. Detect field additions/removals, type changes, null spikes, cardinality changes, and new enum values in milliseconds. Free tier available.
 * [Frouros](https://github.com/IFCA/frouros) - An open source Python library for drift detection in machine learning systems.
 * [ml3-drift](https://github.com/ml-cube/ml3-drift) - Drift detection algorithms seamlessly integrated with ML and AI frameworks.
 * [TorchDrift](https://github.com/torchdrift/torchdrift/) - A data and concept drift library for PyTorch.
-* [DataScreenIQ](https://datascreeniq.com) – Real-time drift detection API for pipelines and ML systems. Detect field additions/removals, type changes, null spikes, cardinality changes, and new enum values in milliseconds. Free tier available.
 
 ## Feature Engineering
 
