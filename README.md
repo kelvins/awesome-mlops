@@ -259,6 +259,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Tools for performing model fairness and privacy in production.*
 
 * [AIF360](https://github.com/Trusted-AI/AIF360) - A comprehensive set of fairness metrics for datasets and machine learning models.
+* [asqav](https://github.com/jagmarques/asqav-sdk) - AI compliance scanner that detects EU AI Act violations, prompt injection risks, and missing guardrails in AI agent code.
 * [Fairlearn](https://github.com/fairlearn/fairlearn) - A Python package to assess and improve fairness of machine learning models.
 * [Opacus](https://github.com/pytorch/opacus) - A library that enables training PyTorch models with differential privacy.
 * [TensorFlow Privacy](https://github.com/tensorflow/privacy) - Library for training machine learning models with privacy for training data.
