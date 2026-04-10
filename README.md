@@ -496,6 +496,7 @@ Where to discover new tools and discuss about existing ones.
 
 ## Websites
 
+* [Agentic Engineering Jobs](https://agentic-engineering-jobs.com) - Job board for engineers building agentic systems: RAG, AI agents, LLM-powered products, agent orchestration. Free to post, free to browse.
 * [A guide to MLOps](https://mlops.swiss-ai-center.ch/)
 * [Feature Stores for ML](http://featurestore.org/)
 * [Made with ML](https://github.com/GokuMohandas/Made-With-ML)
