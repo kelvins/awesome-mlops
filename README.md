@@ -68,6 +68,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Cron Job Monitoring
 
+- [FutureAGI traceAI](https://github.com/future-agi/traceAI)
+- [FutureAGI ai-evaluation](https://github.com/future-agi/ai-evaluation)
+
 *Tools for monitoring cron jobs (recurring jobs).*
 
 * [Cronitor](https://cronitor.io/cron-job-monitoring) - Monitor any cron job or scheduled task.
