@@ -385,6 +385,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Radicalbit](https://github.com/radicalbit/radicalbit-ai-monitoring/) - The open source solution for monitoring your AI models in production.
 * [Rhesis](https://github.com/rhesis-ai/rhesis) - Testing infrastructure for LLM and agentic applications with collaborative evaluation.
 * [Superwise](https://www.superwise.ai) - Fully automated, enterprise-grade model observability in a self-service SaaS platform.
+* [tracemaid](https://github.com/karthyick/tracemaid) - Auto-generates Mermaid diagrams from OpenTelemetry traces for Python services. Visualizes call graphs and timing of microservice and LLM agent workflows.
 * [Whylogs](https://github.com/whylabs/whylogs) - The open source standard for data logging. Enables ML monitoring and observability.
 * [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection.
 
