@@ -231,6 +231,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Edge Impulse](https://edgeimpulse.com/) - Platform for creating, optimizing, and deploying AI/ML algorithms for edge devices.
 * [envd](https://github.com/tensorchord/envd) - Machine learning development environment for data science and AI/ML engineering teams.
 * [FedML](https://fedml.ai/) - Simplifies the workflow of federated learning anywhere at any scale.
+* [FRAKMA](https://frakma.io) - GitOps-native, self-hosted MLOps platform on Kubernetes; bundles OpenFaaS, Ray, Argo CD, KServe, MLflow and Airflow under a single CRD.
 * [Gradient](https://gradient.paperspace.com/) - Multicloud CI/CD and MLOps platform for machine learning teams.
 * [H2O](https://www.h2o.ai/) - Open source leader in AI with a mission to democratize AI for everyone.
 * [Hopsworks](https://www.hopsworks.ai/) - Open-source platform for developing and operating machine learning models at scale.
