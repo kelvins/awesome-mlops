@@ -64,6 +64,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [ClearML](https://github.com/allegroai/clearml) - Auto-Magical CI/CD to streamline your ML workflow.
 * [CML](https://github.com/iterative/cml) - Open-source library for implementing CI/CD in machine learning projects.
+* [GenOps Framework](https://github.com/neerazz/genops-framework) - Open-source CI/CD governance framework for embedding generative AI agents into production pipelines with risk-scored deployment gates.
 * [KitOps](https://github.com/jozu-ai/kitops) – Open source MLOps project that eases model handoffs between data scientist and DevOps. 
 
 ## Cron Job Monitoring
