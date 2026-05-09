@@ -287,6 +287,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Guild AI](https://guild.ai/) - Open source experiment tracking, pipeline automation, and hyperparameter tuning.
 * [Keepsake](https://github.com/replicate/keepsake) - Version control for machine learning with support to Amazon S3 and Google Cloud Storage.
 * [Losswise](https://losswise.com) - Makes it easy to track the progress of a machine learning project.
+* [Matyan](https://github.com/4gt-104/matyan-core) - Scalable, self-hosted ML experiment tracker with Aim-compatible UI/SDK, built on FoundationDB and Kafka.
 * [MLflow](https://mlflow.org/) - Open source platform for the machine learning lifecycle.
 * [ModelDB](https://github.com/VertaAI/modeldb/) - Open source ML model versioning, metadata, and experiment management.
 * [Neptune AI](https://neptune.ai/) - The most lightweight experiment management tool that fits any workflow.
