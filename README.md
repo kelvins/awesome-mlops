@@ -237,6 +237,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Iguazio](https://www.iguazio.com/) - Data science platform that automates MLOps with end-to-end machine learning pipelines.
 * [Katonic](https://katonic.ai/) - Automate your cycle of intelligence with Katonic MLOps Platform.
 * [Knime](https://www.knime.com/) - Create and productionize data science using one easy and intuitive environment.
+* [KubeStellar Console](https://console.kubestellar.io) - Open source AI-powered multi-cluster Kubernetes dashboard with GPU monitoring, benchmark streaming, and LLM ops dashboards. CNCF Sandbox (Apache 2.0).
 * [Kubeflow](https://www.kubeflow.org/) - Making deployments of ML workflows on Kubernetes simple, portable and scalable.
 * [LynxKite](https://lynxkite.com/) - A complete graph data science platform for very large graphs and other datasets.
 * [ML Workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE specialized for machine learning and data science.
