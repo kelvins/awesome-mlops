@@ -397,6 +397,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Automate Studio](https://www.veritone.com/applications/automate-studio/) - Rapidly build & deploy AI-powered workflows.
 * [Cordum](https://github.com/cordum-io/cordum) - Governance-first control plane for AI agents and external workers.
 * [Couler](https://github.com/couler-proj/couler) - Unified interface for constructing and managing workflows on different workflow engines.
+* [Dotflow](https://github.com/dotflow-io/dotflow) - A lightweight Python library for building execution pipelines with retry, parallel execution, cron scheduling, and async support.
 * [dstack](https://github.com/dstackai/dstack) - An open-core tool to automate data and training workflows.
 * [Flyte](https://flyte.org/) - Easy to create concurrent, scalable, and maintainable workflows for machine learning.
 * [Hamilton](https://github.com/dagworks-inc/hamilton) - A scalable general purpose micro-framework for defining dataflows.
@@ -482,6 +483,7 @@ Where to discover new tools and discuss about existing ones.
 ## Podcasts
 
 * [AI Stories Podcast](https://www.youtube.com/@aistoriespodcast)
+* [Chain of Thought](https://chainofthought.show/)
 * [Kubernetes Podcast from Google](https://kubernetespodcast.com/)
 * [Machine Learning – Software Engineering Daily](https://podcasts.google.com/?feed=aHR0cHM6Ly9zb2Z0d2FyZWVuZ2luZWVyaW5nZGFpbHkuY29tL2NhdGVnb3J5L21hY2hpbmUtbGVhcm5pbmcvZmVlZC8)
 * [MLOps.community](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xNzRjYjFiOC9wb2RjYXN0L3Jzcw)
@@ -497,6 +499,7 @@ Where to discover new tools and discuss about existing ones.
 
 ## Websites
 
+* [Agentic Engineering Jobs](https://agentic-engineering-jobs.com)
 * [A guide to MLOps](https://mlops.swiss-ai-center.ch/)
 * [Feature Stores for ML](http://featurestore.org/)
 * [Made with ML](https://github.com/GokuMohandas/Made-With-ML)
