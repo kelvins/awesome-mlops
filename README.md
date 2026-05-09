@@ -262,6 +262,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Fairlearn](https://github.com/fairlearn/fairlearn) - A Python package to assess and improve fairness of machine learning models.
 * [Opacus](https://github.com/pytorch/opacus) - A library that enables training PyTorch models with differential privacy.
 * [TensorFlow Privacy](https://github.com/tensorflow/privacy) - Library for training machine learning models with privacy for training data.
+* [Venturalitica SDK](https://github.com/Venturalitica/venturalitica-sdk) - A Python SDK for EU AI Act and ISO 42001 compliance evidence, integrating bias audits, OSCAL policy enforcement, and CycloneDX ML BOM generation into ML training pipelines.
 
 ## Model Interpretability
 
