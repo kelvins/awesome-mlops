@@ -171,6 +171,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Tools and libraries related to drift detection.*
 
 * [Alibi Detect](https://github.com/SeldonIO/alibi-detect) - An open source Python library focused on outlier, adversarial and drift detection.
+* [DriftWatch](https://github.com/GenesisClawbot/llm-drift) - LLM behavioral drift detection SaaS. Monitors prompts across AI providers and alerts teams when model behavior silently changes between versions.
 * [Frouros](https://github.com/IFCA/frouros) - An open source Python library for drift detection in machine learning systems.
 * [ml3-drift](https://github.com/ml-cube/ml3-drift) - Drift detection algorithms seamlessly integrated with ML and AI frameworks.
 * [TorchDrift](https://github.com/torchdrift/torchdrift/) - A data and concept drift library for PyTorch.
