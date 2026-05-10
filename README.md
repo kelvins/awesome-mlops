@@ -284,6 +284,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Aim](https://github.com/aimhubio/aim) - A super-easy way to record, search and compare 1000s of ML training runs.
 * [Cascade](https://github.com/Oxid15/cascade) - Library of ML-Engineering tools for rapid prototyping and experiment management.
 * [Comet](https://github.com/comet-ml/comet-examples) - Track your datasets, code changes, experimentation history, and models.
+* [Future AGI](https://github.com/future-agi/future-agi) - Open-source self-hostable platform for tracing, evals, simulations, datasets, gateway, and guardrails across the LLM and AI agent lifecycle.
 * [Guild AI](https://guild.ai/) - Open source experiment tracking, pipeline automation, and hyperparameter tuning.
 * [Keepsake](https://github.com/replicate/keepsake) - Version control for machine learning with support to Amazon S3 and Google Cloud Storage.
 * [Losswise](https://losswise.com) - Makes it easy to track the progress of a machine learning project.
