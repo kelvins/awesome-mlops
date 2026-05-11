@@ -281,6 +281,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Tools for managing model lifecycle (tracking experiments, parameters and metrics).*
 
 * [Aeromancy](https://github.com/quant-aq/aeromancy) - A framework for performing reproducible AI and ML for Weights and Biases.
+* [agent-opt](https://github.com/future-agi/agent-opt) - Open-source library for automated optimization of AI agent workflows with evaluation-driven prompt and config tuning.
 * [Aim](https://github.com/aimhubio/aim) - A super-easy way to record, search and compare 1000s of ML training runs.
 * [Cascade](https://github.com/Oxid15/cascade) - Library of ML-Engineering tools for rapid prototyping and experiment management.
 * [Comet](https://github.com/comet-ml/comet-examples) - Track your datasets, code changes, experimentation history, and models.
