@@ -165,6 +165,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [SolidUI](https://github.com/CloudOrc/SolidUI) - AI-generated visualization prototyping and editing platform, support 2D and 3D models.
 * [Superset](https://superset.incubator.apache.org/) - Modern, enterprise-ready business intelligence web application.
 * [Tableau](https://www.tableau.com) - Powerful and fastest growing data visualization tool used in the business intelligence industry.
+* [Middleware](https://middleware.io/) - Full-stack observability platform with intuitive dashboards that transform complex telemetry into actionable insights for SRE teams.
+
 
 ## Drift Detection
 
