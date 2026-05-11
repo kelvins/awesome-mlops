@@ -281,6 +281,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Tools for managing model lifecycle (tracking experiments, parameters and metrics).*
 
 * [Aeromancy](https://github.com/quant-aq/aeromancy) - A framework for performing reproducible AI and ML for Weights and Biases.
+* [ai-evaluation](https://github.com/future-agi/ai-evaluation) - Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners.
 * [Aim](https://github.com/aimhubio/aim) - A super-easy way to record, search and compare 1000s of ML training runs.
 * [Cascade](https://github.com/Oxid15/cascade) - Library of ML-Engineering tools for rapid prototyping and experiment management.
 * [Comet](https://github.com/comet-ml/comet-examples) - Track your datasets, code changes, experimentation history, and models.
@@ -291,6 +292,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [ModelDB](https://github.com/VertaAI/modeldb/) - Open source ML model versioning, metadata, and experiment management.
 * [Neptune AI](https://neptune.ai/) - The most lightweight experiment management tool that fits any workflow.
 * [Sacred](https://github.com/IDSIA/sacred) - A tool to help you configure, organize, log and reproduce experiments.
+* [traceAI](https://github.com/future-agi/traceAI) - Open-source OpenTelemetry-native tracing framework that auto-instruments 20+ AI frameworks and LLM providers.
 * [Weights and Biases](https://github.com/wandb/client) - A tool for visualizing and tracking your machine learning experiments.
 
 ## Model Serving
