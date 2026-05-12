@@ -288,6 +288,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Keepsake](https://github.com/replicate/keepsake) - Version control for machine learning with support to Amazon S3 and Google Cloud Storage.
 * [Losswise](https://losswise.com) - Makes it easy to track the progress of a machine learning project.
 * [MLflow](https://mlflow.org/) - Open source platform for the machine learning lifecycle.
+* [ARC-Neuron LLMBuilder](https://github.com/GareBear99/ARC-Neuron-LLMBuilder) - Local-first AI model lifecycle framework for deterministic small-model promotion, benchmark receipts, candidate/incumbent comparison, archive-ready lineage, and governed AI improvement.
 * [ModelDB](https://github.com/VertaAI/modeldb/) - Open source ML model versioning, metadata, and experiment management.
 * [Neptune AI](https://neptune.ai/) - The most lightweight experiment management tool that fits any workflow.
 * [Sacred](https://github.com/IDSIA/sacred) - A tool to help you configure, organize, log and reproduce experiments.
