@@ -225,6 +225,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Bodywork](https://bodywork.readthedocs.io/en/latest/) - Deploys machine learning projects developed in Python, to Kubernetes.
 * [CNVRG](https://cnvrg.io/) - An end-to-end machine learning platform to build and deploy AI models at scale.
 * [DAGsHub](https://dagshub.com/) - A platform built on open source tools for data, model and pipeline management.
+* [Dakera](https://github.com/dakera-ai/dakera-mcp) - Self-hosted agent memory server with MCP support, HNSW vector indexing, and decay-weighted recall. Production-ready Rust-based memory infrastructure for AI agents in ML pipelines.
 * [Dataiku](https://www.dataiku.com/) - Platform democratizing access to data and enabling enterprises to build their own path to AI.
 * [DataRobot](https://www.datarobot.com/) - AI platform that democratizes data science and automates the end-to-end ML at scale.
 * [Domino](https://www.dominodatalab.com/) - One place for your data science tools, apps, results, models, and knowledge.
