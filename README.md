@@ -372,6 +372,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools for performing visual analysis and debugging of ML/DL models.*
 
+* [AgentLens](https://github.com/Soufianeazz/agentlens) - Self-hosted LLM observability with built-in air-gap mode for regulated environments. Quality scoring, agent waterfall debugging, prompt-level inspection, and GDPR-native compliance workflows.
 * [Aporia](https://www.aporia.com/) - Observability with customized monitoring and explainability for ML models.
 * [Arize](https://www.arize.com/) - A free end-to-end ML observability and model monitoring platform.
 * [Evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze ML models during validation or production monitoring.
