@@ -474,6 +474,7 @@ Where to discover new tools and discuss about existing ones.
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [Awesome Game Datasets](https://github.com/leomaurodesenv/game-datasets) (includes AI content)
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [AI Models Catalog](https://github.com/i-need-token/ai-models) - Structured catalog of 4,587+ AI models across 95 providers with pricing, context windows, and capabilities for MLOps decision-making.
 * [Awesome MLOps](https://github.com/visenger/awesome-mlops)
 * [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
 * [Awesome Python](https://github.com/vinta/awesome-python)
