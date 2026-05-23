@@ -328,6 +328,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Tools for testing and validating models.*
 
 * [Deepchecks](https://github.com/deepchecks/deepchecks) - Open-source package for validating ML models & data, with various checks and suites.
+* [Falsify (PRML)](https://github.com/studio-11-co/falsify) - Open spec (Pre-Registered ML Manifest) for committing ML evaluation claims to a SHA-256 hash before the run; the cryptographic receipt is verifiable in CI without depending on the registry.
 * [Starwhale](https://github.com/star-whale/starwhale) - An MLOps/LLMOps platform for model building, evaluation, and fine-tuning.
 * [Trubrics](https://github.com/trubrics/trubrics-sdk) - Validate machine learning with data science and domain expert feedback.
 
