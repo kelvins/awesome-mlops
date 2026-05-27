@@ -320,6 +320,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving) - Flexible, high-performance serving system for ML models, designed for production.
 * [TorchServe](https://github.com/pytorch/serve) - A flexible and easy to use tool for serving PyTorch models.
 * [Triton Inference Server](https://github.com/triton-inference-server/server) - Provides an optimized cloud and edge inferencing solution.
+* [keda-gpu-scaler](https://github.com/pmady/keda-gpu-scaler) - KEDA external scaler for GPU-based autoscaling of inference workloads (vLLM, Triton) using NVML, with scale-to-zero support.
 * [Vespa](https://github.com/vespa-engine/vespa) - Store, search, organize and make machine-learned inferences over big data at serving time.
 * [Wallaroo.AI](https://wallaroo.ai/) - A platform for deploying, serving, and optimizing ML models in both cloud and edge environments.
 
