@@ -507,6 +507,7 @@ Where to discover new tools and discuss about existing ones.
 * [MLOps Guide](https://mlops-guide.github.io/)
 * [MLOps Now](https://mlopsnow.com)
 * [System Designer - ML Systems](https://systemdesigner.net/ml-systems)
+* [warpjobs](https://warpjobs.com)
 
 # Contributing
 
