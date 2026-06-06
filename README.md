@@ -252,6 +252,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Sematic](https://sematic.dev) - An open-source end-to-end pipelining tool to go from laptop prototype to cloud in no time.
 * [SigOpt](https://sigopt.com/) - A platform that makes it easy to track runs, visualize training, and scale hyperparameter tuning.
 * [TrueFoundry](https://www.truefoundry.com) - A Cloud-native MLOps Platform over Kubernetes to simplify training and serving of ML Models.
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - MCP server for agent trust verification in multi-agent systems. Pre-dispatch trust scoring and signed USDC trust receipts for agent-to-agent communication reliability on Solana. Tools: resolve_agent, score_agent, get_trust_receipt, verify_trust_receipt.
 * [Valohai](https://valohai.com/) - MLOps platform for reproducible ML and LLM workflows from experimentation to production.
 
 ## Model Fairness and Privacy
