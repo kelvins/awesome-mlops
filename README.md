@@ -170,6 +170,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools and libraries related to drift detection.*
 
+* [Adaptive Reliability Layer](https://github.com/pberlizov/adaptive-reliability-layer) - A bounded controller for production ML under distribution shift; learns from delayed labels and takes the smallest safe steering step to defer unnecessary retrains.
 * [Alibi Detect](https://github.com/SeldonIO/alibi-detect) - An open source Python library focused on outlier, adversarial and drift detection.
 * [Frouros](https://github.com/IFCA/frouros) - An open source Python library for drift detection in machine learning systems.
 * [ml3-drift](https://github.com/ml-cube/ml3-drift) - Drift detection algorithms seamlessly integrated with ML and AI frameworks.
