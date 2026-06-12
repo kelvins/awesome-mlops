@@ -477,6 +477,7 @@ Where to discover new tools and discuss about existing ones.
 * [Awesome MLOps](https://github.com/visenger/awesome-mlops)
 * [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
 * [Awesome Python](https://github.com/vinta/awesome-python)
+* [Awesome RAG Production](https://github.com/Yigtwxx/Awesome-RAG-Production)
 * [Deep Learning in Production](https://github.com/ahkarami/Deep-Learning-in-Production)
 
 ## Podcasts
