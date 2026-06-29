@@ -511,3 +511,7 @@ Where to discover new tools and discuss about existing ones.
 # Contributing
 
 All contributions are welcome! Please take a look at the [contribution guidelines](https://github.com/kelvins/awesome-mlops/blob/main/CONTRIBUTING.md) first.
+
+## Directories
+
+- [OpenRuna](https://www.openruna.com/hubs/ai-datasets) — Graph directory linking AI datasets, benchmarks, tools, and prompts with typed resource relations.
