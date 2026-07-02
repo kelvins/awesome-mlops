@@ -296,6 +296,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Model Serving
 
 *Tools for serving models in production.*
+- [llm-speed](https://llm-speed.com) - Crowdsourced LLM inference-speed leaderboard (tok/s, TTFT) across local and hosted backends; reproducible, signed runs.
 
 * [Banana](https://banana.dev) - Host your ML inference code on serverless GPUs and integrate it into your app with one line of code.
 * [Beam](https://beam.cloud) - Develop on serverless GPUs, deploy highly performant APIs, and rapidly prototype ML models.
