@@ -405,6 +405,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Luigi](https://github.com/spotify/luigi) - Python module that helps you build complex pipelines of batch jobs.
 * [Metaflow](https://metaflow.org/) - Human-friendly lib that helps scientists and engineers build and manage data science projects.
 * [MLRun](https://github.com/mlrun/mlrun) - Generic mechanism for data scientists to build, run, and monitor ML tasks and pipelines.
+* [Nika](https://github.com/supernovae-st/nika) - Workflow engine for AI: reviewable YAML DAGs statically checked before execution, tamper-evident traces after.
 * [Orchest](https://github.com/orchest/orchest/) - Visual pipeline editor and workflow orchestrator with an easy to use UI and based on Kubernetes.
 * [Ploomber](https://github.com/ploomber/ploomber) - Write maintainable, production-ready pipelines. Develop locally, deploy to the cloud.
 * [Prefect](https://docs.prefect.io/) - A workflow management system, designed for modern infrastructure.
