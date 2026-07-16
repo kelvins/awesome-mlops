@@ -321,6 +321,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [TorchServe](https://github.com/pytorch/serve) - A flexible and easy to use tool for serving PyTorch models.
 * [Triton Inference Server](https://github.com/triton-inference-server/server) - Provides an optimized cloud and edge inferencing solution.
 * [Vespa](https://github.com/vespa-engine/vespa) - Store, search, organize and make machine-learned inferences over big data at serving time.
+* [KV Cache Store](https://kvcachestore.com/) - Hosted registry and open-source Rust CLI for precomputing, quantizing, verifying, and sharing KV-cache artifacts to speed up LLM/RAG serving. ([CLI source](https://github.com/kvcachestore/kvcdn))
 * [Wallaroo.AI](https://wallaroo.ai/) - A platform for deploying, serving, and optimizing ML models in both cloud and edge environments.
 
 ## Model Testing & Validation
