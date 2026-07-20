@@ -118,6 +118,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Dolt](https://github.com/dolthub/dolt) - SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.
 * [Dud](https://github.com/kevin-hanselman/dud) - A lightweight CLI tool for versioning data alongside source code and building data pipelines.
 * [DVC](https://dvc.org/) - Management and versioning of datasets and machine learning models.
+* [framepin](https://github.com/boogy-ro/framepin) - A lockfile for ML datasets: content-hash snapshots, drift detection in CI, and run-to-data lineage with zero dependencies.
 * [Git LFS](https://git-lfs.github.com) - An open source Git extension for versioning large files.
 * [Hub](https://github.com/activeloopai/Hub) - A dataset format for creating, storing, and collaborating on AI datasets of any size.
 * [Intake](https://github.com/intake/intake) - A lightweight set of tools for loading and sharing data in data science projects.
