@@ -328,6 +328,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Tools for testing and validating models.*
 
 * [Deepchecks](https://github.com/deepchecks/deepchecks) - Open-source package for validating ML models & data, with various checks and suites.
+* [BenchGen](https://benchgen.com) - AI agent benchmarking and evaluation platform for scoring runs across tool-call accuracy, goal completion, and skill coverage, with trajectory export for fine-tuning.
 * [Starwhale](https://github.com/star-whale/starwhale) - An MLOps/LLMOps platform for model building, evaluation, and fine-tuning.
 * [Trubrics](https://github.com/trubrics/trubrics-sdk) - Validate machine learning with data science and domain expert feedback.
 
