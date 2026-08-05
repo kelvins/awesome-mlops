@@ -329,6 +329,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Deepchecks](https://github.com/deepchecks/deepchecks) - Open-source package for validating ML models & data, with various checks and suites.
 * [Starwhale](https://github.com/star-whale/starwhale) - An MLOps/LLMOps platform for model building, evaluation, and fine-tuning.
+* [trainproof](https://github.com/Mormolykos/trainproof) - Linter for training runs, giving PASS/WARN/FAIL verdicts on datasets, tokenizers, and first-epoch logs.
 * [Trubrics](https://github.com/trubrics/trubrics-sdk) - Validate machine learning with data science and domain expert feedback.
 
 ## Optimization Tools
