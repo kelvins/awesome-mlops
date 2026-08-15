@@ -392,6 +392,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools and frameworks to create workflows or pipelines in the machine learning context.*
 
+* [anycloud](https://anycloud.sh/) - A CLI and Python SDK for running containerized ML jobs and services across connected cloud accounts.
 * [Argo](https://github.com/argoproj/argo) - Open source container-native workflow engine for orchestrating parallel jobs on Kubernetes.
 * [Automate Studio](https://www.veritone.com/applications/automate-studio/) - Rapidly build & deploy AI-powered workflows.
 * [Cordum](https://github.com/cordum-io/cordum) - Governance-first control plane for AI agents and external workers.
