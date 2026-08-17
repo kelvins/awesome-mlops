@@ -343,7 +343,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Modin](https://github.com/modin-project/modin) - Speed up your Pandas workflows by changing a single line of code.
 * [Nebullvm](https://github.com/nebuly-ai/nebullvm) - Easy-to-use library to boost AI inference.
 * [Nos](https://github.com/nebuly-ai/nos) - Open-source module for running AI workloads on Kubernetes in an optimized way.
+* [Paralleliq](https://paralleliq.ai) - Model-aware GPU fleet optimization layer for AI inference clusters. Detects tier misplacement, idle capacity, and KV cache pressure — with human-approval workflows and audit trails.
 * [Petastorm](https://github.com/uber/petastorm) - Enables single machine or distributed training and evaluation of deep learning models.
+* [piqc](https://github.com/paralleliq/piqc) - Open-source, read-only GPU waste scanner for Kubernetes inference clusters.
 * [Rapids](https://rapids.ai/index.html) - Gives the ability to execute end-to-end data science and analytics pipelines entirely on GPUs.
 * [Ray](https://github.com/ray-project/ray) - Fast and simple framework for building and running distributed applications.
 * [Singa](http://singa.apache.org/en/index.html) - Apache top level project, focusing on distributed training of DL and ML models.
