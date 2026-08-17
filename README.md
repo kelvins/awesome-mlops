@@ -344,6 +344,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Nebullvm](https://github.com/nebuly-ai/nebullvm) - Easy-to-use library to boost AI inference.
 * [Nos](https://github.com/nebuly-ai/nos) - Open-source module for running AI workloads on Kubernetes in an optimized way.
 * [Petastorm](https://github.com/uber/petastorm) - Enables single machine or distributed training and evaluation of deep learning models.
+* [piqc](https://github.com/paralleliq/piqc) - Read-only GPU waste scanner for Kubernetes inference clusters. Detects tier misplacement, idle capacity, OOM risk, and CPU:GPU imbalance.
 * [Rapids](https://rapids.ai/index.html) - Gives the ability to execute end-to-end data science and analytics pipelines entirely on GPUs.
 * [Ray](https://github.com/ray-project/ray) - Fast and simple framework for building and running distributed applications.
 * [Singa](http://singa.apache.org/en/index.html) - Apache top level project, focusing on distributed training of DL and ML models.
