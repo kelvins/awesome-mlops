@@ -64,6 +64,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [ClearML](https://github.com/allegroai/clearml) - Auto-Magical CI/CD to streamline your ML workflow.
 * [CML](https://github.com/iterative/cml) - Open-source library for implementing CI/CD in machine learning projects.
+* [GitLab MLOps Component](https://gitlab.com/netOpyr/gitlab-mlops-component) - Reusable GitLab CI/CD component that automates the ML lifecycle with data validation, experiment tracking, quality gates, and model registration.
 * [KitOps](https://github.com/jozu-ai/kitops) – Open source MLOps project that eases model handoffs between data scientist and DevOps. 
 
 ## Cron Job Monitoring
