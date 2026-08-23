@@ -144,6 +144,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools related to data validation.*
 
+* [AKF](https://github.com/HMAKT99/AKF) - The AI native file format. Embeds trust scores, source provenance, and compliance metadata into AI-generated content. Audit against EU AI Act, SOX, HIPAA.
 * [Cerberus](https://github.com/pyeve/cerberus) - Lightweight, extensible data validation library for Python.
 * [Cleanlab](https://github.com/cleanlab/cleanlab) - Python library for data-centric AI and machine learning with messy, real-world data and labels.
 * [Great Expectations](https://greatexpectations.io) - A Python data validation framework that allows to test your data against datasets.
