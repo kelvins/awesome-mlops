@@ -71,6 +71,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Tools for monitoring cron jobs (recurring jobs).*
 
 * [Cronitor](https://cronitor.io/cron-job-monitoring) - Monitor any cron job or scheduled task.
+* [Data Workers](https://github.com/DataWorkersProject/dataworkers-claw-community) - Open-source autonomous agent swarm for data/ML ops: quality monitoring, drift and anomaly detection, incident root-cause analysis, and pipeline observability. MCP-native, works with Claude Code and Cursor. Apache 2.0.
 * [HealthchecksIO](https://healthchecks.io/) - Simple and effective cron job monitoring.
 * [Heartbeat.pm](https://heartbeat.pm) - Monitoring aliveness of any sensor/cron job.
 
