@@ -320,6 +320,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Triton Inference Server](https://github.com/triton-inference-server/server) - Provides an optimized cloud and edge inferencing solution.
 * [Vespa](https://github.com/vespa-engine/vespa) - Store, search, organize and make machine-learned inferences over big data at serving time.
 * [Wallaroo.AI](https://wallaroo.ai/) - A platform for deploying, serving, and optimizing ML models in both cloud and edge environments.
+* [XiuRouter](https://router.xiu.ai/) - Provides one API for leading AI models with usage-based pricing and native support for OpenAI, Anthropic, and Gemini protocols.
 
 ## Model Testing & Validation
 
