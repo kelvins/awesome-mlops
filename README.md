@@ -238,6 +238,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Knime](https://www.knime.com/) - Create and productionize data science using one easy and intuitive environment.
 * [Kubeflow](https://www.kubeflow.org/) - Making deployments of ML workflows on Kubernetes simple, portable and scalable.
 * [LynxKite](https://lynxkite.com/) - A complete graph data science platform for very large graphs and other datasets.
+* [MatrixAI Studio](https://matrixaistudio.org/) - Describe a model in plain language, train it locally, and get a cryptographic receipt for every step.
 * [ML Workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE specialized for machine learning and data science.
 * [MLReef](https://github.com/MLReef/mlreef) - Open source MLOps platform that helps you collaborate, reproduce and share your ML work.
 * [Modzy](https://www.modzy.com/) - Deploy, connect, run, and monitor machine learning (ML) models in the enterprise and at the edge.
