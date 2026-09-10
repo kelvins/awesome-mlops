@@ -506,6 +506,7 @@ Where to discover new tools and discuss about existing ones.
 * [MLOps Guide](https://mlops-guide.github.io/)
 * [MLOps Now](https://mlopsnow.com)
 * [System Designer - ML Systems](https://systemdesigner.net/ml-systems)
+* [Wyrcan Engineering Roadmap](https://wyrcan-io.github.io/roadmap/) - Practitioner-verified 12-stage curriculum and roadmap covering systems, DevOps, and MLOps.
 
 # Contributing
 
