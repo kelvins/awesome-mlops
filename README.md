@@ -328,6 +328,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Deepchecks](https://github.com/deepchecks/deepchecks) - Open-source package for validating ML models & data, with various checks and suites.
 * [Starwhale](https://github.com/star-whale/starwhale) - An MLOps/LLMOps platform for model building, evaluation, and fine-tuning.
 * [Trubrics](https://github.com/trubrics/trubrics-sdk) - Validate machine learning with data science and domain expert feedback.
+* [Vobo](https://github.com/getbeton/vobo) - Human review for AI output, with anchored comments and a hashed evidence chain.
 
 ## Optimization Tools
 
