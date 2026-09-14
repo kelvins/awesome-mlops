@@ -325,6 +325,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools for testing and validating models.*
 
+* [Council of AI GSPC](https://github.com/CSOAI-ORG/councilof-ai) - Public model and agent measurement with signed evidence cards, public roots, and an offline verifier.
 * [Deepchecks](https://github.com/deepchecks/deepchecks) - Open-source package for validating ML models & data, with various checks and suites.
 * [Starwhale](https://github.com/star-whale/starwhale) - An MLOps/LLMOps platform for model building, evaluation, and fine-tuning.
 * [Trubrics](https://github.com/trubrics/trubrics-sdk) - Validate machine learning with data science and domain expert feedback.
