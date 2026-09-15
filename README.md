@@ -78,7 +78,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools for data cataloging.*
 
-* [Amundsen](https://www.amundsen.io/) - Data discovery and metadata engine for improving the productivity when interacting with data.
+* [Amundsen](https://www.amundsen.io/) - Data discovery and metadata engine for improving productivity when interacting with data.
 * [Apache Atlas](https://atlas.apache.org) - Provides open metadata management and governance capabilities to build a data catalog.
 * [CKAN](https://github.com/ckan/ckan) - Open-source DMS (data management system) for powering data hubs and data portals.
 * [DataHub](https://github.com/linkedin/datahub) - LinkedIn's generalized metadata search & discovery tool.
@@ -125,6 +125,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Marquez](https://github.com/MarquezProject/marquez) - Collect, aggregate, and visualize a data ecosystem's metadata.
 * [Milvus](https://github.com/milvus-io/milvus/) - An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy.
 * [Pinecone](https://www.pinecone.io) - Managed and distributed vector similarity search used with a lightweight SDK.
+* [Potato](https://github.com/davidjurgens/potato) - Portable annotation tool for creating labeled datasets.
 * [Qdrant](https://github.com/qdrant/qdrant) - An open source vector similarity search engine with extended filtering support.
 * [Quilt](https://github.com/quiltdata/quilt) - A self-organizing data hub with S3 support.
 
@@ -171,7 +172,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Alibi Detect](https://github.com/SeldonIO/alibi-detect) - An open source Python library focused on outlier, adversarial and drift detection.
 * [Frouros](https://github.com/IFCA/frouros) - An open source Python library for drift detection in machine learning systems.
-* [ml3-drift](https://github.com/ml-cube/ml3-drift) - Drift detection algorithms seamlessly integrated with ML and AI frameworks.
 * [TorchDrift](https://github.com/torchdrift/torchdrift/) - A data and concept drift library for PyTorch.
 
 ## Feature Engineering
@@ -241,7 +241,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [ML Workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE specialized for machine learning and data science.
 * [MLReef](https://github.com/MLReef/mlreef) - Open source MLOps platform that helps you collaborate, reproduce and share your ML work.
 * [Modzy](https://www.modzy.com/) - Deploy, connect, run, and monitor machine learning (ML) models in the enterprise and at the edge.
-* [Neu.ro](https://neu.ro) - MLOps platform that integrates open-source and proprietary tools into client-oriented systems.
 * [Neurolink](https://github.com/juspay/neurolink) - TypeScript-first multi-provider AI agent framework with workflow orchestration and MCP support.
 * [Omnimizer](https://www.omniml.ai) - Simplifies and accelerates MLOps by bridging the gap between ML models and edge hardware.
 * [Pachyderm](https://www.pachyderm.com/) - Combines data lineage with end-to-end pipelines on Kubernetes, engineered for the enterprise.
@@ -314,7 +313,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [PredictionIO](https://github.com/apache/predictionio) - Event collection, deployment of algorithms, evaluation, querying predictive results via APIs.
 * [Quix](https://quix.io) - Serverless platform for processing data streams in real-time with machine learning models.
 * [Rune](https://github.com/hotg-ai/rune) - Provides containers to encapsulate and deploy EdgeML pipelines and applications.
-* [Seldon](https://www.seldon.io/) - Take your ML projects from POC to production with maximum efficiency and minimal risk.
+* [Seldon](https://seldon.io/) - Take your ML projects from POC to production with maximum efficiency and minimal risk.
 * [Streamlit](https://github.com/streamlit/streamlit) - Lets you create apps for your ML projects with deceptively simple Python scripts.
 * [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving) - Flexible, high-performance serving system for ML models, designed for production.
 * [TorchServe](https://github.com/pytorch/serve) - A flexible and easy to use tool for serving PyTorch models.
@@ -396,6 +395,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Automate Studio](https://www.veritone.com/applications/automate-studio/) - Rapidly build & deploy AI-powered workflows.
 * [Cordum](https://github.com/cordum-io/cordum) - Governance-first control plane for AI agents and external workers.
 * [Couler](https://github.com/couler-proj/couler) - Unified interface for constructing and managing workflows on different workflow engines.
+* [Dotflow](https://github.com/dotflow-io/dotflow) - A lightweight Python library for building execution pipelines with retry, parallel execution, cron scheduling, and async support.
 * [dstack](https://github.com/dstackai/dstack) - An open-core tool to automate data and training workflows.
 * [Flyte](https://flyte.org/) - Easy to create concurrent, scalable, and maintainable workflows for machine learning.
 * [Hamilton](https://github.com/dagworks-inc/hamilton) - A scalable general purpose micro-framework for defining dataflows.
@@ -476,11 +476,13 @@ Where to discover new tools and discuss about existing ones.
 * [Awesome MLOps](https://github.com/visenger/awesome-mlops)
 * [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
 * [Awesome Python](https://github.com/vinta/awesome-python)
+* [Awesome RAG Production](https://github.com/Yigtwxx/Awesome-RAG-Production)
 * [Deep Learning in Production](https://github.com/ahkarami/Deep-Learning-in-Production)
 
 ## Podcasts
 
 * [AI Stories Podcast](https://www.youtube.com/@aistoriespodcast)
+* [Chain of Thought](https://chainofthought.show/)
 * [Kubernetes Podcast from Google](https://kubernetespodcast.com/)
 * [Machine Learning – Software Engineering Daily](https://podcasts.google.com/?feed=aHR0cHM6Ly9zb2Z0d2FyZWVuZ2luZWVyaW5nZGFpbHkuY29tL2NhdGVnb3J5L21hY2hpbmUtbGVhcm5pbmcvZmVlZC8)
 * [MLOps.community](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xNzRjYjFiOC9wb2RjYXN0L3Jzcw)
@@ -496,6 +498,7 @@ Where to discover new tools and discuss about existing ones.
 
 ## Websites
 
+* [Agentic Engineering Jobs](https://agentic-engineering-jobs.com)
 * [A guide to MLOps](https://mlops.swiss-ai-center.ch/)
 * [Feature Stores for ML](http://featurestore.org/)
 * [Made with ML](https://github.com/GokuMohandas/Made-With-ML)
