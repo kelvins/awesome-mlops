@@ -70,6 +70,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools for monitoring cron jobs (recurring jobs).*
 
+* [aiwatch](https://github.com/llit-comau/aiwatch) - Open-source dead-man's-switch heartbeat plus a decorator for catching silent AI/LLM pipeline failures (bad output, not just exceptions). No hosted backend required.
 * [Cronitor](https://cronitor.io/cron-job-monitoring) - Monitor any cron job or scheduled task.
 * [HealthchecksIO](https://healthchecks.io/) - Simple and effective cron job monitoring.
 * [Heartbeat.pm](https://heartbeat.pm) - Monitoring aliveness of any sensor/cron job.
