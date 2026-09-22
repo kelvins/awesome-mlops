@@ -330,6 +330,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Trubrics](https://github.com/trubrics/trubrics-sdk) - Validate machine learning with data science and domain expert feedback.
 
 ## Optimization Tools
+- [MagicKit](https://github.com/kaketiti/magickit) - Free AI toolbox with API for ML workflows: image generation, text processing. Open-source.
 
 *Optimization tools related to model scalability in production.*
 
