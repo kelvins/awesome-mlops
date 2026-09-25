@@ -392,6 +392,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Argo](https://github.com/argoproj/argo) - Open source container-native workflow engine for orchestrating parallel jobs on Kubernetes.
 * [Automate Studio](https://www.veritone.com/applications/automate-studio/) - Rapidly build & deploy AI-powered workflows.
+* [Ciaren](https://github.com/ciaren-labs/Ciaren) - Local-first visual builder for data and ML workflows with scikit-learn nodes, MLflow tracking, and Python code export.
 * [Cordum](https://github.com/cordum-io/cordum) - Governance-first control plane for AI agents and external workers.
 * [Couler](https://github.com/couler-proj/couler) - Unified interface for constructing and managing workflows on different workflow engines.
 * [Dotflow](https://github.com/dotflow-io/dotflow) - A lightweight Python library for building execution pipelines with retry, parallel execution, cron scheduling, and async support.
