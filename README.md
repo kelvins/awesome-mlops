@@ -347,6 +347,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Rapids](https://rapids.ai/index.html) - Gives the ability to execute end-to-end data science and analytics pipelines entirely on GPUs.
 * [Ray](https://github.com/ray-project/ray) - Fast and simple framework for building and running distributed applications.
 * [Singa](http://singa.apache.org/en/index.html) - Apache top level project, focusing on distributed training of DL and ML models.
+* [Throttle](https://github.com/KushagraKanaujia/throttle) - Measures LLM inference cost per million tokens with confidence intervals and flags config changes within run-to-run noise.
 * [Tpot](https://github.com/EpistasisLab/tpot) - Automated ML tool that optimizes machine learning pipelines using genetic programming.
 
 ## Simplification Tools
