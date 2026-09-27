@@ -305,6 +305,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Gradio](https://github.com/gradio-app/gradio) - Create customizable UI components around your models.
 * [GraphPipe](https://oracle.github.io/graphpipe) - Machine learning model deployment made simple.
 * [Hydrosphere](https://github.com/Hydrospheredata/hydro-serving) - Platform for deploying your Machine Learning to production.
+* [jevos](https://github.com/feder-cr/jev) - Self-hosted, open-source FastAPI server that serves a 1B model for fast yes/no text classification, running on CPU only.
 * [KFServing](https://github.com/kubeflow/kfserving) - Kubernetes custom resource definition for serving ML models on arbitrary frameworks.
 * [LocalAI](https://github.com/mudler/LocalAI) - Drop-in replacement REST API that’s compatible with OpenAI API specifications for inferencing.
 * [Merlin](https://github.com/gojek/merlin) - A platform for deploying and serving machine learning models.
