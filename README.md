@@ -101,6 +101,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [BambooLib](https://github.com/tkrabel/bamboolib) -  An intuitive GUI for Pandas DataFrames.
 * [DataPrep](https://github.com/sfu-db/dataprep) - Collect, clean and visualize your data in Python.
 * [Deepnote](https://github.com/deepnote/deepnote) - Drop-in replacement for Jupyter and an AI-native workspace for modern data teams.
+* [dtflow](https://github.com/KenyonY/dtflow) - Terminal browser and CLI toolbox for LLM training data: inspect, search, filter, convert and export JSONL/Parquet datasets.
 * [Google Colab](https://colab.research.google.com) - Hosted Jupyter notebook service that requires no setup to use.
 * [Jupyter Notebook](https://jupyter.org/) - Web-based notebook environment for interactive computing.
 * [JupyterLab](https://jupyterlab.readthedocs.io) - The next-generation user interface for Project Jupyter.
