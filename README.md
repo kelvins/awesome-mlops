@@ -113,6 +113,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Tools for performing data management.*
 
 * [Arrikto](https://www.arrikto.com/) - Dead simple, ultra fast storage for the hybrid Kubernetes world.
+* [AutoLineage](https://github.com/kishanraj41/autolineage) - Zero-code, operation-level data lineage for pandas, scikit-learn and PySpark pipelines, with anomaly detection and root-cause localization.
 * [BlazingSQL](https://github.com/BlazingDB/blazingsql) - A lightweight, GPU accelerated, SQL engine for Python. Built on RAPIDS cuDF.
 * [Delta Lake](https://github.com/delta-io/delta) - Storage layer that brings scalable, ACID transactions to Apache Spark and other engines.
 * [Dolt](https://github.com/dolthub/dolt) - SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.
