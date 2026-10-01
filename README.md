@@ -71,6 +71,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Tools for monitoring cron jobs (recurring jobs).*
 
 * [Cronitor](https://cronitor.io/cron-job-monitoring) - Monitor any cron job or scheduled task.
+* [Fivenines](https://fivenines.io/features/cron-job-monitoring) - Hosted cron monitoring with heartbeat checks and alerts for missed, late or failed jobs.
 * [HealthchecksIO](https://healthchecks.io/) - Simple and effective cron job monitoring.
 * [Heartbeat.pm](https://heartbeat.pm) - Monitoring aliveness of any sensor/cron job.
 
