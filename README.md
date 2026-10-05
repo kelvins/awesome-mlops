@@ -251,6 +251,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [SigOpt](https://sigopt.com/) - A platform that makes it easy to track runs, visualize training, and scale hyperparameter tuning.
 * [TrueFoundry](https://www.truefoundry.com) - A Cloud-native MLOps Platform over Kubernetes to simplify training and serving of ML Models.
 * [Valohai](https://valohai.com/) - MLOps platform for reproducible ML and LLM workflows from experimentation to production.
+* [Vivacious Cloud](https://vivaciouscloud.com/) - Zero-code multi-cloud training orchestrator with preflight VRAM guards and spot GPU arbitrage.
 
 ## Model Fairness and Privacy
 
