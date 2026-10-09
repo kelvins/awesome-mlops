@@ -500,6 +500,7 @@ Where to discover new tools and discuss about existing ones.
 * [Agentic Engineering Jobs](https://agentic-engineering-jobs.com)
 * [A guide to MLOps](https://mlops.swiss-ai-center.ch/)
 * [Feature Stores for ML](http://featurestore.org/)
+* [GrabGPU](https://grabgpu.com/)
 * [Made with ML](https://github.com/GokuMohandas/Made-With-ML)
 * [ML-Ops](https://ml-ops.org/)
 * [MLOps Community](https://mlops.community/)
