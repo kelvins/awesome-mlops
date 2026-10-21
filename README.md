@@ -146,6 +146,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Cerberus](https://github.com/pyeve/cerberus) - Lightweight, extensible data validation library for Python.
 * [Cleanlab](https://github.com/cleanlab/cleanlab) - Python library for data-centric AI and machine learning with messy, real-world data and labels.
+* [DataOps TestGen](https://github.com/DataKitchen/dataops-testgen) - Open-source data quality tool that profiles tables, generates validation tests from the profiling results, and monitors freshness, volume, and schema, with a web UI.
 * [Great Expectations](https://greatexpectations.io) - A Python data validation framework that allows to test your data against datasets.
 * [JSON Schema](https://json-schema.org/) - A vocabulary that allows you to annotate and validate JSON documents.
 * [TFDV](https://github.com/tensorflow/data-validation) - An library for exploring and validating machine learning data.
