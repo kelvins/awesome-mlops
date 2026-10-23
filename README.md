@@ -326,6 +326,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Tools for testing and validating models.*
 
 * [Deepchecks](https://github.com/deepchecks/deepchecks) - Open-source package for validating ML models & data, with various checks and suites.
+* [solvi](https://github.com/solvi-ai/solvi) - Runtime where models propose typed decisions and hard checks, rules and calibrated thresholds decide, with escalation, drift monitoring and replayable traces.
 * [Starwhale](https://github.com/star-whale/starwhale) - An MLOps/LLMOps platform for model building, evaluation, and fine-tuning.
 * [Trubrics](https://github.com/trubrics/trubrics-sdk) - Validate machine learning with data science and domain expert feedback.
 
