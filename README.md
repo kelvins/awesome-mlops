@@ -245,7 +245,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Omnimizer](https://www.omniml.ai) - Simplifies and accelerates MLOps by bridging the gap between ML models and edge hardware.
 * [Pachyderm](https://www.pachyderm.com/) - Combines data lineage with end-to-end pipelines on Kubernetes, engineered for the enterprise.
 * [Polyaxon](https://www.github.com/polyaxon/polyaxon/) - A platform for reproducible and scalable machine learning and deep learning on kubernetes.
-* [Runcrate](https://www.runcrate.ai/?utm_source=awesome-mlops&utm_medium=directory&utm_campaign=gpu_pricing) - GPU cloud for training and serving models: on-demand GPUs by the hour and 200+ open models behind an OpenAI-compatible API.
+* [Runcrate](https://www.runcrate.ai/?utm_source=awesome-mlops&utm_medium=directory&utm_campaign=gpu_pricing) - GPU cloud for training and serving models: on-demand GPUs by the hour, plus open and frontier models behind an OpenAI-compatible API.
 * [Sagemaker](https://aws.amazon.com/sagemaker/) - Fully managed service that provides the ability to build, train, and deploy ML models quickly.
 * [SAS Viya](https://www.sas.com/en_us/software/viya.html) - Cloud native AI, analytic and data management platform that supports the analytics life cycle.
 * [Sematic](https://sematic.dev) - An open-source end-to-end pipelining tool to go from laptop prototype to cloud in no time.
