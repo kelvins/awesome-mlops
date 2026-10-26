@@ -173,6 +173,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Alibi Detect](https://github.com/SeldonIO/alibi-detect) - An open source Python library focused on outlier, adversarial and drift detection.
 * [Frouros](https://github.com/IFCA/frouros) - An open source Python library for drift detection in machine learning systems.
 * [TorchDrift](https://github.com/torchdrift/torchdrift/) - A data and concept drift library for PyTorch.
+* [Dense-Armor](https://github.com/tatopenn-cell/Dense-Armor) - A Python library on JAX for online learning on streams, with streaming statistics, drift and anomaly detection. Free software under AGPL-3.0.
 
 ## Feature Engineering
 
