@@ -260,6 +260,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Fairlearn](https://github.com/fairlearn/fairlearn) - A Python package to assess and improve fairness of machine learning models.
 * [Opacus](https://github.com/pytorch/opacus) - A library that enables training PyTorch models with differential privacy.
 * [TensorFlow Privacy](https://github.com/tensorflow/privacy) - Library for training machine learning models with privacy for training data.
+* [voltage-verify](https://github.com/VoltageGPU/voltage-verify) - Checks offline that a confidential GPU VM's Intel TDX quote and NVIDIA GPU attestation were both produced for a manifest and challenge you wrote.
 
 ## Model Interpretability
 
