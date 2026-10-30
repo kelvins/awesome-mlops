@@ -114,7 +114,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Tools for performing data management.*
 
 * [Arrikto](https://www.arrikto.com/) - Dead simple, ultra fast storage for the hybrid Kubernetes world.
-* [AutoLineage](https://github.com/kishanraj41/autolineage) - Zero-code, operation-level data lineage for pandas, scikit-learn and PySpark pipelines, with anomaly detection and root-cause localization.
+* [AutoLineage](https://github.com/kishanraj41/autolineage) - Data lineage for pandas, scikit-learn, and PySpark pipelines, with anomaly detection and root-cause analysis.
 * [BlazingSQL](https://github.com/BlazingDB/blazingsql) - A lightweight, GPU accelerated, SQL engine for Python. Built on RAPIDS cuDF.
 * [Delta Lake](https://github.com/delta-io/delta) - Storage layer that brings scalable, ACID transactions to Apache Spark and other engines.
 * [Dolt](https://github.com/dolthub/dolt) - SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.
@@ -149,7 +149,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Cerberus](https://github.com/pyeve/cerberus) - Lightweight, extensible data validation library for Python.
 * [Cleanlab](https://github.com/cleanlab/cleanlab) - Python library for data-centric AI and machine learning with messy, real-world data and labels.
-* [DataOps TestGen](https://github.com/DataKitchen/dataops-testgen) - Open-source data quality tool that profiles tables, generates validation tests from the profiling results, and monitors freshness, volume, and schema, with a web UI.
+* [DataOps TestGen](https://github.com/DataKitchen/dataops-testgen) - Profiles tables, generates data quality tests, and monitors freshness, volume, and schema.
 * [Great Expectations](https://greatexpectations.io) - A Python data validation framework that allows to test your data against datasets.
 * [JSON Schema](https://json-schema.org/) - A vocabulary that allows you to annotate and validate JSON documents.
 * [TFDV](https://github.com/tensorflow/data-validation) - An library for exploring and validating machine learning data.
@@ -303,31 +303,31 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Banana](https://banana.dev) - Host your ML inference code on serverless GPUs and integrate it into your app with one line of code.
 * [Beam](https://beam.cloud) - Develop on serverless GPUs, deploy highly performant APIs, and rapidly prototype ML models.
 * [BentoML](https://github.com/bentoml/BentoML) - Open-source platform for high-performance ML model serving.
-* [Bifrost](https://github.com/maximhq/bifrost) - LLM gateway providing a unified API, routing, load balancing, fallbacks, and guardrails across providers.
+* [Bifrost](https://github.com/maximhq/bifrost) - LLM gateway with unified API, routing, load balancing, fallbacks, and guardrails.
 * [BudgetML](https://github.com/ebhy/budgetml) - Deploy a ML inference service on a budget in less than 10 lines of code.
 * [Cog](https://github.com/replicate/cog) - Open-source tool that lets you package ML models in a standard, production-ready container.
 * [Cortex](https://www.cortex.dev/) - Machine learning model serving infrastructure.
 * [Gradio](https://github.com/gradio-app/gradio) - Create customizable UI components around your models.
 * [GraphPipe](https://oracle.github.io/graphpipe) - Machine learning model deployment made simple.
 * [Hydrosphere](https://github.com/Hydrospheredata/hydro-serving) - Platform for deploying your Machine Learning to production.
-* [Jevstiller](https://github.com/tomerglick57/Jevstiller) - Self-hosted proxy that learns a local model from TypeSafe Jev's classification answers and serves it within a statistical bound on disagreement.
+* [Jevstiller](https://github.com/tomerglick57/Jevstiller) - Self-hosted proxy that learns a local model from TypeSafe Jev's classification answers.
 * [KFServing](https://github.com/kubeflow/kfserving) - Kubernetes custom resource definition for serving ML models on arbitrary frameworks.
 * [LocalAI](https://github.com/mudler/LocalAI) - Drop-in replacement REST API that’s compatible with OpenAI API specifications for inferencing.
 * [Merlin](https://github.com/gojek/merlin) - A platform for deploying and serving machine learning models.
 * [MLEM](https://github.com/iterative/mlem) - Version and deploy your ML models following GitOps principles.
-* [One Switch](https://github.com/yinxulai/one-switch) - Local desktop proxy that serves an OpenAI- and Anthropic-compatible API in front of several upstream channels and retries on the next channel when one fails.
+* [One Switch](https://github.com/yinxulai/one-switch) - Local desktop proxy for OpenAI and Anthropic APIs, with automatic retries across upstream channels.
 * [Opyrator](https://github.com/ml-tooling/opyrator) - Turns your ML code into microservices with web API, interactive GUI, and more.
 * [PredictionIO](https://github.com/apache/predictionio) - Event collection, deployment of algorithms, evaluation, querying predictive results via APIs.
 * [Quix](https://quix.io) - Serverless platform for processing data streams in real-time with machine learning models.
 * [Rune](https://github.com/hotg-ai/rune) - Provides containers to encapsulate and deploy EdgeML pipelines and applications.
 * [Seldon](https://seldon.io/) - Take your ML projects from POC to production with maximum efficiency and minimal risk.
 * [Streamlit](https://github.com/streamlit/streamlit) - Lets you create apps for your ML projects with deceptively simple Python scripts.
-* [Superlinked Inference Engine (SIE)](https://github.com/superlinked/sie) - Open-source inference server and production cluster for serving embedding, reranking, document-processing and generative models through one API.
+* [Superlinked Inference Engine (SIE)](https://github.com/superlinked/sie) - Inference server for embedding, reranking, document processing, and generative models.
 * [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving) - Flexible, high-performance serving system for ML models, designed for production.
 * [TorchServe](https://github.com/pytorch/serve) - A flexible and easy to use tool for serving PyTorch models.
 * [Triton Inference Server](https://github.com/triton-inference-server/server) - Provides an optimized cloud and edge inferencing solution.
 * [Vespa](https://github.com/vespa-engine/vespa) - Store, search, organize and make machine-learned inferences over big data at serving time.
-* [Wallaroo.AI](https://wallaroo.ai/) - A platform for deploying, serving, and optimizing ML models in both cloud and edge environments.
+* [Wallaroo.AI](https://wallaroo.ai/) - Platform for deploying, serving, and optimizing ML models in cloud and edge environments.
 
 ## Model Testing & Validation
 
@@ -337,7 +337,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Deepchecks](https://github.com/deepchecks/deepchecks) - Open-source package for validating ML models & data, with various checks and suites.
 * [Starwhale](https://github.com/star-whale/starwhale) - An MLOps/LLMOps platform for model building, evaluation, and fine-tuning.
 * [Trubrics](https://github.com/trubrics/trubrics-sdk) - Validate machine learning with data science and domain expert feedback.
-* [Veritensor](https://github.com/arsbr/Veritensor) - DevSecOps tool for MLOps. Scans models for malware (RCE), datasets for poisoning, and generates cryptographic data provenance manifests.
+* [Veritensor](https://github.com/arsbr/Veritensor) - Scans models for malware, datasets for poisoning, and generates cryptographic provenance manifests.
   
 ## Optimization Tools
 
@@ -406,11 +406,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Automate Studio](https://www.veritone.com/applications/automate-studio/) - Rapidly build & deploy AI-powered workflows.
 * [Cordum](https://github.com/cordum-io/cordum) - Governance-first control plane for AI agents and external workers.
 * [Couler](https://github.com/couler-proj/couler) - Unified interface for constructing and managing workflows on different workflow engines.
-* [Dotflow](https://github.com/dotflow-io/dotflow) - A lightweight Python library for building execution pipelines with retry, parallel execution, cron scheduling, and async support.
+* [Dotflow](https://github.com/dotflow-io/dotflow) - Python execution pipelines with retries, parallel tasks, cron scheduling, and async support.
 * [dstack](https://github.com/dstackai/dstack) - An open-core tool to automate data and training workflows.
 * [Flyte](https://flyte.org/) - Easy to create concurrent, scalable, and maintainable workflows for machine learning.
 * [Hamilton](https://github.com/dagworks-inc/hamilton) - A scalable general purpose micro-framework for defining dataflows.
-* [Heym](https://github.com/heymrun/heym) - Self-hosted agent workflow runtime with human approval checkpoints, retries, execution traces, and evaluations (MIT with Commons Clause).
+* [Heym](https://github.com/heymrun/heym) - Self-hosted agent workflow runtime with approvals, retries, traces, and evaluations.
 * [Kale](https://github.com/kubeflow-kale/kale) - Aims at simplifying the Data Science experience of deploying Kubeflow Pipelines workflows.
 * [Kedro](https://github.com/quantumblacklabs/kedro) - Library that implements software engineering best-practice for data and ML pipelines.
 * [Luigi](https://github.com/spotify/luigi) - Python module that helps you build complex pipelines of batch jobs.
