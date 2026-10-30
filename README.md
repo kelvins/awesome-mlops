@@ -136,6 +136,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Airflow](https://airflow.apache.org/) - Platform to programmatically author, schedule, and monitor workflows.
 * [Azkaban](https://github.com/azkaban/azkaban) - Batch workflow job scheduler created at LinkedIn to run Hadoop jobs.
 * [Dagster](https://github.com/dagster-io/dagster) - A data orchestrator for machine learning, analytics, and ETL.
+* [DataFlow](https://github.com/OpenDCAI/DataFlow) - LLM-ready data preparation system for turning raw data into SFT, QA, and RAG-ready datasets.
 * [Hadoop](https://hadoop.apache.org/) - Framework that allows for the distributed processing of large data sets across clusters.
 * [OpenRefine](https://github.com/OpenRefine/OpenRefine) - Power tool for working with messy data and improving it.
 * [Spark](https://spark.apache.org/) - Unified analytics engine for large-scale data processing.
