@@ -46,6 +46,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools for performing AutoML.*
 
+* [AIDE](https://github.com/WecoAI/aideml) - Open-source ML engineering agent with tree search for automated solution development.
 * [AutoGluon](https://github.com/awslabs/autogluon) - Automated machine learning for image, text, tabular, time-series, and multi-modal data.
 * [AutoKeras](https://github.com/keras-team/autokeras) - AutoKeras goal is to make machine learning accessible for everyone.
 * [AutoPyTorch](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch.
@@ -385,6 +386,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Radicalbit](https://github.com/radicalbit/radicalbit-ai-monitoring/) - The open source solution for monitoring your AI models in production.
 * [Rhesis](https://github.com/rhesis-ai/rhesis) - Testing infrastructure for LLM and agentic applications with collaborative evaluation.
 * [Superwise](https://www.superwise.ai) - Fully automated, enterprise-grade model observability in a self-service SaaS platform.
+* [Weco Observe](https://weco.ai) - Observability and debugging for AI research agents.
 * [Whylogs](https://github.com/whylabs/whylogs) - The open source standard for data logging. Enables ML monitoring and observability.
 * [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection.
 
