@@ -6,13 +6,13 @@ jobs:
   check-order:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - uses: actions/setup-python@v2
+    - uses: actions/checkout@v7
+    - uses: actions/setup-python@v7
       with:
-        python-version: '3.8'
+        python-version: '3.x'
     - run: python check_order.py
   check-links:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v7
     - uses: gaurav-nelson/github-action-markdown-link-check@v1
