@@ -173,7 +173,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Alibi Detect](https://github.com/SeldonIO/alibi-detect) - An open source Python library focused on outlier, adversarial and drift detection.
 * [Frouros](https://github.com/IFCA/frouros) - An open source Python library for drift detection in machine learning systems.
-* [ml3-drift](https://github.com/ml-cube/ml3-drift) - Drift detection algorithms seamlessly integrated with ML and AI frameworks.
 * [TorchDrift](https://github.com/torchdrift/torchdrift/) - A data and concept drift library for PyTorch.
 
 ## Feature Engineering
@@ -243,7 +242,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [ML Workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE specialized for machine learning and data science.
 * [MLReef](https://github.com/MLReef/mlreef) - Open source MLOps platform that helps you collaborate, reproduce and share your ML work.
 * [Modzy](https://www.modzy.com/) - Deploy, connect, run, and monitor machine learning (ML) models in the enterprise and at the edge.
-* [Neu.ro](https://neu.ro) - MLOps platform that integrates open-source and proprietary tools into client-oriented systems.
 * [Neurolink](https://github.com/juspay/neurolink) - TypeScript-first multi-provider AI agent framework with workflow orchestration and MCP support.
 * [Omnimizer](https://www.omniml.ai) - Simplifies and accelerates MLOps by bridging the gap between ML models and edge hardware.
 * [Pachyderm](https://www.pachyderm.com/) - Combines data lineage with end-to-end pipelines on Kubernetes, engineered for the enterprise.
@@ -301,6 +299,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Banana](https://banana.dev) - Host your ML inference code on serverless GPUs and integrate it into your app with one line of code.
 * [Beam](https://beam.cloud) - Develop on serverless GPUs, deploy highly performant APIs, and rapidly prototype ML models.
 * [BentoML](https://github.com/bentoml/BentoML) - Open-source platform for high-performance ML model serving.
+* [Bifrost](https://github.com/maximhq/bifrost) - LLM gateway providing a unified API, routing, load balancing, fallbacks, and guardrails across providers.
 * [BudgetML](https://github.com/ebhy/budgetml) - Deploy a ML inference service on a budget in less than 10 lines of code.
 * [Cog](https://github.com/replicate/cog) - Open-source tool that lets you package ML models in a standard, production-ready container.
 * [Cortex](https://www.cortex.dev/) - Machine learning model serving infrastructure.
@@ -316,7 +315,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [PredictionIO](https://github.com/apache/predictionio) - Event collection, deployment of algorithms, evaluation, querying predictive results via APIs.
 * [Quix](https://quix.io) - Serverless platform for processing data streams in real-time with machine learning models.
 * [Rune](https://github.com/hotg-ai/rune) - Provides containers to encapsulate and deploy EdgeML pipelines and applications.
-* [Seldon](https://www.seldon.io/) - Take your ML projects from POC to production with maximum efficiency and minimal risk.
+* [Seldon](https://seldon.io/) - Take your ML projects from POC to production with maximum efficiency and minimal risk.
 * [Streamlit](https://github.com/streamlit/streamlit) - Lets you create apps for your ML projects with deceptively simple Python scripts.
 * [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving) - Flexible, high-performance serving system for ML models, designed for production.
 * [TorchServe](https://github.com/pytorch/serve) - A flexible and easy to use tool for serving PyTorch models.
@@ -478,6 +477,7 @@ Where to discover new tools and discuss about existing ones.
 * [Awesome MLOps](https://github.com/visenger/awesome-mlops)
 * [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
 * [Awesome Python](https://github.com/vinta/awesome-python)
+* [Awesome RAG Production](https://github.com/Yigtwxx/Awesome-RAG-Production)
 * [Deep Learning in Production](https://github.com/ahkarami/Deep-Learning-in-Production)
 
 ## Podcasts
