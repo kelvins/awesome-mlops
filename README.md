@@ -184,6 +184,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Feature Engine](https://github.com/feature-engine/feature_engine) - Feature engineering package with SKlearn like functionality.
 * [Featuretools](https://github.com/alteryx/featuretools) - Python library for automated feature engineering.
+* [mloda](https://github.com/mloda-ai/mloda) - Plugin-based, framework-agnostic feature engineering library for Python with built-in lineage tracing.
 * [TSFresh](https://github.com/blue-yonder/tsfresh) - Python library for automatic extraction of relevant features from time series.
 
 ## Feature Store
