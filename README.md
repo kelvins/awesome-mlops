@@ -136,6 +136,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Airflow](https://airflow.apache.org/) - Platform to programmatically author, schedule, and monitor workflows.
 * [Azkaban](https://github.com/azkaban/azkaban) - Batch workflow job scheduler created at LinkedIn to run Hadoop jobs.
 * [Dagster](https://github.com/dagster-io/dagster) - A data orchestrator for machine learning, analytics, and ETL.
+* [DataFlow](https://github.com/OpenDCAI/DataFlow) - LLM-ready data preparation system for turning raw data into SFT, QA, and RAG-ready datasets.
 * [Hadoop](https://hadoop.apache.org/) - Framework that allows for the distributed processing of large data sets across clusters.
 * [OpenRefine](https://github.com/OpenRefine/OpenRefine) - Power tool for working with messy data and improving it.
 * [Spark](https://spark.apache.org/) - Unified analytics engine for large-scale data processing.
@@ -298,10 +299,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Banana](https://banana.dev) - Host your ML inference code on serverless GPUs and integrate it into your app with one line of code.
 * [Beam](https://beam.cloud) - Develop on serverless GPUs, deploy highly performant APIs, and rapidly prototype ML models.
 * [BentoML](https://github.com/bentoml/BentoML) - Open-source platform for high-performance ML model serving.
+* [Bifrost](https://github.com/maximhq/bifrost) - LLM gateway providing a unified API, routing, load balancing, fallbacks, and guardrails across providers.
 * [BudgetML](https://github.com/ebhy/budgetml) - Deploy a ML inference service on a budget in less than 10 lines of code.
 * [Cog](https://github.com/replicate/cog) - Open-source tool that lets you package ML models in a standard, production-ready container.
 * [Cortex](https://www.cortex.dev/) - Machine learning model serving infrastructure.
-* [Geniusrise](https://docs.geniusrise.ai) - Host inference APIs, bulk inference and fine tune text, vision, audio and multi-modal models.
 * [Gradio](https://github.com/gradio-app/gradio) - Create customizable UI components around your models.
 * [GraphPipe](https://oracle.github.io/graphpipe) - Machine learning model deployment made simple.
 * [Hydrosphere](https://github.com/Hydrospheredata/hydro-serving) - Platform for deploying your Machine Learning to production.
