@@ -414,6 +414,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [VDP](https://github.com/instill-ai/vdp) - An open-source tool to seamlessly integrate AI for unstructured data into the modern data stack.
 * [Velda](https://velda.io) - Run jobs and workflows as if on your local machine.
 * [Wordware](https://www.wordware.ai) - A web-hosted IDE where non-technical domain experts can build task-specific AI agents.
+* [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries.
 * [ZenML](https://github.com/maiot-io/zenml) - An extensible open-source MLOps framework to create reproducible pipelines.
 
 ---
