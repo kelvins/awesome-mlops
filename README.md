@@ -328,6 +328,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Triton Inference Server](https://github.com/triton-inference-server/server) - Provides an optimized cloud and edge inferencing solution.
 * [Vespa](https://github.com/vespa-engine/vespa) - Store, search, organize and make machine-learned inferences over big data at serving time.
 * [Wallaroo.AI](https://wallaroo.ai/) - Platform for deploying, serving, and optimizing ML models in cloud and edge environments.
+* [warmctl](https://github.com/TensorRails/warmctl) - Checkpoint/restore for vLLM that restores a warmed-up engine on matching GPUs in seconds instead of a cold start.
 
 ## Model Testing & Validation
 
