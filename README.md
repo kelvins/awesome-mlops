@@ -313,6 +313,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Jevstiller](https://github.com/tomerglick57/Jevstiller) - Self-hosted proxy that learns a local model from TypeSafe Jev's classification answers.
 * [KFServing](https://github.com/kubeflow/kfserving) - Kubernetes custom resource definition for serving ML models on arbitrary frameworks.
 * [LocalAI](https://github.com/mudler/LocalAI) - Drop-in replacement REST API that’s compatible with OpenAI API specifications for inferencing.
+* [marbor](https://github.com/Anirudhx7/marbor) - Single-binary control plane for self-hosted LLM inference, with warm-aware routing and VRAM-aware placement across vLLM, Ollama, TGI, llama.cpp, and MLX nodes.
 * [Merlin](https://github.com/gojek/merlin) - A platform for deploying and serving machine learning models.
 * [MLEM](https://github.com/iterative/mlem) - Version and deploy your ML models following GitOps principles.
 * [One Switch](https://github.com/yinxulai/one-switch) - Local desktop proxy for OpenAI and Anthropic APIs, with automatic retries across upstream channels.
