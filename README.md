@@ -367,6 +367,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Hermione](https://github.com/a3data/hermione) - Help Data Scientists on setting up more organized codes, in a quicker and simpler way.
 * [Hydra](https://github.com/facebookresearch/hydra) - A framework for elegantly configuring complex applications.
 * [Koalas](https://github.com/databricks/koalas) - Pandas API on Apache Spark. Makes data scientists more productive when interacting with big data.
+* [LayerSmith](https://github.com/r0lfi/layersmith) - Self-hosted web UI for building OCI images with Docker or Podman, including training environment templates, digest-pinned bases, and air-gap bundles.
 * [Ludwig](https://github.com/uber/ludwig) - Allows users to train and test deep learning models without the need to write code.
 * [MLNotify](https://github.com/aporia-ai/mlnotify) - No need to keep checking your training, just one import line and you'll know the second it's done.
 * [PyCaret](https://pycaret.org/) - Open source, low-code machine learning library in Python.
