@@ -305,6 +305,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [BentoML](https://github.com/bentoml/BentoML) - Open-source platform for high-performance ML model serving.
 * [Bifrost](https://github.com/maximhq/bifrost) - LLM gateway with unified API, routing, load balancing, fallbacks, and guardrails.
 * [BudgetML](https://github.com/ebhy/budgetml) - Deploy a ML inference service on a budget in less than 10 lines of code.
+* [CloudGPU](https://cloudgpu.app/) - Per-minute GPU rental and an OpenAI-compatible model API, with an MCP server so agents can run both.
 * [Cog](https://github.com/replicate/cog) - Open-source tool that lets you package ML models in a standard, production-ready container.
 * [Cortex](https://www.cortex.dev/) - Machine learning model serving infrastructure.
 * [Gradio](https://github.com/gradio-app/gradio) - Create customizable UI components around your models.
