@@ -306,6 +306,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Bifrost](https://github.com/maximhq/bifrost) - LLM gateway with unified API, routing, load balancing, fallbacks, and guardrails.
 * [BudgetML](https://github.com/ebhy/budgetml) - Deploy a ML inference service on a budget in less than 10 lines of code.
 * [Cog](https://github.com/replicate/cog) - Open-source tool that lets you package ML models in a standard, production-ready container.
+* [Cognipeer Console](https://github.com/Cognipeer/console) - Self-hosted AI gateway and control plane with OpenAI-compatible LLM routing, RAG, an MCP hub, guardrails, and agent tracing.
 * [Cortex](https://www.cortex.dev/) - Machine learning model serving infrastructure.
 * [Gradio](https://github.com/gradio-app/gradio) - Create customizable UI components around your models.
 * [GraphPipe](https://oracle.github.io/graphpipe) - Machine learning model deployment made simple.
