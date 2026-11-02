@@ -452,6 +452,7 @@ Where to discover new tools and discuss about existing ones.
 * [Deep Learning in Production](https://www.amazon.com/gp/product/6180033773) (AI Summer)
 * [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956) (O'Reilly)
 * [Engineering MLOps](https://www.packtpub.com/product/engineering-mlops/9781800562882) (Packt)
+* [From Model to Product](https://www.dulandias.com/product/from-model-to-product-foundations-for-practical-ai-engineering-softcover) (Independently published)
 * [Implementing MLOps in the Enterprise](https://www.oreilly.com/library/view/implementing-mlops-in/9781098136574) (O'Reilly)
 * [Introducing MLOps](https://www.oreilly.com/library/view/introducing-mlops/9781492083283) (O'Reilly)
 * [Kubeflow for Machine Learning](https://www.oreilly.com/library/view/kubeflow-for-machine/9781492050117) (O'Reilly)
