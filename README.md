@@ -315,6 +315,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [LocalAI](https://github.com/mudler/LocalAI) - Drop-in replacement REST API that’s compatible with OpenAI API specifications for inferencing.
 * [Merlin](https://github.com/gojek/merlin) - A platform for deploying and serving machine learning models.
 * [MLEM](https://github.com/iterative/mlem) - Version and deploy your ML models following GitOps principles.
+* [MorrowCache](https://github.com/kushals256/jevcache) - Local OpenAI-compatible proxy that caches LLM responses, with an LLM judge admitting paraphrase hits.
 * [One Switch](https://github.com/yinxulai/one-switch) - Local desktop proxy for OpenAI and Anthropic APIs, with automatic retries across upstream channels.
 * [Opyrator](https://github.com/ml-tooling/opyrator) - Turns your ML code into microservices with web API, interactive GUI, and more.
 * [PredictionIO](https://github.com/apache/predictionio) - Event collection, deployment of algorithms, evaluation, querying predictive results via APIs.
