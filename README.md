@@ -324,6 +324,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Streamlit](https://github.com/streamlit/streamlit) - Lets you create apps for your ML projects with deceptively simple Python scripts.
 * [Superlinked Inference Engine (SIE)](https://github.com/superlinked/sie) - Inference server for embedding, reranking, document processing, and generative models.
 * [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving) - Flexible, high-performance serving system for ML models, designed for production.
+* [TokenLab](https://tokenlab.sh/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-mlops) - Connect TokenLab to Claude Code, Codex or any MCP client, and your agent can make images and video. Claude, GPT and other models run on the same key.
 * [TorchServe](https://github.com/pytorch/serve) - A flexible and easy to use tool for serving PyTorch models.
 * [Triton Inference Server](https://github.com/triton-inference-server/server) - Provides an optimized cloud and edge inferencing solution.
 * [Vespa](https://github.com/vespa-engine/vespa) - Store, search, organize and make machine-learned inferences over big data at serving time.
