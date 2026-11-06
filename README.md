@@ -382,6 +382,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Aporia](https://www.aporia.com/) - Observability with customized monitoring and explainability for ML models.
 * [Arize](https://www.arize.com/) - A free end-to-end ML observability and model monitoring platform.
+* [Denpex](https://denpex.com/) - GPU log diagnostics for training and inference failures across CUDA, PyTorch, NCCL, and vLLM.
 * [Evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze ML models during validation or production monitoring.
 * [Fiddler](https://www.fiddler.ai/) - Monitor, explain, and analyze your AI in production.
 * [Future AGI](https://github.com/future-agi/future-agi) - Open-source platform to evaluate, trace, and guard AI agents.
