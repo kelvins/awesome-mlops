@@ -318,6 +318,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [One Switch](https://github.com/yinxulai/one-switch) - Local desktop proxy for OpenAI and Anthropic APIs, with automatic retries across upstream channels.
 * [Opyrator](https://github.com/ml-tooling/opyrator) - Turns your ML code into microservices with web API, interactive GUI, and more.
 * [PredictionIO](https://github.com/apache/predictionio) - Event collection, deployment of algorithms, evaluation, querying predictive results via APIs.
+* [QIT](https://qit.energy) - GPU containers. Built for AI; AI Model API plus serverless/reserved GPUs for inference workloads.
 * [Quix](https://quix.io) - Serverless platform for processing data streams in real-time with machine learning models.
 * [Rune](https://github.com/hotg-ai/rune) - Provides containers to encapsulate and deploy EdgeML pipelines and applications.
 * [Seldon](https://seldon.io/) - Take your ML projects from POC to production with maximum efficiency and minimal risk.
