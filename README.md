@@ -321,6 +321,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Quix](https://quix.io) - Serverless platform for processing data streams in real-time with machine learning models.
 * [Rune](https://github.com/hotg-ai/rune) - Provides containers to encapsulate and deploy EdgeML pipelines and applications.
 * [Seldon](https://seldon.io/) - Take your ML projects from POC to production with maximum efficiency and minimal risk.
+* [SandBase CLI](https://github.com/sandbaseai/cli) - Open-source MCP/CLI gateway that connects AI agents to 2,000+ models and APIs via a unified OpenAI-compatible interface.
 * [Streamlit](https://github.com/streamlit/streamlit) - Lets you create apps for your ML projects with deceptively simple Python scripts.
 * [Superlinked Inference Engine (SIE)](https://github.com/superlinked/sie) - Inference server for embedding, reranking, document processing, and generative models.
 * [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving) - Flexible, high-performance serving system for ML models, designed for production.
