@@ -311,6 +311,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [GraphPipe](https://oracle.github.io/graphpipe) - Machine learning model deployment made simple.
 * [Hydrosphere](https://github.com/Hydrospheredata/hydro-serving) - Platform for deploying your Machine Learning to production.
 * [Jevstiller](https://github.com/tomerglick57/Jevstiller) - Self-hosted proxy that learns a local model from TypeSafe Jev's classification answers.
+* [Kaeso](https://kaeso.app) - Self-hosted AI gateway in Rust with OpenAI- and Anthropic-compatible APIs, SSO, budgets and request logs.
 * [KFServing](https://github.com/kubeflow/kfserving) - Kubernetes custom resource definition for serving ML models on arbitrary frameworks.
 * [LocalAI](https://github.com/mudler/LocalAI) - Drop-in replacement REST API that’s compatible with OpenAI API specifications for inferencing.
 * [Merlin](https://github.com/gojek/merlin) - A platform for deploying and serving machine learning models.
