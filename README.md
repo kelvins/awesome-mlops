@@ -46,6 +46,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools for performing AutoML.*
 
+* [AIDE](https://github.com/WecoAI/aideml) - Open-source ML engineering agent with tree search for automated solution development.
 * [AutoGluon](https://github.com/awslabs/autogluon) - Automated machine learning for image, text, tabular, time-series, and multi-modal data.
 * [AutoKeras](https://github.com/keras-team/autokeras) - AutoKeras goal is to make machine learning accessible for everyone.
 * [AutoPyTorch](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch.
@@ -113,6 +114,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Tools for performing data management.*
 
 * [Arrikto](https://www.arrikto.com/) - Dead simple, ultra fast storage for the hybrid Kubernetes world.
+* [AutoLineage](https://github.com/kishanraj41/autolineage) - Data lineage for pandas, scikit-learn, and PySpark pipelines, with anomaly detection and root-cause analysis.
 * [BlazingSQL](https://github.com/BlazingDB/blazingsql) - A lightweight, GPU accelerated, SQL engine for Python. Built on RAPIDS cuDF.
 * [Delta Lake](https://github.com/delta-io/delta) - Storage layer that brings scalable, ACID transactions to Apache Spark and other engines.
 * [Dolt](https://github.com/dolthub/dolt) - SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.
@@ -136,6 +138,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Airflow](https://airflow.apache.org/) - Platform to programmatically author, schedule, and monitor workflows.
 * [Azkaban](https://github.com/azkaban/azkaban) - Batch workflow job scheduler created at LinkedIn to run Hadoop jobs.
 * [Dagster](https://github.com/dagster-io/dagster) - A data orchestrator for machine learning, analytics, and ETL.
+* [DataFlow](https://github.com/OpenDCAI/DataFlow) - LLM-ready data preparation system for turning raw data into SFT, QA, and RAG-ready datasets.
 * [Hadoop](https://hadoop.apache.org/) - Framework that allows for the distributed processing of large data sets across clusters.
 * [OpenRefine](https://github.com/OpenRefine/OpenRefine) - Power tool for working with messy data and improving it.
 * [Spark](https://spark.apache.org/) - Unified analytics engine for large-scale data processing.
@@ -146,6 +149,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Cerberus](https://github.com/pyeve/cerberus) - Lightweight, extensible data validation library for Python.
 * [Cleanlab](https://github.com/cleanlab/cleanlab) - Python library for data-centric AI and machine learning with messy, real-world data and labels.
+* [DataOps TestGen](https://github.com/DataKitchen/dataops-testgen) - Profiles tables, generates data quality tests, and monitors freshness, volume, and schema.
 * [Great Expectations](https://greatexpectations.io) - A Python data validation framework that allows to test your data against datasets.
 * [JSON Schema](https://json-schema.org/) - A vocabulary that allows you to annotate and validate JSON documents.
 * [TFDV](https://github.com/tensorflow/data-validation) - An library for exploring and validating machine learning data.
@@ -180,6 +184,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Feature Engine](https://github.com/feature-engine/feature_engine) - Feature engineering package with SKlearn like functionality.
 * [Featuretools](https://github.com/alteryx/featuretools) - Python library for automated feature engineering.
+* [mloda](https://github.com/mloda-ai/mloda) - Plugin-based, framework-agnostic feature engineering library for Python with built-in lineage tracing.
 * [TSFresh](https://github.com/blue-yonder/tsfresh) - Python library for automatic extraction of relevant features from time series.
 
 ## Feature Store
@@ -298,37 +303,42 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Banana](https://banana.dev) - Host your ML inference code on serverless GPUs and integrate it into your app with one line of code.
 * [Beam](https://beam.cloud) - Develop on serverless GPUs, deploy highly performant APIs, and rapidly prototype ML models.
 * [BentoML](https://github.com/bentoml/BentoML) - Open-source platform for high-performance ML model serving.
+* [Bifrost](https://github.com/maximhq/bifrost) - LLM gateway with unified API, routing, load balancing, fallbacks, and guardrails.
 * [BudgetML](https://github.com/ebhy/budgetml) - Deploy a ML inference service on a budget in less than 10 lines of code.
 * [Cog](https://github.com/replicate/cog) - Open-source tool that lets you package ML models in a standard, production-ready container.
 * [Cortex](https://www.cortex.dev/) - Machine learning model serving infrastructure.
-* [Geniusrise](https://docs.geniusrise.ai) - Host inference APIs, bulk inference and fine tune text, vision, audio and multi-modal models.
 * [Gradio](https://github.com/gradio-app/gradio) - Create customizable UI components around your models.
 * [GraphPipe](https://oracle.github.io/graphpipe) - Machine learning model deployment made simple.
 * [Hydrosphere](https://github.com/Hydrospheredata/hydro-serving) - Platform for deploying your Machine Learning to production.
+* [Jevstiller](https://github.com/tomerglick57/Jevstiller) - Self-hosted proxy that learns a local model from TypeSafe Jev's classification answers.
 * [KFServing](https://github.com/kubeflow/kfserving) - Kubernetes custom resource definition for serving ML models on arbitrary frameworks.
 * [LocalAI](https://github.com/mudler/LocalAI) - Drop-in replacement REST API that’s compatible with OpenAI API specifications for inferencing.
 * [Merlin](https://github.com/gojek/merlin) - A platform for deploying and serving machine learning models.
 * [MLEM](https://github.com/iterative/mlem) - Version and deploy your ML models following GitOps principles.
+* [One Switch](https://github.com/yinxulai/one-switch) - Local desktop proxy for OpenAI and Anthropic APIs, with automatic retries across upstream channels.
 * [Opyrator](https://github.com/ml-tooling/opyrator) - Turns your ML code into microservices with web API, interactive GUI, and more.
 * [PredictionIO](https://github.com/apache/predictionio) - Event collection, deployment of algorithms, evaluation, querying predictive results via APIs.
 * [Quix](https://quix.io) - Serverless platform for processing data streams in real-time with machine learning models.
 * [Rune](https://github.com/hotg-ai/rune) - Provides containers to encapsulate and deploy EdgeML pipelines and applications.
 * [Seldon](https://seldon.io/) - Take your ML projects from POC to production with maximum efficiency and minimal risk.
 * [Streamlit](https://github.com/streamlit/streamlit) - Lets you create apps for your ML projects with deceptively simple Python scripts.
+* [Superlinked Inference Engine (SIE)](https://github.com/superlinked/sie) - Inference server for embedding, reranking, document processing, and generative models.
 * [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving) - Flexible, high-performance serving system for ML models, designed for production.
 * [TorchServe](https://github.com/pytorch/serve) - A flexible and easy to use tool for serving PyTorch models.
 * [Triton Inference Server](https://github.com/triton-inference-server/server) - Provides an optimized cloud and edge inferencing solution.
 * [Vespa](https://github.com/vespa-engine/vespa) - Store, search, organize and make machine-learned inferences over big data at serving time.
-* [Wallaroo.AI](https://wallaroo.ai/) - A platform for deploying, serving, and optimizing ML models in both cloud and edge environments.
+* [Wallaroo.AI](https://wallaroo.ai/) - Platform for deploying, serving, and optimizing ML models in cloud and edge environments.
 
 ## Model Testing & Validation
 
 *Tools for testing and validating models.*
 
+* [AIsbom](https://github.com/Lab700xOrg/aisbom) - Open source CLI to detect Pickle malware and license risks in PyTorch models.
 * [Deepchecks](https://github.com/deepchecks/deepchecks) - Open-source package for validating ML models & data, with various checks and suites.
 * [Starwhale](https://github.com/star-whale/starwhale) - An MLOps/LLMOps platform for model building, evaluation, and fine-tuning.
 * [Trubrics](https://github.com/trubrics/trubrics-sdk) - Validate machine learning with data science and domain expert feedback.
-
+* [Veritensor](https://github.com/arsbr/Veritensor) - Scans models for malware, datasets for poisoning, and generates cryptographic provenance manifests.
+  
 ## Optimization Tools
 
 *Optimization tools related to model scalability in production.*
@@ -374,6 +384,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Arize](https://www.arize.com/) - A free end-to-end ML observability and model monitoring platform.
 * [Evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze ML models during validation or production monitoring.
 * [Fiddler](https://www.fiddler.ai/) - Monitor, explain, and analyze your AI in production.
+* [Future AGI](https://github.com/future-agi/future-agi) - Open-source platform to evaluate, trace, and guard AI agents.
 * [Manifest](https://github.com/mnfst/manifest) - Open-source real-time cost observability for AI agents.
 * [Manifold](https://github.com/uber/manifold) - A model-agnostic visual debugging tool for machine learning.
 * [NannyML](https://github.com/NannyML/nannyml) - Algorithm capable of fully capturing the impact of data drift on performance.
@@ -383,6 +394,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Radicalbit](https://github.com/radicalbit/radicalbit-ai-monitoring/) - The open source solution for monitoring your AI models in production.
 * [Rhesis](https://github.com/rhesis-ai/rhesis) - Testing infrastructure for LLM and agentic applications with collaborative evaluation.
 * [Superwise](https://www.superwise.ai) - Fully automated, enterprise-grade model observability in a self-service SaaS platform.
+* [Weco Observe](https://weco.ai) - Observability and debugging for AI research agents.
 * [Whylogs](https://github.com/whylabs/whylogs) - The open source standard for data logging. Enables ML monitoring and observability.
 * [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection.
 
@@ -395,10 +407,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Ciaren](https://github.com/ciaren-labs/Ciaren) - Local-first visual builder for data and ML workflows with scikit-learn nodes, MLflow tracking, and Python code export.
 * [Cordum](https://github.com/cordum-io/cordum) - Governance-first control plane for AI agents and external workers.
 * [Couler](https://github.com/couler-proj/couler) - Unified interface for constructing and managing workflows on different workflow engines.
-* [Dotflow](https://github.com/dotflow-io/dotflow) - A lightweight Python library for building execution pipelines with retry, parallel execution, cron scheduling, and async support.
+* [Dotflow](https://github.com/dotflow-io/dotflow) - Python execution pipelines with retries, parallel tasks, cron scheduling, and async support.
 * [dstack](https://github.com/dstackai/dstack) - An open-core tool to automate data and training workflows.
 * [Flyte](https://flyte.org/) - Easy to create concurrent, scalable, and maintainable workflows for machine learning.
 * [Hamilton](https://github.com/dagworks-inc/hamilton) - A scalable general purpose micro-framework for defining dataflows.
+* [Heym](https://github.com/heymrun/heym) - Self-hosted agent workflow runtime with approvals, retries, traces, and evaluations.
 * [Kale](https://github.com/kubeflow-kale/kale) - Aims at simplifying the Data Science experience of deploying Kubeflow Pipelines workflows.
 * [Kedro](https://github.com/quantumblacklabs/kedro) - Library that implements software engineering best-practice for data and ML pipelines.
 * [Luigi](https://github.com/spotify/luigi) - Python module that helps you build complex pipelines of batch jobs.
