@@ -519,6 +519,7 @@ Where to discover new tools and discuss about existing ones.
 * [MLOps Guide](https://mlops-guide.github.io/)
 * [MLOps Now](https://mlopsnow.com)
 * [System Designer - ML Systems](https://systemdesigner.net/ml-systems)
+* [TrueIQ](https://trueiq.si/) - A curated directory of AI evaluation, benchmark and observability tools, with explainers for major benchmarks and a comparison of public LLM leaderboards.
 
 # Contributing
 
