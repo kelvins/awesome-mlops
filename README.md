@@ -223,6 +223,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Complete machine learning platform solutions.*
 
+* [Adaption](https://adaptionlabs.ai/) - Optimizes training data and automates the research loop behind model training and alignment.
 * [aiWARE](https://www.veritone.com/aiware/aiware-os/) - aiWARE helps MLOps teams evaluate, deploy, integrate, scale & monitor ML models.
 * [Algorithmia](https://algorithmia.com/) - Securely govern your machine learning operations with a healthy ML lifecycle.
 * [Allegro AI](https://allegro.ai/) - Transform ML/DL research into products. Faster.
