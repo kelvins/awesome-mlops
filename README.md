@@ -121,6 +121,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Dud](https://github.com/kevin-hanselman/dud) - A lightweight CLI tool for versioning data alongside source code and building data pipelines.
 * [DVC](https://dvc.org/) - Management and versioning of datasets and machine learning models.
 * [Git LFS](https://git-lfs.github.com) - An open source Git extension for versioning large files.
+* [Hippius Hub](https://hippius.com/hippius-hub) - Stores AI models and container images in one OCI registry, with Trivy scanning and an EU and US edge cache.
 * [Hub](https://github.com/activeloopai/Hub) - A dataset format for creating, storing, and collaborating on AI datasets of any size.
 * [Intake](https://github.com/intake/intake) - A lightweight set of tools for loading and sharing data in data science projects.
 * [lakeFS](https://github.com/treeverse/lakeFS) - Repeatable, atomic and versioned data lake on top of object storage.
