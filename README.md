@@ -380,6 +380,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools for performing visual analysis and debugging of ML/DL models.*
 
+* [Agnost AI](https://agnost.ai/) - Monitors AI agents in production and opens PRs with fixes for failed conversations.
 * [Aporia](https://www.aporia.com/) - Observability with customized monitoring and explainability for ML models.
 * [Arize](https://www.arize.com/) - A free end-to-end ML observability and model monitoring platform.
 * [Evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze ML models during validation or production monitoring.
