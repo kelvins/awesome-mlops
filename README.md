@@ -293,6 +293,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [MLflow](https://mlflow.org/) - Open source platform for the machine learning lifecycle.
 * [ModelDB](https://github.com/VertaAI/modeldb/) - Open source ML model versioning, metadata, and experiment management.
 * [Neptune AI](https://neptune.ai/) - The most lightweight experiment management tool that fits any workflow.
+* [ResearchForge](https://github.com/forger-labs-hq/researchforge) - Autonomous experiment loop that measures every change against a frozen baseline and keeps rejected runs on record.
 * [Sacred](https://github.com/IDSIA/sacred) - A tool to help you configure, organize, log and reproduce experiments.
 * [Weights and Biases](https://github.com/wandb/client) - A tool for visualizing and tracking your machine learning experiments.
 
