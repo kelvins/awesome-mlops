@@ -152,6 +152,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [DataOps TestGen](https://github.com/DataKitchen/dataops-testgen) - Profiles tables, generates data quality tests, and monitors freshness, volume, and schema.
 * [Great Expectations](https://greatexpectations.io) - A Python data validation framework that allows to test your data against datasets.
 * [JSON Schema](https://json-schema.org/) - A vocabulary that allows you to annotate and validate JSON documents.
+* [kaggle-dataset-lint](https://github.com/tb91117/kaggle-dataset-pipelines) - Checks Kaggle dataset metadata against the data files and cover image before upload.
 * [TFDV](https://github.com/tensorflow/data-validation) - An library for exploring and validating machine learning data.
 
 ## Data Visualization
