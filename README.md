@@ -333,6 +333,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools for testing and validating models.*
 
+* [agentest](https://github.com/srpadmanabhuni/agentest) - Offline, deterministic agentic evals for AI agents: 165 tests of OpenTelemetry GenAI traces, A2A AgentCards and MCP tool lists, with no LLM judge.
 * [AIsbom](https://github.com/Lab700xOrg/aisbom) - Open source CLI to detect Pickle malware and license risks in PyTorch models.
 * [Deepchecks](https://github.com/deepchecks/deepchecks) - Open-source package for validating ML models & data, with various checks and suites.
 * [Starwhale](https://github.com/star-whale/starwhale) - An MLOps/LLMOps platform for model building, evaluation, and fine-tuning.
