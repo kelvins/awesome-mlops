@@ -147,6 +147,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Tools related to data validation.*
 
+* [agentsor-file](https://github.com/linkoinsight/agentsor-file) - Validate local CSV and Parquet schemas, check freshness, and monitor scheduled outputs for missed runs.
 * [Cerberus](https://github.com/pyeve/cerberus) - Lightweight, extensible data validation library for Python.
 * [Cleanlab](https://github.com/cleanlab/cleanlab) - Python library for data-centric AI and machine learning with messy, real-world data and labels.
 * [DataOps TestGen](https://github.com/DataKitchen/dataops-testgen) - Profiles tables, generates data quality tests, and monitors freshness, volume, and schema.
