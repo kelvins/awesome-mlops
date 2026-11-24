@@ -226,6 +226,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [aiWARE](https://www.veritone.com/aiware/aiware-os/) - aiWARE helps MLOps teams evaluate, deploy, integrate, scale & monitor ML models.
 * [Algorithmia](https://algorithmia.com/) - Securely govern your machine learning operations with a healthy ML lifecycle.
 * [Allegro AI](https://allegro.ai/) - Transform ML/DL research into products. Faster.
+* [Apidly Cloud](https://apidly.com/) - Managed GPU servers and serverless endpoints for training and serving models, billed by the second.
 * [Bodywork](https://bodywork.readthedocs.io/en/latest/) - Deploys machine learning projects developed in Python, to Kubernetes.
 * [CNVRG](https://cnvrg.io/) - An end-to-end machine learning platform to build and deploy AI models at scale.
 * [DAGsHub](https://dagshub.com/) - A platform built on open source tools for data, model and pipeline management.
