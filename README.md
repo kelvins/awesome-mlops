@@ -355,6 +355,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Nos](https://github.com/nebuly-ai/nos) - Open-source module for running AI workloads on Kubernetes in an optimized way.
 * [Petastorm](https://github.com/uber/petastorm) - Enables single machine or distributed training and evaluation of deep learning models.
 * [Rapids](https://rapids.ai/index.html) - Gives the ability to execute end-to-end data science and analytics pipelines entirely on GPUs.
+* [Ravex](https://github.com/gpuzero-dev/ravex) - Checkpoint and exact resume for PyTorch training from one decorator, with optimizer, scheduler, RNG and data position.
 * [Ray](https://github.com/ray-project/ray) - Fast and simple framework for building and running distributed applications.
 * [Singa](http://singa.apache.org/en/index.html) - Apache top level project, focusing on distributed training of DL and ML models.
 * [Tpot](https://github.com/EpistasisLab/tpot) - Automated ML tool that optimizes machine learning pipelines using genetic programming.
